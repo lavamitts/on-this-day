@@ -626,6 +626,11 @@
         "date": "1968-01-30",
         "event": "North Vietnamese and Viet Cong forces launched the Tet Offensive, a massive series of coordinated attacks across South Vietnam. Though a military failure for the North, it was a psychological victory that turned American public opinion sharply against the war.",
         "theme": "History"
+      },
+      {
+        "date": "1972-01-30",
+        "event": "Thirteen unarmed civilians were shot dead by members of the British Parachute Regiment during a civil rights march in Derry, an event known as Bloody Sunday. This tragedy led to a massive surge in recruitment for the Provisional IRA and the suspension of the Stormont Parliament.",
+        "theme": "History"
       }
     ]
   },

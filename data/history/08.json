@@ -251,6 +251,11 @@
                 "date": "1949-08-12",
                 "event": "The birth of Mark Knopfler, the virtuoso guitarist and lead singer of Dire Straits. Born in Glasgow, Knopfler became one of the most respected musicians in the UK, known for his unique fingerstyle technique and classic hits like 'Sultans of Swing.'",
                 "theme": "Culture"
+            },
+            {
+                "date": "1969-08-12",
+                "event": "The Battle of the Bogside broke out in Derry after a parade by the Apprentice Boys, leading to three days of intense rioting. This escalation prompted the British government to deploy the army onto the streets of Northern Ireland, marking the start of Operation Banner.",
+                "theme": "History"
             }
         ]
     },
