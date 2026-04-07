@@ -3,7 +3,7 @@ async function displayTodayEvent() {
     const now = new Date();
     const day = String(now.getDate()).padStart(2, '0');
     const month = String(now.getMonth() + 1).padStart(2, '0');
-    const todayKey = `${day}-${month}`; // Matches "07-04"
+    const todayKey = `${day}-${month}`;
 
     // 2. Define the path (This is where the 'undefined' error usually happens)
     const fileName = `${month}.json`;

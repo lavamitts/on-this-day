@@ -1,19 +1,17 @@
+
 async function displayTodayCalendarEvent() {
     // 1. Work out today's date
     const now = new Date();
     const day = String(now.getDate()).padStart(2, '0');
     const month = String(now.getMonth() + 1).padStart(2, '0');
     const year = now.getFullYear();
-    const todayKey = `${month}-${day}`; // Matches "04-07" format in your new files
+    const todayKey = `${day}-${month}`;
 
     // 2. Define the path 
     const fileName = `${month}.json`;
     const rootPath = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/';
     const baseUrl = rootPath + 'data/marquee/';
     const filePath = `${baseUrl}${fileName}`;
-    console.log("Before");
-    console.log(filePath);
-    console.log("After");
 
     try {
         const response = await fetch(filePath);
