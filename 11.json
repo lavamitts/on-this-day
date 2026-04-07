@@ -1,0 +1,602 @@
+[
+    {
+        "date": "11-01",
+        "events": [
+            {
+                "date": "1755-11-01",
+                "event": "The Lisbon earthquake occurs; the event was a key focus of UK Enlightenment studies.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-11-01",
+                "event": "The birth of Toni Collette; the actress's work is widely acclaimed in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1960-11-01",
+                "event": "The birth of Tim Cook; his leadership of Apple is central to UK technology.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "11-02",
+        "events": [
+            {
+                "date": "1917-11-02",
+                "event": "The Balfour Declaration expresses British support for a Jewish national home in Palestine.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1950-11-02",
+                "event": "The birth of George Bernard Shaw (Old Style date); his plays are a staple of UK theatre.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1966-11-02",
+                "event": "The birth of David Schwimmer; the actor's role in 'Friends' made him a UK household name.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-03",
+        "events": [
+            {
+                "date": "1957-11-03",
+                "event": "The launch of Sputnik 2 with the dog Laika; the mission was closely followed by British science.",
+                "theme": "Science"
+            },
+            {
+                "date": "1960-11-03",
+                "event": "The birth of Tilda Swinton, the acclaimed British actress.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1949-11-03",
+                "event": "The birth of Anna Wintour, the influential English fashion editor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-04",
+        "events": [
+            {
+                "date": "1922-11-04",
+                "event": "The discovery of Tutankhamun's tomb by Howard Carter.",
+                "theme": "History"
+            },
+            {
+                "date": "1969-11-04",
+                "event": "The birth of Matthew McConaughey; the actor's films are consistently popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1946-11-04",
+                "event": "The birth of Laura Bush; the First Lady's visits were major political events.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "11-05",
+        "events": [
+            {
+                "date": "1605-11-05",
+                "event": "The Gunpowder Plot: Guy Fawkes is caught beneath the House of Lords.",
+                "theme": "History"
+            },
+            {
+                "date": "1913-11-05",
+                "event": "The birth of Vivien Leigh, the legendary British actress.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1941-11-05",
+                "event": "The birth of Art Garfunkel; the artist's music is a staple of UK radio.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-06",
+        "events": [
+            {
+                "date": "1429-11-06",
+                "event": "The coronation of Henry VI as King of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1970-11-06",
+                "event": "The birth of Ethan Hawke; the actor's work is widely known in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1946-11-06",
+                "event": "The birth of Sally Field; the actress is a fixture of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-07",
+        "events": [
+            {
+                "date": "1867-11-07",
+                "event": "The birth of Marie Curie; her work on radioactivity was vital for British medicine.",
+                "theme": "Science"
+            },
+            {
+                "date": "1967-11-07",
+                "event": "The birth of David Guetta; the artist's music is a mainstay of UK dance charts.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1943-11-07",
+                "event": "The birth of Joni Mitchell; her music has had significant influence in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-08",
+        "events": [
+            {
+                "date": "1656-11-08",
+                "event": "The birth of Edmond Halley, the legendary British astronomer.",
+                "theme": "Science"
+            },
+            {
+                "date": "1960-11-08",
+                "event": "John F. Kennedy is elected President; the event was a major moment for UK relations.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1966-11-08",
+                "event": "The birth of Gordon Ramsay, the world-famous British chef.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-09",
+        "events": [
+            {
+                "date": "1989-11-09",
+                "event": "The fall of the Berlin Wall; the event marked the end of the Cold War, central to UK policy.",
+                "theme": "History"
+            },
+            {
+                "date": "1970-11-09",
+                "event": "The birth of Chris Jericho; the wrestler's work has many fans in the UK.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1941-11-09",
+                "event": "The birth of Tom Fogerty; the artist's music is widely popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-10",
+        "events": [
+            {
+                "date": "1918-11-10",
+                "event": "The birth of Ernst Otto Fischer; his work on organometallic chemistry is key to UK science.",
+                "theme": "Science"
+            },
+            {
+                "date": "1969-11-10",
+                "event": "The birth of Ellen Pompeo; the actress's work on 'Grey's Anatomy' is popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1483-11-10",
+                "event": "The birth of Martin Luther; the event was central to the Reformation and UK history.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "11-11",
+        "events": [
+            {
+                "date": "1918-11-11",
+                "event": "Armistice Day: World War I ends with the signing of the armistice.",
+                "theme": "History"
+            },
+            {
+                "date": "1974-11-11",
+                "event": "The birth of Leonardo DiCaprio; the actor's films are consistently popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1962-11-11",
+                "event": "The birth of Demi Moore; the actress is a fixture of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-12",
+        "events": [
+            {
+                "date": "1944-11-12",
+                "event": "The sinking of the Tirpitz by the RAF, a major naval victory.",
+                "theme": "History"
+            },
+            {
+                "date": "1980-11-12",
+                "event": "The birth of Ryan Gosling; the actor's films are widely popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1929-11-12",
+                "event": "The birth of Grace Kelly; her films and royal life were major UK news.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-13",
+        "events": [
+            {
+                "date": "1002-11-13",
+                "event": "The St. Brice's Day massacre of Danes in England.",
+                "theme": "History"
+            },
+            {
+                "date": "1955-11-13",
+                "event": "The birth of Whoopi Goldberg; the actress's work is widely known in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-11-13",
+                "event": "The birth of Jimmy Kimmel; the host's show reached the UK via online platforms.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-14",
+        "events": [
+            {
+                "date": "1948-11-14",
+                "event": "The birth of King Charles III at Buckingham Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1940-11-14",
+                "event": "The Coventry Blitz: The city is devastated by the Luftwaffe.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-11-14",
+                "event": "The birth of Josh Duhamel; the actor's films are popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-15",
+        "events": [
+            {
+                "date": "1577-11-15",
+                "event": "Sir Francis Drake sets out on his circumnavigation of the globe.",
+                "theme": "History"
+            },
+            {
+                "date": "1977-11-15",
+                "event": "The birth of Peter Phillips, the first grandchild of Queen Elizabeth II.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-11-15",
+                "event": "The birth of Jonny Lee Miller, the acclaimed British actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-16",
+        "events": [
+            {
+                "date": "1272-11-16",
+                "event": "Edward I ascends to the throne while on a crusade.",
+                "theme": "History"
+            },
+            {
+                "date": "1977-11-16",
+                "event": "The birth of Maggie Gyllenhaal; the actress's work is widely acclaimed in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-11-16",
+                "event": "The birth of Lisa Bonet; the actress's work is popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-17",
+        "events": [
+            {
+                "date": "1558-11-17",
+                "event": "Elizabeth I ascends to the throne, beginning the Elizabethan era.",
+                "theme": "History"
+            },
+            {
+                "date": "1978-11-17",
+                "event": "The birth of Rachel McAdams; the actress's films are widely popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1944-11-17",
+                "event": "The birth of Danny DeVito; the actor is a fixture of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-18",
+        "events": [
+            {
+                "date": "1928-11-18",
+                "event": "Mickey Mouse debuts in 'Steamboat Willie'; the character is a UK cultural icon.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1968-10-18",
+                "event": "The birth of Owen Wilson; the actor's films are popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1939-11-18",
+                "event": "The birth of Margaret Atwood; her work is central to UK literary study.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-19",
+        "events": [
+            {
+                "date": "1863-11-19",
+                "event": "The Gettysburg Address; the speech's ideals influenced British democratic thought.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1962-11-19",
+                "event": "The birth of Jodie Foster; the actress is widely acclaimed in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1961-11-19",
+                "event": "The birth of Meg Ryan; the actress's films are a mainstay of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-20",
+        "events": [
+            {
+                "date": "1947-11-20",
+                "event": "The wedding of Princess Elizabeth and Philip Mountbatten at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1942-11-20",
+                "event": "The birth of Joe Biden; the President's visits were major political events.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1912-11-20",
+                "event": "The birth of Otto von Habsburg; his work was a focus of UK European policy.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "11-21",
+        "events": [
+            {
+                "date": "1974-11-21",
+                "event": "The Birmingham pub bombings by the IRA, killing 21 people.",
+                "theme": "History"
+            },
+            {
+                "date": "1985-11-21",
+                "event": "The birth of Carly Rae Jepsen; the artist's music is popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1965-11-21",
+                "event": "The birth of Björk; the artist's work has had significant influence in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-22",
+        "events": [
+            {
+                "date": "1963-11-22",
+                "event": "The assassination of John F. Kennedy; the event was a major moment for UK relations.",
+                "theme": "History"
+            },
+            {
+                "date": "1990-11-22",
+                "event": "Margaret Thatcher resigns as Prime Minister.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1967-11-22",
+                "event": "The birth of Mark Ruffalo; the actor's films are widely popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-23",
+        "events": [
+            {
+                "date": "1963-11-23",
+                "event": "The first episode of 'Doctor Who' is broadcast on the BBC.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1992-11-23",
+                "event": "The birth of Miley Cyrus; the artist is a mainstay of UK pop culture.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1954-11-23",
+                "event": "The birth of Ross Brawn, the English motorsport engineer and executive.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "11-24",
+        "events": [
+            {
+                "date": "1859-11-24",
+                "event": "Charles Darwin publishes 'On the Origin of Species'.",
+                "theme": "Science"
+            },
+            {
+                "date": "1991-11-24",
+                "event": "The death of Freddie Mercury, the lead singer of Queen.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1978-11-24",
+                "event": "The birth of Katherine Heigl; the actress's films are popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-25",
+        "events": [
+            {
+                "date": "1120-11-25",
+                "event": "The White Ship sinks, killing the heir to the English throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1984-11-25",
+                "event": "The Band Aid single 'Do They Know It's Christmas?' is recorded in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1971-11-25",
+                "event": "The birth of Christina Applegate; the actress is widely known in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-26",
+        "events": [
+            {
+                "date": "1922-11-26",
+                "event": "Howard Carter and Lord Carnarvon enter the tomb of Tutankhamun.",
+                "theme": "History"
+            },
+            {
+                "date": "1939-11-26",
+                "event": "The birth of Tina Turner; the artist's concerts were major events in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1981-11-26",
+                "event": "The birth of Natasha Bedingfield, the English singer-songwriter.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-27",
+        "events": [
+            {
+                "date": "1703-11-27",
+                "event": "The Great Storm of 1703 peaks, the worst storm in British history.",
+                "theme": "History"
+            },
+            {
+                "date": "1951-11-27",
+                "event": "The birth of Kathryn Bigelow; the director's films are widely acclaimed in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1942-11-27",
+                "event": "The birth of Jimi Hendrix; the artist's work in London was transformative.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-28",
+        "events": [
+            {
+                "date": "1990-11-28",
+                "event": "John Major becomes Prime Minister following Margaret Thatcher's resignation.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1967-11-28",
+                "event": "The birth of Anna Nicole Smith; the model's life was major news in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1950-11-28",
+                "event": "The birth of Ed Harris; the actor is a fixture of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-29",
+        "events": [
+            {
+                "date": "1872-11-29",
+                "event": "The death of Horace Greeley; though American, his journalism was followed in the UK.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1976-11-29",
+                "event": "The birth of Anna Faris; the actress's films are popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1964-11-29",
+                "event": "The birth of Don Cheadle; the actor's films are widely popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "11-30",
+        "events": [
+            {
+                "date": "1874-11-30",
+                "event": "The birth of Winston Churchill at Blenheim Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1982-11-30",
+                "event": "Michael Jackson releases 'Thriller'; the album is a cultural phenomenon in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1985-11-30",
+                "event": "The birth of Kaley Cuoco; the actress's work on 'The Big Bang Theory' is popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    }
+]

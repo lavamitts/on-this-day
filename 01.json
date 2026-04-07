@@ -1,0 +1,622 @@
+[
+  {
+    "date": "01-01",
+    "events": [
+      {
+        "date": "1707-01-01",
+        "event": "The Acts of Union come into effect, joining the Kingdoms of England and Scotland into Great Britain.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1801-01-01",
+        "event": "The United Kingdom of Great Britain and Ireland is established as the Act of Union 1800 takes effect.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1927-01-01",
+        "event": "The British Broadcasting Corporation is established by Royal Charter.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "02-01",
+    "events": [
+      {
+        "date": "1860-01-02",
+        "event": "The discovery of the planet Vulcan is announced at the French Academy of Sciences; British astronomers later spend years debating its existence.",
+        "theme": "Science"
+      },
+      {
+        "date": "1905-01-02",
+        "event": "The birth of Michael Tippett, the renowned British composer of 'A Child of Our Time'.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1971-01-02",
+        "event": "The Ibrox Disaster occurs in Glasgow, leading to a major safety review in British football stadiums.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "03-01",
+    "events": [
+      {
+        "date": "1892-01-03",
+        "event": "The birth of J.R.R. Tolkien, the author of 'The Lord of the Rings' and Oxford professor.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1924-01-03",
+        "event": "British explorer Howard Carter discovers the sarcophagus of Tutankhamun in the Valley of the Kings.",
+        "theme": "History"
+      },
+      {
+        "date": "1945-01-03",
+        "event": "Admiral Sir Bertram Ramsay, architect of the Dunkirk evacuation, dies in a plane crash.",
+        "theme": "History"
+      }
+    ]
+  },
+  {
+    "date": "04-01",
+    "events": [
+      {
+        "date": "1643-01-04",
+        "event": "The birth of Sir Isaac Newton in Lincolnshire, a foundational figure in physics and mathematics.",
+        "theme": "Science"
+      },
+      {
+        "date": "1967-01-04",
+        "event": "Donald Campbell dies on Coniston Water whilst attempting the world water speed record in Bluebird K7.",
+        "theme": "Sport"
+      },
+      {
+        "date": "2006-01-04",
+        "event": "The final episode of 'Top of the Pops' is recorded before its cancellation as a weekly programme.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "05-01",
+    "events": [
+      {
+        "date": "1066-01-05",
+        "event": "The death of Edward the Confessor, which leads to the succession crisis and the Norman Conquest.",
+        "theme": "History"
+      },
+      {
+        "date": "1930-01-05",
+        "event": "The birth of Edward Bond, the influential and often controversial British playwright.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1971-01-05",
+        "event": "The first ever One Day International cricket match is played between Australia and England.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "06-01",
+    "events": [
+      {
+        "date": "1066-01-06",
+        "event": "Harold Godwinson is crowned King of England following the death of Edward the Confessor.",
+        "theme": "History"
+      },
+      {
+        "date": "1540-01-06",
+        "event": "King Henry VIII marries his fourth wife, Anne of Cleves.",
+        "theme": "History"
+      },
+      {
+        "date": "1913-01-06",
+        "event": "The birth of Loretta Young; the Hollywood actress was a popular figure for British cinema audiences.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "07-01",
+    "events": [
+      {
+        "date": "1558-01-07",
+        "event": "France retakes Calais, the last continental possession of the Kingdom of England.",
+        "theme": "History"
+      },
+      {
+        "date": "1889-01-07",
+        "event": "The birth of George Simon, Earl of Athlone, a member of the British Royal Family and Governor General of Canada.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1990-01-07",
+        "event": "The Leaning Tower of Pisa is closed to the public for safety; the news is a major topic in the British press.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "08-01",
+    "events": [
+      {
+        "date": "1885-01-08",
+        "event": "The birth of John Curtin, the Australian Prime Minister who led during WWII and maintained close ties to the UK.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1942-01-08",
+        "event": "The birth of Stephen Hawking in Oxford, one of the most brilliant theoretical physicists of the modern era.",
+        "theme": "Science"
+      },
+      {
+        "date": "1947-01-08",
+        "event": "The birth of David Bowie in Brixton, a transformative figure in British music and culture.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "09-01",
+    "events": [
+      {
+        "date": "1799-01-09",
+        "event": "British Prime Minister William Pitt the Younger introduces income tax to help fund the Napoleonic Wars.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1806-01-09",
+        "event": "The funeral of Lord Nelson takes place at St Paul's Cathedral following his victory at Trafalgar.",
+        "theme": "History"
+      },
+      {
+        "date": "1913-01-09",
+        "event": "The birth of Richard Nixon; the President's interactions with UK leaders remain a point of historical study.",
+        "theme": "Politics"
+      }
+    ]
+  },
+  {
+    "date": "10-01",
+    "events": [
+      {
+        "date": "1840-01-10",
+        "event": "The Penny Post is introduced in the UK, revolutionising communication by making mail affordable.",
+        "theme": "History"
+      },
+      {
+        "date": "1863-01-10",
+        "event": "The Metropolitan Railway, the world's first underground railway, opens between Paddington and Farringdon.",
+        "theme": "Science"
+      },
+      {
+        "date": "1946-01-10",
+        "event": "The first General Assembly of the United Nations opens in London.",
+        "theme": "Politics"
+      }
+    ]
+  },
+  {
+    "date": "11-01",
+    "events": [
+      {
+        "date": "1753-01-11",
+        "event": "The death of Sir Hans Sloane, whose vast collection founded the British Museum.",
+        "theme": "History"
+      },
+      {
+        "date": "1973-01-11",
+        "event": "The Open University awards its first degrees, marking a milestone in British higher education.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1957-01-11",
+        "event": "The birth of Bryan Robson, the legendary England and Manchester United footballer.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "12-01",
+    "events": [
+      {
+        "date": "1559-01-12",
+        "event": "Elizabeth I travels from the Tower of London to Westminster Abbey for her coronation.",
+        "theme": "History"
+      },
+      {
+        "date": "1959-01-12",
+        "event": "Motown Records is founded; its music would go on to have a profound influence on British pop culture.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1976-01-12",
+        "event": "The death of Dame Agatha Christie, the world-renowned British crime novelist.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "13-01",
+    "events": [
+      {
+        "date": "1691-01-13",
+        "event": "The death of George Fox, the founder of the Religious Society of Friends (Quakers) in England.",
+        "theme": "History"
+      },
+      {
+        "date": "1893-01-13",
+        "event": "The Independent Labour Party holds its first meeting in Bradford, chaired by Keir Hardie.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1968-01-13",
+        "event": "The first episode of 'The David Frost Show' airs, becoming a staple of British television journalism.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "14-01",
+    "events": [
+      {
+        "date": "1898-01-14",
+        "event": "The death of Lewis Carroll, author of 'Alice's Adventures in Wonderland' and Oxford academic.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1905-01-14",
+        "event": "The birth of Mark Oliphant, the Australian-British physicist who played a key role in the development of radar.",
+        "theme": "Science"
+      },
+      {
+        "date": "1954-01-14",
+        "event": "The birth of Jim Duggan; while American, his wrestling career was widely broadcast on British TV screens.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "15-01",
+    "events": [
+      {
+        "date": "1559-01-15",
+        "event": "Elizabeth I is crowned Queen of England in Westminster Abbey.",
+        "theme": "History"
+      },
+      {
+        "date": "1759-01-15",
+        "event": "The British Museum opens its doors to the public for the first time.",
+        "theme": "History"
+      },
+      {
+        "date": "1965-01-15",
+        "event": "The birth of James Nesbitt, the celebrated Northern Irish actor.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "16-01",
+    "events": [
+      {
+        "date": "1547-01-16",
+        "event": "Ivan the Terrible is crowned Tsar of Russia; Anglo-Russian trade relations begin to develop shortly after.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1945-01-16",
+        "event": "The birth of Wim Duisenberg; the economist's work on the Euro had significant political implications for the UK.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1981-01-16",
+        "event": "The birth of Bobby Zamora, the former England and West Ham United striker.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "17-01",
+    "events": [
+      {
+        "date": "1706-01-17",
+        "event": "The birth of Benjamin Franklin, who spent many years in London as a diplomat for the American colonies.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1773-01-17",
+        "event": "Captain James Cook becomes the first European to cross the Antarctic Circle.",
+        "theme": "Science"
+      },
+      {
+        "date": "1955-01-17",
+        "event": "The birth of Steve Earle; the musician's folk and country influence is widely felt in the UK music scene.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "18-01",
+    "events": [
+      {
+        "date": "1882-01-18",
+        "event": "The birth of A.A. Milne, the author of the 'Winnie-the-Pooh' books.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1915-01-18",
+        "event": "The birth of Peter Smithson, the influential British architect behind New Brutalism.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1971-01-18",
+        "event": "The birth of Pep Guardiola; the manager's impact on British football through Manchester City is monumental.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "19-01",
+    "events": [
+      {
+        "date": "1736-01-19",
+        "event": "The birth of James Watt, the Scottish engineer whose steam engine improvements drove the Industrial Revolution.",
+        "theme": "Science"
+      },
+      {
+        "date": "1813-01-19",
+        "event": "The birth of Sir Henry Bessemer, the engineer who developed the first process for mass-producing steel.",
+        "theme": "Science"
+      },
+      {
+        "date": "1980-01-19",
+        "event": "The birth of Jenson Button, the 2009 Formula One World Champion from Somerset.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "20-01",
+    "events": [
+      {
+        "date": "1265-01-20",
+        "event": "Simon de Montfort summons the first parliament to include commoners as well as nobles.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1936-01-20",
+        "event": "The death of King George V and the accession of Edward VIII.",
+        "theme": "History"
+      },
+      {
+        "date": "1971-01-20",
+        "event": "The birth of Gary Barlow, the singer-songwriter and member of the British group Take That.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "21-01",
+    "events": [
+      {
+        "date": "1648-01-21",
+        "event": "The birth of John Sheffield, 1st Duke of Buckingham and Normanby, a prominent Tory politician and poet.",
+        "theme": "History"
+      },
+      {
+        "date": "1924-01-21",
+        "event": "The birth of Benny Hill, the comedian whose variety show was a staple of British TV for decades.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1975-01-21",
+        "event": "The birth of Nicky Butt, the decorated England and Manchester United midfielder.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "22-01",
+    "events": [
+      {
+        "date": "1561-01-22",
+        "event": "The birth of Francis Bacon, the English philosopher and statesman who developed the scientific method.",
+        "theme": "Science"
+      },
+      {
+        "date": "1879-01-22",
+        "event": "The Battle of Rorke's Drift begins, a famous engagement during the Anglo-Zulu War.",
+        "theme": "History"
+      },
+      {
+        "date": "1901-01-22",
+        "event": "The death of Queen Victoria after a reign of nearly 64 years.",
+        "theme": "History"
+      }
+    ]
+  },
+  {
+    "date": "23-01",
+    "events": [
+      {
+        "date": "1571-01-23",
+        "event": "The Royal Exchange in London is opened by Queen Elizabeth I.",
+        "theme": "History"
+      },
+      {
+        "date": "1806-01-23",
+        "event": "The death of William Pitt the Younger, the youngest person to serve as British Prime Minister.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1919-01-23",
+        "event": "The birth of Bob Paisley, the most successful manager in the history of Liverpool Football Club.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "24-01",
+    "events": [
+      {
+        "date": "1943-01-24",
+        "event": "Franklin D. Roosevelt and Winston Churchill conclude the Casablanca Conference during WWII.",
+        "theme": "Politics"
+      },
+      {
+        "date": "1965-01-24",
+        "event": "The death of Sir Winston Churchill, Britain's wartime Prime Minister.",
+        "theme": "History"
+      },
+      {
+        "date": "1986-01-24",
+        "event": "The 'Wapping Dispute' begins as Rupert Murdoch moves production of his newspapers to a new high-tech plant.",
+        "theme": "Politics"
+      }
+    ]
+  },
+  {
+    "date": "25-01",
+    "events": [
+      {
+        "date": "1533-01-25",
+        "event": "Henry VIII secretly marries Anne Boleyn, his second wife.",
+        "theme": "History"
+      },
+      {
+        "date": "1759-01-25",
+        "event": "The birth of Robert Burns, the celebrated national poet of Scotland.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1981-01-25",
+        "event": "The 'Gang of Four' issues the Limehouse Declaration, leading to the formation of the Social Democratic Party.",
+        "theme": "Politics"
+      }
+    ]
+  },
+  {
+    "date": "26-01",
+    "events": [
+      {
+        "date": "1788-01-26",
+        "event": "The First Fleet arrives at Sydney Cove, led by British Admiral Arthur Phillip.",
+        "theme": "History"
+      },
+      {
+        "date": "1885-01-26",
+        "event": "The death of General Charles George Gordon during the Siege of Khartoum.",
+        "theme": "History"
+      },
+      {
+        "date": "1963-01-26",
+        "event": "The birth of Andrew Ridgeley, member of the hugely successful British pop duo Wham!.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "27-01",
+    "events": [
+      {
+        "date": "1756-01-27",
+        "event": "The birth of Wolfgang Amadeus Mozart; he performed in London as a child prodigy in 1764.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1832-01-27",
+        "event": "The birth of Lewis Carroll (Charles Lutwidge Dodgson) in Cheshire.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1979-01-27",
+        "event": "The birth of Rosamund Pike, the internationally acclaimed British actress.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "28-01",
+    "events": [
+      {
+        "date": "1547-01-28",
+        "event": "The death of King Henry VIII and the accession of his son, Edward VI.",
+        "theme": "History"
+      },
+      {
+        "date": "1813-01-28",
+        "event": "Jane Austen's 'Pride and Prejudice' is published anonymously in London.",
+        "theme": "Culture"
+      },
+      {
+        "date": "1978-01-28",
+        "event": "The birth of Jamie Carragher, the long-serving Liverpool and England defender.",
+        "theme": "Sport"
+      }
+    ]
+  },
+  {
+    "date": "29-01",
+    "events": [
+      {
+        "date": "1856-01-29",
+        "event": "Queen Victoria institutes the Victoria Cross, the highest award for bravery in the British armed forces.",
+        "theme": "History"
+      },
+      {
+        "date": "1888-01-29",
+        "event": "The birth of Sydney Chapman, the British geophysicist who made major contributions to the study of the ozone layer.",
+        "theme": "Science"
+      },
+      {
+        "date": "1942-01-29",
+        "event": "The first broadcast of 'Desert Island Discs' on the BBC Home Service.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "30-01",
+    "events": [
+      {
+        "date": "1649-01-30",
+        "event": "King Charles I is executed outside the Banqueting House in Whitehall.",
+        "theme": "History"
+      },
+      {
+        "date": "1965-01-30",
+        "event": "The state funeral of Sir Winston Churchill is held at St Paul's Cathedral.",
+        "theme": "History"
+      },
+      {
+        "date": "1974-01-30",
+        "event": "The birth of Olivia Colman, the Academy Award-winning British actress.",
+        "theme": "Culture"
+      }
+    ]
+  },
+  {
+    "date": "31-01",
+    "events": [
+      {
+        "date": "1606-01-31",
+        "event": "Guy Fawkes is executed for his part in the Gunpowder Plot.",
+        "theme": "History"
+      },
+      {
+        "date": "1788-01-31",
+        "event": "The death of Charles Edward Stuart (Bonnie Prince Charlie), the Jacobite pretender to the British throne.",
+        "theme": "History"
+      },
+      {
+        "date": "1983-01-31",
+        "event": "The launch of 'Breakfast Time' on BBC One, the UK's first regular breakfast television programme.",
+        "theme": "Culture"
+      }
+    ]
+  }
+]

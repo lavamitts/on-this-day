@@ -1,0 +1,582 @@
+[
+    {
+        "date": "01-02",
+        "events": [
+            {
+                "date": "1901-02-01",
+                "event": "The body of Queen Victoria is carried into Portsmouth harbour on the royal yacht Alberta.",
+                "theme": "History"
+            },
+            {
+                "date": "1910-02-01",
+                "event": "The British Labour Exchange, the precursor to the Jobcentre, opens for the first time.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1958-02-01",
+                "event": "The birth of Jackie Charlton, the legendary England World Cup winner and football manager.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "02-02",
+        "events": [
+            {
+                "date": "1665-02-02",
+                "event": "British forces capture New Amsterdam, later renamed New York in honour of the Duke of York.",
+                "theme": "History"
+            },
+            {
+                "date": "1882-02-02",
+                "event": "The birth of James Joyce; the Irish author's 'Ulysses' had a monumental impact on British literature.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1935-02-02",
+                "event": "The first public test of Robert Watson-Watt's radar system takes place near Daventry.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "03-02",
+        "events": [
+            {
+                "date": "1730-02-03",
+                "event": "The London Daily Advertiser publishes the first ever stock exchange quotations.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1945-02-03",
+                "event": "The birth of Johnny Bragg; though American, his work influenced the UK's early rock and roll scene.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1960-02-03",
+                "event": "British Prime Minister Harold Macmillan makes the 'Wind of Change' speech in South Africa.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "04-02",
+        "events": [
+            {
+                "date": "1884-02-04",
+                "event": "The birth of Archibald MacLeish; the poet's work was widely read in academic circles across the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1926-02-04",
+                "event": "Malcolm Campbell sets a new world land speed record of 174 mph at Pendine Sands, Wales.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1962-02-04",
+                "event": "The Sunday Times Magazine is published for the first time, revolutionising British supplements.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-02",
+        "events": [
+            {
+                "date": "1782-02-05",
+                "event": "Spanish and French forces defeat the British at the capture of Minorca.",
+                "theme": "History"
+            },
+            {
+                "date": "1924-02-05",
+                "event": "The Royal Greenwich Observatory begins broadcasting the Greenwich Time Signal (the 'pips').",
+                "theme": "Science"
+            },
+            {
+                "date": "1958-02-05",
+                "event": "Parking meters are first installed in the UK, appearing on the streets of Mayfair, London.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-02",
+        "events": [
+            {
+                "date": "1783-02-06",
+                "event": "Death of Lancelot 'Capability' Brown, the architect of Britain's most famous landscaped estates.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1952-02-06",
+                "event": "The death of King George VI and the accession of Queen Elizabeth II to the throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1958-02-06",
+                "event": "The Munich Air Disaster occurs, resulting in the deaths of eight Manchester United players.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "07-02",
+        "events": [
+            {
+                "date": "1301-02-07",
+                "event": "Edward of Caernarvon becomes the first English Prince of Wales.",
+                "theme": "History"
+            },
+            {
+                "date": "1812-02-07",
+                "event": "The birth of Charles Dickens in Portsmouth, the prolific chronicler of Victorian London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1991-02-07",
+                "event": "An IRA mortar attack on 10 Downing Street takes place during a Cabinet meeting.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "08-02",
+        "events": [
+            {
+                "date": "1587-02-08",
+                "event": "Mary, Queen of Scots, is beheaded at Fotheringhay Castle on the orders of Elizabeth I.",
+                "theme": "History"
+            },
+            {
+                "date": "1904-02-08",
+                "event": "The birth of Addie McPhail; the actress was a familiar face in UK cinemas during the Golden Age.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1924-02-08",
+                "event": "The first execution by lethal gas in the US is reported widely as a curiosity in the British press.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-02",
+        "events": [
+            {
+                "date": "1964-02-09",
+                "event": "The Beatles perform on the Ed Sullivan Show, cementing their international fame.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1981-02-09",
+                "event": "The birth of Tom Hiddleston, the acclaimed British stage and screen actor.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1996-02-09",
+                "event": "An IRA bomb explodes in London's Docklands, ending a seventeen-month ceasefire.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "10-02",
+        "events": [
+            {
+                "date": "1354-02-10",
+                "event": "The St Scholastica's Day riot breaks out between students and locals in Oxford.",
+                "theme": "History"
+            },
+            {
+                "date": "1840-02-10",
+                "event": "Queen Victoria marries Prince Albert of Saxe-Coburg and Gotha at St James's Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1894-02-10",
+                "event": "The birth of Harold Macmillan, British Prime Minister who led during the post-war boom.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "11-02",
+        "events": [
+            {
+                "date": "1975-02-11",
+                "event": "Margaret Thatcher is elected as the first female leader of the Conservative Party.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1990-02-11",
+                "event": "Nelson Mandela is released from prison; the news is celebrated across the UK.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1934-02-11",
+                "event": "The birth of John Surtees, the only person to win World Championships on both two and four wheels.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "12-02",
+        "events": [
+            {
+                "date": "1554-02-12",
+                "event": "Lady Jane Grey, the 'Nine Days' Queen', is executed at the Tower of London.",
+                "theme": "History"
+            },
+            {
+                "date": "1809-02-12",
+                "event": "The birth of Charles Darwin in Shrewsbury, the naturalist who proposed the theory of evolution.",
+                "theme": "Science"
+            },
+            {
+                "date": "1923-02-12",
+                "event": "The first public broadcast of 'The News' by the BBC in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "13-02",
+        "events": [
+            {
+                "date": "1689-02-13",
+                "event": "The Declaration of Right is read out, confirming William and Mary as joint monarchs.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1692-02-13",
+                "event": "The Massacre of Glencoe takes place in the Scottish Highlands.",
+                "theme": "History"
+            },
+            {
+                "date": "1974-02-13",
+                "event": "The birth of Robbie Williams, the record-breaking British singer-songwriter.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "14-02",
+        "events": [
+            {
+                "date": "1779-02-14",
+                "event": "The death of Captain James Cook during a skirmish in Hawaii.",
+                "theme": "History"
+            },
+            {
+                "date": "1933-02-14",
+                "event": "The Oxford Union carries the motion 'that this House will in no circumstances fight for its King and Country'.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1984-02-14",
+                "event": "Torvill and Dean win Olympic Gold for their Bolero routine, watched by 24 million British viewers.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "15-02",
+        "events": [
+            {
+                "date": "1922-02-15",
+                "event": "The birth of John Anderson, the British character actor known for his work in theatre and television.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1971-02-15",
+                "event": "Decimal Day: Britain officially switches to a decimal currency system.",
+                "theme": "History"
+            },
+            {
+                "date": "2003-02-15",
+                "event": "The largest protest in UK history takes place in London against the impending Iraq War.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "16-02",
+        "events": [
+            {
+                "date": "1659-02-16",
+                "event": "The first ever recorded cheque in Britain is drawn for the sum of £400.",
+                "theme": "History"
+            },
+            {
+                "date": "1822-02-16",
+                "event": "The birth of Sir Francis Galton, the polymath who founded modern statistics and meteorology.",
+                "theme": "Science"
+            },
+            {
+                "date": "1903-02-16",
+                "event": "The birth of Edgar Bergen; his ventriloquism was a major hit with UK radio listeners.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "17-02",
+        "events": [
+            {
+                "date": "1461-02-17",
+                "event": "The Second Battle of St Albans takes place during the Wars of the Roses.",
+                "theme": "History"
+            },
+            {
+                "date": "1673-02-17",
+                "event": "Moliere dies after a performance; his plays remain central to British theatrical education.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1972-02-17",
+                "event": "The European Communities Act passes in the House of Commons.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "18-02",
+        "events": [
+            {
+                "date": "1478-02-18",
+                "event": "George, Duke of Clarence, is executed at the Tower, reportedly drowned in a butt of malmsey wine.",
+                "theme": "History"
+            },
+            {
+                "date": "1516-02-18",
+                "event": "The birth of Mary I, the first queen regnant of England, in Greenwich.",
+                "theme": "History"
+            },
+            {
+                "date": "1933-02-18",
+                "event": "The birth of Sir Bobby Robson, the beloved England football manager and mentor.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "19-02",
+        "events": [
+            {
+                "date": "1855-02-19",
+                "event": "The bread riots in Liverpool occur due to food shortages and high prices.",
+                "theme": "History"
+            },
+            {
+                "date": "1924-02-19",
+                "event": "The birth of Lee Marvin; the American star was a favourite in UK action cinema.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1960-02-19",
+                "event": "The birth of Prince Andrew, Duke of York, at Buckingham Palace.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "20-02",
+        "events": [
+            {
+                "date": "1547-02-20",
+                "event": "The coronation of Edward VI takes place at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1938-02-20",
+                "event": "Anthony Eden resigns as Foreign Secretary in protest against Neville Chamberlain's appeasement policy.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1971-02-20",
+                "event": "The birth of Jari Litmanen; his career at Liverpool brought him to prominence for UK fans.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "21-02",
+        "events": [
+            {
+                "date": "1804-02-21",
+                "event": "Richard Trevithick's steam locomotive makes its first run on the Pen-y-Darren ironworks railway.",
+                "theme": "Science"
+            },
+            {
+                "date": "1848-02-21",
+                "event": "The Communist Manifesto is published in London by Karl Marx and Friedrich Engels.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1946-02-21",
+                "event": "The birth of Alan Rickman in Hammersmith, the iconic stage and film actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "22-02",
+        "events": [
+            {
+                "date": "1797-02-22",
+                "event": "The Battle of Fishguard begins, the last invasion of mainland Britain by French troops.",
+                "theme": "History"
+            },
+            {
+                "date": "1924-02-22",
+                "event": "The birth of Margaret Wiggin; the writer's work was central to British home and lifestyle magazines.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1997-02-22",
+                "event": "Scientists in Scotland announce the successful cloning of Dolly the sheep.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "23-02",
+        "events": [
+            {
+                "date": "1821-02-23",
+                "event": "The death of the English Romantic poet John Keats in Rome.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1863-02-23",
+                "event": "Lake Victoria is declared the source of the Nile by British explorer John Speke.",
+                "theme": "Science"
+            },
+            {
+                "date": "1965-02-23",
+                "event": "The birth of Helena Bonham Carter, the distinguished British character actress.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "24-02",
+        "events": [
+            {
+                "date": "1923-02-24",
+                "event": "The steam locomotive Flying Scotsman begins its official service.",
+                "theme": "History"
+            },
+            {
+                "date": "1932-02-24",
+                "event": "The birth of Michel Legrand; the composer's cinematic scores were highly influential in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1981-02-24",
+                "event": "The engagement of Prince Charles and Lady Diana Spencer is officially announced.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "25-02",
+        "events": [
+            {
+                "date": "1570-02-25",
+                "event": "Pope Pius V excommunicates Queen Elizabeth I of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1723-02-25",
+                "event": "The death of Sir Christopher Wren, the architect of St Paul's Cathedral.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1943-02-25",
+                "event": "The birth of George Harrison in Liverpool, the lead guitarist of The Beatles.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "26-02",
+        "events": [
+            {
+                "date": "1797-02-26",
+                "event": "The Bank of England issues the first ever one pound note.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1935-02-26",
+                "event": "Robert Watson-Watt and Arnold Wilkins demonstrate the first practical radar system.",
+                "theme": "Science"
+            },
+            {
+                "date": "1973-02-26",
+                "event": "The birth of Ole Gunnar Solskjaer; his impact as a player and manager at Manchester United is well known.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "27-02",
+        "events": [
+            {
+                "date": "1782-02-27",
+                "event": "The British Parliament votes to abandon further military operations in the American War of Independence.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1900-02-27",
+                "event": "The Labour Representation Committee, later the Labour Party, is founded in London.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1967-02-27",
+                "event": "The birth of Jonathan Ive, the British designer responsible for many iconic Apple products.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "28-02",
+        "events": [
+            {
+                "date": "1900-02-28",
+                "event": "The Relief of Ladysmith takes place during the Second Boer War.",
+                "theme": "History"
+            },
+            {
+                "date": "1953-02-28",
+                "event": "Francis Crick and James Watson announce they have discovered the chemical structure of DNA.",
+                "theme": "Science"
+            },
+            {
+                "date": "1985-02-28",
+                "event": "The birth of Jelena Jankovic; the tennis star's matches were a staple of Wimbledon coverage.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "29-02",
+        "events": [
+            {
+                "date": "1704-02-29",
+                "event": "French and Native American forces attack Deerfield, Massachusetts; the news impacts British colonial policy.",
+                "theme": "History"
+            },
+            {
+                "date": "1940-02-29",
+                "event": "Hattie McDaniel becomes the first African American to win an Oscar; the event is a milestone discussed in UK film history.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1968-02-29",
+                "event": "The British government passes the Commonwealth Immigrants Act 1968.",
+                "theme": "Politics"
+            }
+        ]
+    }
+]

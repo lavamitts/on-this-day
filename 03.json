@@ -1,0 +1,622 @@
+[
+    {
+        "date": "01-03",
+        "events": [
+            {
+                "date": "1872-03-01",
+                "event": "Yellowstone becomes the world's first national park; the concept inspires later British conservation efforts.",
+                "theme": "Science"
+            },
+            {
+                "date": "1958-03-01",
+                "event": "The birth of Nik Kershaw, the prominent British musician and songwriter of the 1980s.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1979-03-01",
+                "event": "Referendums in Scotland and Wales result in a lack of support for devolution at that time.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "02-03",
+        "events": [
+            {
+                "date": "1791-03-02",
+                "event": "The death of John Wesley, the English theologian and founder of Methodism.",
+                "theme": "History"
+            },
+            {
+                "date": "1968-03-02",
+                "event": "The birth of Daniel Craig, the actor famous for his portrayal of James Bond.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1969-03-02",
+                "event": "The Anglo-French supersonic airliner Concorde makes its maiden flight.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "03-03",
+        "events": [
+            {
+                "date": "1847-03-03",
+                "event": "The birth of Alexander Graham Bell in Edinburgh, the inventor of the telephone.",
+                "theme": "Science"
+            },
+            {
+                "date": "1985-03-03",
+                "event": "The UK miners' strike ends as the National Union of Mineworkers votes to return to work.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1953-03-03",
+                "event": "The coronation of King Faisal II of Iraq is attended by high-ranking British officials.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "04-03",
+        "events": [
+            {
+                "date": "1193-03-04",
+                "event": "The death of Saladin; his chivalry during the Crusades remains a topic of study in British history.",
+                "theme": "History"
+            },
+            {
+                "date": "1681-03-04",
+                "event": "King Charles II grants a charter to William Penn for what would become Pennsylvania.",
+                "theme": "History"
+            },
+            {
+                "date": "1951-03-04",
+                "event": "The birth of Kenny Dalglish, the highly decorated Scotland and Liverpool footballer and manager.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "05-03",
+        "events": [
+            {
+                "date": "1827-03-05",
+                "event": "The death of Pierre-Simon Laplace; his mathematical work was vital to British astronomical calculations.",
+                "theme": "Science"
+            },
+            {
+                "date": "1936-03-05",
+                "event": "The Supermarine Spitfire makes its first test flight at Eastleigh Aerodrome.",
+                "theme": "Science"
+            },
+            {
+                "date": "1946-03-05",
+                "event": "Winston Churchill gives the 'Iron Curtain' speech in Fulton, Missouri.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "06-03",
+        "events": [
+            {
+                "date": "1836-03-06",
+                "event": "The Battle of the Alamo ends; the event was widely reported in the British press of the time.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-03-06",
+                "event": "The birth of Dame Kiri Te Kanawa; the New Zealand soprano's career is closely tied to the UK's Royal Opera House.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1987-03-06",
+                "event": "The MS Herald of Free Enterprise capsizes off Zeebrugge, resulting in 193 deaths.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "07-03",
+        "events": [
+            {
+                "date": "1802-03-07",
+                "event": "The birth of Edwin Landseer, the painter known for his depictions of animals and the lions at Trafalgar Square.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1924-03-07",
+                "event": "The birth of Eduardo Paolozzi, the Scottish artist and sculptor who pioneered pop art.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1970-03-07",
+                "event": "The birth of Rachel Weisz, the Academy Award-winning British actress.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "08-03",
+        "events": [
+            {
+                "date": "1702-03-08",
+                "event": "The death of William III and the accession of Queen Anne to the British throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1904-03-08",
+                "event": "The first meeting of the British Ladies' Football Club is held in London.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1994-03-08",
+                "event": "The birth of Jordan Pickford, the current England national team goalkeeper.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "09-03",
+        "events": [
+            {
+                "date": "1566-03-09",
+                "event": "David Rizzio, the secretary to Mary, Queen of Scots, is murdered at Holyrood Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1776-03-09",
+                "event": "Adam Smith's 'The Wealth of Nations' is published in London.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1958-03-09",
+                "event": "The birth of Linda Robson, the popular British actress and television presenter.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "10-03",
+        "events": [
+            {
+                "date": "1863-03-10",
+                "event": "The Prince of Wales (later Edward VII) marries Princess Alexandra of Denmark at Windsor.",
+                "theme": "History"
+            },
+            {
+                "date": "1886-03-10",
+                "event": "Crufts Dog Show is held in London for the first time.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1964-03-10",
+                "event": "The birth of Prince Edward, Earl of Wessex, at Buckingham Palace.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "11-03",
+        "events": [
+            {
+                "date": "1858-03-11",
+                "event": "The Indian Mutiny ends; the conflict significantly altered British rule in India.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1952-03-11",
+                "event": "The birth of Douglas Adams in Cambridge, author of 'The Hitchhiker's Guide to the Galaxy'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1978-03-11",
+                "event": "The birth of Didier Drogba; the Chelsea player's career is a major part of British football history.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "12-03",
+        "events": [
+            {
+                "date": "1904-03-12",
+                "event": "The first mainline electric train in the UK runs from Liverpool to Southport.",
+                "theme": "Science"
+            },
+            {
+                "date": "1910-03-12",
+                "event": "The birth of Laszlo L. Berke; the scientist's contributions to aviation were studied by British engineers.",
+                "theme": "Science"
+            },
+            {
+                "date": "1946-03-12",
+                "event": "The birth of Liza Minnelli; her performances in London remain legendary in the UK theatre world.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "13-03",
+        "events": [
+            {
+                "date": "1781-03-13",
+                "event": "Sir William Herschel discovers the planet Uranus from his garden in Bath.",
+                "theme": "Science"
+            },
+            {
+                "date": "1854-03-13",
+                "event": "The birth of Sir Thomas Adams; the philanthropist's work supported many British social initiatives.",
+                "theme": "History"
+            },
+            {
+                "date": "1996-03-13",
+                "event": "The Dunblane school massacre takes place, leading to a major ban on handguns in the UK.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "14-03",
+        "events": [
+            {
+                "date": "1757-03-14",
+                "event": "Admiral John Byng is executed on HMS Monarch for 'failing to do his utmost' at the Battle of Minorca.",
+                "theme": "History"
+            },
+            {
+                "date": "1879-03-14",
+                "event": "The birth of Albert Einstein; his theories were famously tested by British astronomer Arthur Eddington.",
+                "theme": "Science"
+            },
+            {
+                "date": "1883-03-14",
+                "event": "The death of Karl Marx in London, where he had lived in exile for many years.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "15-03",
+        "events": [
+            {
+                "date": "1813-03-15",
+                "event": "The birth of Sir John Snow, the British physician who pioneered epidemiology during the cholera outbreak.",
+                "theme": "Science"
+            },
+            {
+                "date": "1906-03-15",
+                "event": "Rolls-Royce Ltd is officially registered in Manchester.",
+                "theme": "History"
+            },
+            {
+                "date": "1954-03-15",
+                "event": "The birth of Craig Revel Horwood, the well-known judge on 'Strictly Come Dancing'.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "16-03",
+        "events": [
+            {
+                "date": "1872-03-16",
+                "event": "The first ever FA Cup Final is held at The Oval; Wanderers beat Royal Engineers 1-0.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1924-03-16",
+                "event": "The birth of Bette Ford; the model and actress was a popular figure in UK fashion media.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1966-03-16",
+                "event": "The birth of H.P. Baxxter; the musician's work gained a significant following in the UK dance scene.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "17-03",
+        "events": [
+            {
+                "date": "1766-03-17",
+                "event": "The British Parliament repeals the Stamp Act following intense protests in the American colonies.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1969-03-17",
+                "event": "The birth of Alexander McQueen, the visionary British fashion designer.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1984-03-17",
+                "event": "The birth of Katie Ledecky; the swimmer's Olympic achievements are closely followed by UK sports fans.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "18-03",
+        "events": [
+            {
+                "date": "0978-03-18",
+                "event": "King Edward the Martyr is murdered at Corfe Castle, leading to the reign of Ethelred the Unready.",
+                "theme": "History"
+            },
+            {
+                "date": "1893-03-18",
+                "event": "The birth of Wilfred Owen, the influential British poet of the First World War.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1996-03-18",
+                "event": "The birth of Madeline Carroll; the actress's work is widely available through UK streaming services.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "19-03",
+        "events": [
+            {
+                "date": "1813-03-19",
+                "event": "The birth of David Livingstone, the Scottish explorer and missionary.",
+                "theme": "History"
+            },
+            {
+                "date": "1834-03-19",
+                "event": "The Tolpuddle Martyrs are sentenced to transportation to Australia for forming a trade union.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1953-03-19",
+                "event": "The Academy Awards are televised for the first time, an event followed with interest in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "20-03",
+        "events": [
+            {
+                "date": "1653-03-20",
+                "event": "Oliver Cromwell dissolves the Long Parliament.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1727-03-20",
+                "event": "The death of Sir Isaac Newton at the age of 84.",
+                "theme": "Science"
+            },
+            {
+                "date": "1984-03-20",
+                "event": "The birth of Fernando Torres; the striker's time in the Premier League made him a household name in the UK.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "21-03",
+        "events": [
+            {
+                "date": "1556-03-21",
+                "event": "Thomas Cranmer, the first Protestant Archbishop of Canterbury, is burnt at the stake.",
+                "theme": "History"
+            },
+            {
+                "date": "1829-03-21",
+                "event": "The Duke of Wellington fights a duel with the Earl of Winchilsea in London.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-03-21",
+                "event": "The birth of Ayrton Senna; his rivalry with British drivers is a key part of Formula One history.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "22-03",
+        "events": [
+            {
+                "date": "1824-03-22",
+                "event": "The British Parliament votes to purchase 38 paintings to form the core of the National Gallery.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1948-03-22",
+                "event": "The birth of Andrew Lloyd Webber, the highly successful British composer of musical theatre.",
+                "theme": "Culture"
+            },
+            {
+                "date": "2017-03-22",
+                "event": "A terrorist attack takes place at Westminster Bridge and the Houses of Parliament.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "23-03",
+        "events": [
+            {
+                "date": "1769-03-23",
+                "event": "The birth of William Smith, the geologist who created the first nationwide geological map of Britain.",
+                "theme": "Science"
+            },
+            {
+                "date": "1842-03-23",
+                "event": "The death of Stendhal; the French writer's work is a staple of literary studies in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1953-03-23",
+                "event": "The birth of Sir Mo Farah, the quadruple Olympic gold medallist for Great Britain.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "24-03",
+        "events": [
+            {
+                "date": "1603-03-24",
+                "event": "The death of Elizabeth I and the accession of James VI of Scotland to the English throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1882-03-24",
+                "event": "Robert Koch announces the discovery of the bacterium responsible for tuberculosis.",
+                "theme": "Science"
+            },
+            {
+                "date": "1944-03-24",
+                "event": "The Great Escape takes place from the Stalag Luft III prisoner of war camp.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "25-03",
+        "events": [
+            {
+                "date": "1306-03-25",
+                "event": "Robert the Bruce is crowned King of Scotland at Scone Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1807-03-25",
+                "event": "The Slave Trade Act is passed, abolishing the slave trade in the British Empire.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1947-03-25",
+                "event": "The birth of Elton John, the globally renowned British singer and pianist.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "26-03",
+        "events": [
+            {
+                "date": "1712-03-26",
+                "event": "The birth of Thomas Dimsdale, the British physician who pioneered smallpox inoculation.",
+                "theme": "Science"
+            },
+            {
+                "date": "1902-03-26",
+                "event": "The death of Cecil Rhodes, the British imperialist and founder of Rhodesia.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-03-26",
+                "event": "The birth of Diana Ross; her music has been a fixture of the British charts for decades.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "27-03",
+        "events": [
+            {
+                "date": "1625-03-27",
+                "event": "The death of King James I and the accession of Charles I to the throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1871-03-27",
+                "event": "The first ever rugby international is played between Scotland and England in Edinburgh.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1912-03-27",
+                "event": "The birth of James Callaghan, the only person to hold all four Great Offices of State in the UK.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "28-03",
+        "events": [
+            {
+                "date": "1854-03-28",
+                "event": "The UK and France officially declare war on Russia, beginning the Crimean War.",
+                "theme": "History"
+            },
+            {
+                "date": "1941-03-28",
+                "event": "The death of the influential British writer Virginia Woolf.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1986-03-28",
+                "event": "Lady Gaga is born; her work has had a significant impact on British pop music and fashion.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "29-03",
+        "events": [
+            {
+                "date": "1461-03-29",
+                "event": "The Battle of Towton, the bloodiest battle ever fought on English soil, takes place.",
+                "theme": "History"
+            },
+            {
+                "date": "1867-03-29",
+                "event": "The British North America Act is passed, creating the Dominion of Canada.",
+                "theme": "Politics"
+            },
+            {
+                "date": "2017-03-29",
+                "event": "The UK officially triggers Article 50 to begin the process of leaving the European Union.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "30-03",
+        "events": [
+            {
+                "date": "1856-03-30",
+                "event": "The Treaty of Paris is signed, bringing an end to the Crimean War.",
+                "theme": "History"
+            },
+            {
+                "date": "1979-03-30",
+                "event": "The birth of Norah Jones; the artist's jazz-influenced pop is widely popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "2002-03-30",
+                "event": "The death of Queen Elizabeth The Queen Mother at the age of 101.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "31-03",
+        "events": [
+            {
+                "date": "1855-03-31",
+                "event": "The death of Charlotte Brontë, the author of 'Jane Eyre'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1889-03-31",
+                "event": "The Eiffel Tower is inaugurated in Paris; the feat of engineering is widely admired by British contemporaries.",
+                "theme": "Science"
+            },
+            {
+                "date": "1990-03-31",
+                "event": "The Poll Tax riots take place in London as thousands protest the new Community Charge.",
+                "theme": "Politics"
+            }
+        ]
+    }
+]

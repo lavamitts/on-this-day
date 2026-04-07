@@ -1,0 +1,602 @@
+[
+    {
+        "date": "06-01",
+        "events": [
+            {
+                "date": "1794-06-01",
+                "event": "The Glorious First of June: The first and largest fleet action of the naval conflict between Great Britain and the French First Republic.",
+                "theme": "History"
+            },
+            {
+                "date": "1946-06-01",
+                "event": "The first television licences are issued in Great Britain, costing £2.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1958-06-01",
+                "event": "The birth of Mike Campbell, the English musician and member of the Dirty Knobs.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-02",
+        "events": [
+            {
+                "date": "1953-06-02",
+                "event": "The coronation of Queen Elizabeth II takes place in Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1840-06-02",
+                "event": "Thomas Hardy, the novelist and poet, is born in Dorset.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1996-06-02",
+                "event": "European football governing body UEFA lifts the ban on English clubs playing in Europe following the Heysel Stadium disaster.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "06-03",
+        "events": [
+            {
+                "date": "1937-06-03",
+                "event": "The Duke of Windsor marries Wallis Simpson in France following his abdication from the British throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1865-06-03",
+                "event": "The birth of George V, King of the United Kingdom and the British Dominions.",
+                "theme": "History"
+            },
+            {
+                "date": "1946-06-03",
+                "event": "Interpol is re-established in Brussels with significant British cooperation.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "06-04",
+        "events": [
+            {
+                "date": "1940-06-04",
+                "event": "The Dunkirk evacuation ends, with over 338,000 Allied troops rescued from France.",
+                "theme": "History"
+            },
+            {
+                "date": "1738-06-04",
+                "event": "The birth of King George III at Norfolk House in London.",
+                "theme": "History"
+            },
+            {
+                "date": "1913-06-04",
+                "event": "Suffragette Emily Davison is fatally injured after being hit by the King's horse at the Epsom Derby.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "06-05",
+        "events": [
+            {
+                "date": "1975-06-05",
+                "event": "The United Kingdom holds its first national referendum on whether to remain in the European Economic Community (EEC).",
+                "theme": "Politics"
+            },
+            {
+                "date": "1723-06-05",
+                "event": "The birth of Adam Smith, the Scottish economist and philosopher, in Kirkcaldy.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1916-06-05",
+                "event": "Lord Kitchener, the Secretary of State for War, dies when HMS Hampshire sinks off the Orkney Islands.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-06",
+        "events": [
+            {
+                "date": "1944-06-06",
+                "event": "D-Day: British and Allied forces land on the beaches of Normandy during Operation Overlord.",
+                "theme": "History"
+            },
+            {
+                "date": "1844-06-06",
+                "event": "The Young Men's Christian Association (YMCA) is founded by George Williams in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1761-06-06",
+                "event": "The first Transit of Venus is observed by British astronomers including Nevil Maskelyne.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "06-07",
+        "events": [
+            {
+                "date": "1832-06-07",
+                "event": "The Great Reform Act receives Royal Assent, significantly changing the electoral system in England and Wales.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1954-06-07",
+                "event": "The death of Alan Turing, the pioneering British computer scientist and codebreaker.",
+                "theme": "Science"
+            },
+            {
+                "date": "1520-06-07",
+                "event": "The Field of the Cloth of Gold meeting begins between Henry VIII of England and Francis I of France.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-08",
+        "events": [
+            {
+                "date": "793-06-08",
+                "event": "The first recorded Viking raid on England takes place at the monastery on Lindisfarne.",
+                "theme": "History"
+            },
+            {
+                "date": "1949-06-08",
+                "event": "George Orwell's dystopian novel 'Nineteen Eighty-Four' is published in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1955-06-08",
+                "event": "The birth of Tim Berners-Lee, the British computer scientist who invented the World Wide Web.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "06-09",
+        "events": [
+            {
+                "date": "1870-06-09",
+                "event": "The death of Charles Dickens, the celebrated Victorian author, at Gad's Hill Place.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1988-06-09",
+                "event": "The first sitting of the House of Lords is televised.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1923-06-09",
+                "event": "The birth of Gerald Dixey, the English stage and television actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-10",
+        "events": [
+            {
+                "date": "1921-06-10",
+                "event": "The birth of Prince Philip, Duke of Edinburgh, in Corfu.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-06-10",
+                "event": "The birth of David Pinner, the British actor and novelist.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1688-06-10",
+                "event": "The birth of James Francis Edward Stuart (The Old Pretender), sparking the Warming Pan Scandal.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-11",
+        "events": [
+            {
+                "date": "1509-06-11",
+                "event": "The marriage of Henry VIII and Catherine of Aragon takes place at Greenwich.",
+                "theme": "History"
+            },
+            {
+                "date": "1939-06-11",
+                "event": "The birth of Sir Jackie Stewart, the legendary Scottish racing driver.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1727-06-11",
+                "event": "The death of George I, the first Hanoverian King of Great Britain.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-12",
+        "events": [
+            {
+                "date": "1987-06-12",
+                "event": "Margaret Thatcher wins her third consecutive general election victory.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1812-06-12",
+                "event": "The birth of Robert Browning, the major Victorian poet.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1924-06-12",
+                "event": "George H.W. Bush is born; his later political ties with the UK would define the 'Special Relationship'.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "06-13",
+        "events": [
+            {
+                "date": "1381-06-13",
+                "event": "Peasants' Revolt: Rebels led by Wat Tyler enter London and burn the Savoy Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1831-06-13",
+                "event": "The birth of James Clerk Maxwell, the Scottish physicist who formulated electromagnetic theory.",
+                "theme": "Science"
+            },
+            {
+                "date": "1893-06-13",
+                "event": "The birth of Dorothy L. Sayers, the English crime writer and poet.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-14",
+        "events": [
+            {
+                "date": "1982-06-14",
+                "event": "The Falklands War ends as Argentine forces surrender at Port Stanley.",
+                "theme": "History"
+            },
+            {
+                "date": "1645-06-14",
+                "event": "The Battle of Naseby: The New Model Army defeats the Royalists during the English Civil War.",
+                "theme": "History"
+            },
+            {
+                "date": "1946-06-14",
+                "event": "John Logie Baird, the Scottish inventor of television, dies in Bexhill-on-Sea.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "06-15",
+        "events": [
+            {
+                "date": "1215-06-15",
+                "event": "King John seals the Magna Carta at Runnymede.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1844-06-15",
+                "event": "Charles Goodyear receives a patent for vulcanised rubber, a technology crucial for British industry.",
+                "theme": "Science"
+            },
+            {
+                "date": "1376-06-15",
+                "event": "The death of Edward the Black Prince, heir to the English throne.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-16",
+        "events": [
+            {
+                "date": "1815-06-16",
+                "event": "The Battle of Quatre Bras takes place two days before Waterloo.",
+                "theme": "History"
+            },
+            {
+                "date": "1829-06-16",
+                "event": "The Metropolitan Police Act is passed, establishing the first modern police force in London.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1890-06-16",
+                "event": "The birth of Stan Laurel, the English comic actor and half of Laurel and Hardy.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-17",
+        "events": [
+            {
+                "date": "1939-06-17",
+                "event": "The last public execution by guillotine in France is observed by future British secret agent Christopher Lee.",
+                "theme": "History"
+            },
+            {
+                "date": "1703-06-17",
+                "event": "The birth of John Wesley, the English cleric and founder of Methodism.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1972-06-17",
+                "event": "The birth of Iwan Thomas, the British sprinter and Olympic medallist.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "06-18",
+        "events": [
+            {
+                "date": "1815-06-18",
+                "event": "The Battle of Waterloo: The Duke of Wellington defeats Napoleon Bonaparte.",
+                "theme": "History"
+            },
+            {
+                "date": "1940-06-18",
+                "event": "Winston Churchill delivers his 'This was their finest hour' speech to the House of Commons.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1942-06-18",
+                "event": "The birth of Paul McCartney, the legendary English singer-songwriter and Beatle.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-19",
+        "events": [
+            {
+                "date": "1566-06-19",
+                "event": "The birth of James VI and I, the first monarch to rule both Scotland and England.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-06-19",
+                "event": "The birth of Jeremy Paxman, the influential British broadcaster and journalist.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1921-06-19",
+                "event": "The first ever episode of 'The Archers' is recorded for pilot broadcast.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-20",
+        "events": [
+            {
+                "date": "1837-06-20",
+                "event": "Queen Victoria ascends to the throne following the death of her uncle, William IV.",
+                "theme": "History"
+            },
+            {
+                "date": "1756-06-20",
+                "event": "The Black Hole of Calcutta incident occurs in India.",
+                "theme": "History"
+            },
+            {
+                "date": "1949-06-20",
+                "event": "The birth of Lionel Richie; his work has had significant influence on UK pop charts.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-21",
+        "events": [
+            {
+                "date": "1982-06-21",
+                "event": "The birth of Prince William, Duke of Cambridge, at St Mary's Hospital, London.",
+                "theme": "History"
+            },
+            {
+                "date": "1948-06-21",
+                "event": "The Manchester Baby, the world's first stored-program computer, runs its first program.",
+                "theme": "Science"
+            },
+            {
+                "date": "1970-06-21",
+                "event": "The birth of Pete Rock; while American, his production heavily influenced the UK hip hop scene.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-22",
+        "events": [
+            {
+                "date": "1948-06-22",
+                "event": "The HMT Empire Windrush arrives at Tilbury Docks, marking the start of the Windrush generation.",
+                "theme": "History"
+            },
+            {
+                "date": "1675-06-22",
+                "event": "The Royal Observatory, Greenwich is established by King Charles II.",
+                "theme": "Science"
+            },
+            {
+                "date": "1814-06-22",
+                "event": "The first cricket match at the current Lord's Cricket Ground is played.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "06-23",
+        "events": [
+            {
+                "date": "2016-06-23",
+                "event": "The United Kingdom votes to leave the European Union in the Brexit referendum.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1912-06-23",
+                "event": "The birth of Alan Turing, the father of theoretical computer science, in London.",
+                "theme": "Science"
+            },
+            {
+                "date": "1314-06-23",
+                "event": "The Battle of Bannockburn begins between the forces of Robert the Bruce and Edward II.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-24",
+        "events": [
+            {
+                "date": "1314-06-24",
+                "event": "The Battle of Bannockburn ends with a decisive victory for Scotland over the English.",
+                "theme": "History"
+            },
+            {
+                "date": "1509-06-24",
+                "event": "The coronation of Henry VIII and Catherine of Aragon takes place at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1947-06-24",
+                "event": "The birth of Mick Fleetwood, the English musician and co-founder of Fleetwood Mac.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-25",
+        "events": [
+            {
+                "date": "1950-06-25",
+                "event": "The Korean War begins, with significant British involvement as part of UN forces.",
+                "theme": "History"
+            },
+            {
+                "date": "1903-06-25",
+                "event": "George Orwell, author of 'Animal Farm' and '1984', is born in India.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1963-06-25",
+                "event": "The birth of George Michael, the influential English singer-songwriter.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-26",
+        "events": [
+            {
+                "date": "1997-06-26",
+                "event": "'Harry Potter and the Philosopher's Stone' is first published in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1830-06-26",
+                "event": "William IV ascends to the throne following the death of George IV.",
+                "theme": "History"
+            },
+            {
+                "date": "1913-06-26",
+                "event": "The birth of Maurice Wilkes, the British computer scientist who developed EDSAC.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "06-27",
+        "events": [
+            {
+                "date": "2007-06-27",
+                "event": "Tony Blair resigns as Prime Minister and is succeeded by Gordon Brown.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1743-06-27",
+                "event": "The Battle of Dettingen: The last time a British monarch (George II) personally led troops into battle.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-06-27",
+                "event": "The birth of Nigella Lawson, the English food writer and broadcaster.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-28",
+        "events": [
+            {
+                "date": "1838-06-28",
+                "event": "The coronation of Queen Victoria takes place at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1491-06-28",
+                "event": "The birth of Henry VIII at Greenwich Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1914-06-28",
+                "event": "The assassination of Archduke Franz Ferdinand, triggering World War I with subsequent UK entry.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "06-29",
+        "events": [
+            {
+                "date": "1613-06-29",
+                "event": "The original Globe Theatre in London burns to the ground during a performance of Henry VIII.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1801-06-29",
+                "event": "The first census is taken in the UK.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1925-06-29",
+                "event": "The birth of Robert Hardy, the acclaimed English actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "06-30",
+        "events": [
+            {
+                "date": "1934-06-30",
+                "event": "The Night of the Long Knives in Germany is reported extensively in the British press, shifting public opinion.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1966-06-30",
+                "event": "The birth of Mike Tyson; his fights in the UK were major sporting events.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1971-06-30",
+                "event": "The death of Herbert Biberman, an influential figure whose work reached the UK film industry.",
+                "theme": "Culture"
+            }
+        ]
+    }
+]

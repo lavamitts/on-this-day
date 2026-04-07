@@ -1,0 +1,602 @@
+[
+    {
+        "date": "01-04",
+        "events": [
+            {
+                "date": "1662-04-01",
+                "event": "King Charles II grants royal patronage to a group of scientists, founding the Royal Society.",
+                "theme": "Science"
+            },
+            {
+                "date": "1918-04-01",
+                "event": "The Royal Air Force is formed as a result of the merger between the RFC and the RNAS.",
+                "theme": "History"
+            },
+            {
+                "date": "1983-04-01",
+                "event": "The first anti-nuclear protest human chain is formed between Greenham Common and Aldermaston.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "02-04",
+        "events": [
+            {
+                "date": "1801-04-02",
+                "event": "Admiral Nelson ignores orders to withdraw and sinks the Danish fleet at the Battle of Copenhagen.",
+                "theme": "History"
+            },
+            {
+                "date": "1982-04-02",
+                "event": "Argentina invades the Falkland Islands, leading to the Falklands War.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1940-04-02",
+                "event": "The birth of Sir Michael Gambon, the celebrated British-Irish stage and film actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "03-04",
+        "events": [
+            {
+                "date": "1721-04-03",
+                "event": "Sir Robert Walpole becomes the first person to hold the office of British Prime Minister.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1924-04-03",
+                "event": "The birth of Marlon Brando; his influence on British acting technique remains profound.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1930-04-03",
+                "event": "The birth of Dame Jane Goodall, the British primatologist and anthropologist.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "04-04",
+        "events": [
+            {
+                "date": "1581-04-04",
+                "event": "Francis Drake is knighted by Elizabeth I on board the Golden Hind at Deptford.",
+                "theme": "History"
+            },
+            {
+                "date": "1949-04-04",
+                "event": "The North Atlantic Treaty is signed, founding NATO with the UK as a charter member.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1964-04-04",
+                "event": "The Beatles occupy all top five positions on the US singles chart, a historic moment for British music.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-04",
+        "events": [
+            {
+                "date": "1649-04-05",
+                "event": "The death of John Winthrop, whose governorship of Massachusetts influenced British colonial expansion.",
+                "theme": "History"
+            },
+            {
+                "date": "1811-04-05",
+                "event": "The birth of James Young Simpson, the Scottish physician who pioneered the use of chloroform.",
+                "theme": "Science"
+            },
+            {
+                "date": "1975-04-05",
+                "event": "The birth of John Hartson, the prolific Welsh international and Premier League footballer.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "06-04",
+        "events": [
+            {
+                "date": "1199-04-06",
+                "event": "Richard I of England dies from an infected wound while besieging a castle in France.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-04-06",
+                "event": "The birth of Felicity Palmer; the opera singer's work is celebrated across UK concert halls.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1947-04-06",
+                "event": "The birth of John Ratzenberger; the actor's roles are well known to UK television audiences.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "07-04",
+        "events": [
+            {
+                "date": "1739-04-07",
+                "event": "The notorious highwayman Dick Turpin is executed by hanging in York.",
+                "theme": "History"
+            },
+            {
+                "date": "1770-04-07",
+                "event": "The birth of the Romantic poet William Wordsworth in Cockermouth, Cumbria.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1920-04-07",
+                "event": "The birth of Ravi Shankar; the musician's collaborations with George Harrison influenced British pop.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "08-04",
+        "events": [
+            {
+                "date": "1838-04-08",
+                "event": "Isambard Kingdom Brunel's steamship Great Western leaves Bristol for its maiden voyage.",
+                "theme": "Science"
+            },
+            {
+                "date": "1929-04-08",
+                "event": "The birth of Jacques Brel; his work has been frequently translated and performed by British artists.",
+                "theme": "Culture"
+            },
+            {
+                "date": "2013-04-08",
+                "event": "The death of Margaret Thatcher, the first female Prime Minister of the United Kingdom.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "09-04",
+        "events": [
+            {
+                "date": "1806-04-09",
+                "event": "The birth of the pioneering civil engineer Isambard Kingdom Brunel in Portsmouth.",
+                "theme": "Science"
+            },
+            {
+                "date": "1948-04-09",
+                "event": "The birth of Patty Pravo; the artist's work reached the UK via European music exchanges.",
+                "theme": "Culture"
+            },
+            {
+                "date": "2005-04-09",
+                "event": "The Prince of Wales marries Camilla Parker Bowles in a civil ceremony at Windsor.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "10-04",
+        "events": [
+            {
+                "date": "1633-04-10",
+                "event": "Bananas go on sale in London for the first time in an apothecary's shop.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1912-04-10",
+                "event": "RMS Titanic departs from Southampton for her maiden and final voyage.",
+                "theme": "History"
+            },
+            {
+                "date": "1998-04-10",
+                "event": "The Good Friday Agreement is signed, bringing an end to the Troubles in Northern Ireland.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "11-04",
+        "events": [
+            {
+                "date": "1689-04-11",
+                "event": "The joint coronation of William III and Mary II takes place at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-04-11",
+                "event": "The birth of Jeremy Clarkson, the prominent British broadcaster and motoring journalist.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1996-04-11",
+                "event": "The birth of Dele Alli, the England international and Premier League footballer.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "12-04",
+        "events": [
+            {
+                "date": "1606-04-12",
+                "event": "The Union Flag is adopted by royal decree as the first common flag for Great Britain.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-04-12",
+                "event": "The birth of John Kay; the musician's career is a notable part of the 1960s British-American rock exchange.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1961-04-12",
+                "event": "Yuri Gagarin becomes the first human in space, an event reported with awe across the UK.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "13-04",
+        "events": [
+            {
+                "date": "1570-04-13",
+                "event": "The birth of Guy Fawkes in York, the most famous of the Gunpowder Plot conspirators.",
+                "theme": "History"
+            },
+            {
+                "date": "1829-04-13",
+                "event": "The Roman Catholic Relief Act receives Royal Assent, allowing Catholics to sit in Parliament.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1906-04-13",
+                "event": "The birth of Samuel Beckett; the Irish author's 'Waiting for Godot' transformed British theatre.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "14-04",
+        "events": [
+            {
+                "date": "1759-04-14",
+                "event": "The death of the German-British composer George Frideric Handel in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1958-04-14",
+                "event": "The birth of Peter Capaldi, the Academy Award-winning Scottish actor and director.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1983-04-14",
+                "event": "The first cordless telephones go on sale in Britain.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "15-04",
+        "events": [
+            {
+                "date": "1755-04-15",
+                "event": "Samuel Johnson's 'A Dictionary of the English Language' is published in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1912-04-15",
+                "event": "RMS Titanic sinks in the North Atlantic, with the loss of over 1,500 lives.",
+                "theme": "History"
+            },
+            {
+                "date": "1989-04-15",
+                "event": "The Hillsborough Disaster occurs, leading to 97 deaths and major changes in football stadium safety.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "16-04",
+        "events": [
+            {
+                "date": "1746-04-16",
+                "event": "The Battle of Culloden takes place, ending the Jacobite Rising of 1745.",
+                "theme": "History"
+            },
+            {
+                "date": "1889-04-16",
+                "event": "The birth of Charlie Chaplin in London, a pioneer of the silent film era.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1918-04-16",
+                "event": "The birth of Spike Milligan, the influential comedian and writer for 'The Goon Show'.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "17-04",
+        "events": [
+            {
+                "date": "1521-04-17",
+                "event": "Martin Luther's trial begins at the Diet of Worms; the news spreads quickly through English intellectual circles.",
+                "theme": "History"
+            },
+            {
+                "date": "1940-04-17",
+                "event": "The birth of Billy Fury, the successful English rock and roll singer of the 1960s.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1969-04-17",
+                "event": "The voting age in Britain is lowered from 21 to 18.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "18-04",
+        "events": [
+            {
+                "date": "1506-04-18",
+                "event": "The foundation stone of the current St Peter's Basilica is laid; the event was widely documented by British travellers.",
+                "theme": "History"
+            },
+            {
+                "date": "1934-04-18",
+                "event": "The birth of James Drury; the actor's work in Westerns was highly popular with UK TV viewers.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1954-04-18",
+                "event": "The birth of Rick Moranis; the actor's comedy films are widely known to UK audiences.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "19-04",
+        "events": [
+            {
+                "date": "1775-04-19",
+                "event": "The Battle of Lexington and Concord marks the start of the American War of Independence against British rule.",
+                "theme": "History"
+            },
+            {
+                "date": "1824-04-19",
+                "event": "The death of Lord Byron, the English Romantic poet, in Missolonghi, Greece.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1882-04-19",
+                "event": "The death of Charles Darwin at his home, Down House, in Kent.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "20-04",
+        "events": [
+            {
+                "date": "1653-04-20",
+                "event": "Oliver Cromwell forcibly dissolves the Rump Parliament.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1912-04-20",
+                "event": "The death of Bram Stoker, the author of 'Dracula', who lived and worked in London for many years.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1968-04-20",
+                "event": "Enoch Powell delivers his controversial 'Rivers of Blood' speech in Birmingham.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "21-04",
+        "events": [
+            {
+                "date": "1509-04-21",
+                "event": "The death of Henry VII and the accession of Henry VIII to the throne.",
+                "theme": "History"
+            },
+            {
+                "date": "1926-04-21",
+                "event": "The birth of Princess Elizabeth of York, later Queen Elizabeth II.",
+                "theme": "History"
+            },
+            {
+                "date": "1947-04-21",
+                "event": "The birth of Iggy Pop; the musician's influence is significant within British punk and rock scenes.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "22-04",
+        "events": [
+            {
+                "date": "1509-04-22",
+                "event": "Henry VIII is proclaimed King of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1838-04-22",
+                "event": "The steamship Sirius arrives in New York, the first to cross the Atlantic entirely under steam power.",
+                "theme": "Science"
+            },
+            {
+                "date": "1993-04-22",
+                "event": "The death of Stephen Lawrence in a racially motivated attack in South East London.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "23-04",
+        "events": [
+            {
+                "date": "1564-04-23",
+                "event": "The birth of William Shakespeare in Stratford-upon-Avon.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1616-04-23",
+                "event": "The death of William Shakespeare and Miguel de Cervantes.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1661-04-23",
+                "event": "The coronation of Charles II takes place at Westminster Abbey.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "24-04",
+        "events": [
+            {
+                "date": "1731-04-24",
+                "event": "The death of Daniel Defoe, the English writer and author of 'Robinson Crusoe'.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1916-04-24",
+                "event": "The Easter Rising begins in Dublin, a pivotal event in the history of the UK and Ireland.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1932-04-24",
+                "event": "The Mass Trespass of Kinder Scout takes place, leading to the creation of National Parks.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "25-04",
+        "events": [
+            {
+                "date": "1599-04-25",
+                "event": "The birth of Oliver Cromwell, the Lord Protector of the Commonwealth.",
+                "theme": "History"
+            },
+            {
+                "date": "1719-04-25",
+                "event": "Daniel Defoe publishes 'Robinson Crusoe' in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1915-04-25",
+                "event": "British and ANZAC troops land at Gallipoli during the First World War.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "26-04",
+        "events": [
+            {
+                "date": "1711-04-26",
+                "event": "The birth of David Hume, the influential Scottish philosopher and historian.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1923-04-26",
+                "event": "The Duke of York marries Elizabeth Bowes-Lyon at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1994-04-26",
+                "event": "South Africa's first multi-racial elections begin, a major event monitored by the UK government.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "27-04",
+        "events": [
+            {
+                "date": "1759-04-27",
+                "event": "The birth of Mary Wollstonecraft, the English writer and advocate for women's rights.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1828-04-27",
+                "event": "The Zoological Society of London opens its zoological gardens in Regent's Park.",
+                "theme": "Science"
+            },
+            {
+                "date": "1994-04-27",
+                "event": "The birth of Corey Seager; the baseball star's career is followed by the UK's growing MLB fanbase.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "28-04",
+        "events": [
+            {
+                "date": "1770-04-28",
+                "event": "Captain James Cook arrives at Botany Bay in Australia.",
+                "theme": "History"
+            },
+            {
+                "date": "1789-04-28",
+                "event": "The Mutiny on the Bounty takes place in the South Pacific.",
+                "theme": "History"
+            },
+            {
+                "date": "1948-04-28",
+                "event": "The birth of Terry Pratchett, the celebrated British fantasy author.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "29-04",
+        "events": [
+            {
+                "date": "1884-04-29",
+                "event": "Oxford University agrees to admit female students to examinations for the first time.",
+                "theme": "History"
+            },
+            {
+                "date": "1957-04-29",
+                "event": "The birth of Sir Daniel Day-Lewis, the triple Academy Award-winning British actor.",
+                "theme": "Culture"
+            },
+            {
+                "date": "2011-04-29",
+                "event": "The wedding of Prince William and Catherine Middleton takes place at Westminster Abbey.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "30-04",
+        "events": [
+            {
+                "date": "1901-04-30",
+                "event": "The birth of Simon Kuznets; the economist's work on GDP is fundamental to UK economic policy.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1944-04-30",
+                "event": "The birth of Jill Clayburgh; the actress's roles were highly regarded by UK film critics.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1980-04-30",
+                "event": "The Iranian Embassy Siege in London begins.",
+                "theme": "History"
+            }
+        ]
+    }
+]

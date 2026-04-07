@@ -1,0 +1,622 @@
+    [
+        {
+            "date": "07-01",
+            "events": [
+                {
+                    "date": "1916-07-01",
+                    "event": "The Battle of the Somme begins; the bloodiest day in the history of the British Army.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1969-07-01",
+                    "event": "The investiture of Prince Charles as Prince of Wales at Caernarfon Castle.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1997-07-01",
+                    "event": "The United Kingdom transfers sovereignty of Hong Kong to the People's Republic of China.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-02",
+            "events": [
+                {
+                    "date": "1928-07-02",
+                    "event": "The Representation of the People Act 1928 receives Royal Assent, giving women equal voting rights to men.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1644-07-02",
+                    "event": "The Battle of Marston Moor: The Roundheads and Scots defeat the Royalists in the English Civil War.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1971-07-02",
+                    "event": "The birth of Stephen Mangan, the English actor and comedian.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-03",
+            "events": [
+                {
+                    "date": "1938-07-03",
+                    "event": "The world speed record for a steam locomotive is set by 'Mallard' at 126 mph in Lincolnshire.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1841-07-03",
+                    "event": "The first issue of the satirical magazine 'Punch' is published in London.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1940-07-03",
+                    "event": "The British Royal Navy attacks the French fleet at Mers-el-Kébir to prevent it falling into German hands.",
+                    "theme": "History"
+                }
+            ]
+        },
+        {
+            "date": "07-04",
+            "events": [
+                {
+                    "date": "1862-07-04",
+                    "event": "Lewis Carroll first tells the story of Alice's Adventures in Wonderland during a boat trip on the Thames.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1948-07-04",
+                    "event": "The National Health Service (NHS) is established by Health Secretary Aneurin Bevan.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1934-07-04",
+                    "event": "Marie Curie dies; her research on radioactivity profoundly influenced British medical science.",
+                    "theme": "Science"
+                }
+            ]
+        },
+        {
+            "date": "07-05",
+            "events": [
+                {
+                    "date": "1687-07-05",
+                    "event": "Isaac Newton's 'Philosophiae Naturalis Principia Mathematica' is published, revolutionising physics.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1945-07-05",
+                    "event": "The first post-war General Election is held in the UK, resulting in a Labour landslide.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1948-07-05",
+                    "event": "The National Health Service officially comes into operation.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-06",
+            "events": [
+                {
+                    "date": "1535-07-06",
+                    "event": "Sir Thomas More is executed for treason after refusing to acknowledge Henry VIII as head of the Church of England.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1988-07-06",
+                    "event": "The Piper Alpha oil platform in the North Sea is destroyed by explosions, killing 167 people.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1885-07-06",
+                    "event": "Louis Pasteur successfully tests his rabies vaccine; the method was quickly adopted in the UK.",
+                    "theme": "Science"
+                }
+            ]
+        },
+        {
+            "date": "07-07",
+            "events": [
+                {
+                    "date": "1930-07-07",
+                    "event": "Sir Arthur Conan Doyle, the creator of Sherlock Holmes, dies in Crowborough.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "2005-07-07",
+                    "event": "Coordinated suicide bomb attacks on London's public transport system kill 52 people.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1940-07-07",
+                    "event": "The birth of Ringo Starr, the legendary drummer of The Beatles.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-08",
+            "events": [
+                {
+                    "date": "1822-07-08",
+                    "event": "The death of Percy Bysshe Shelley, the major English Romantic poet, in Italy.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1976-07-08",
+                    "event": "The birth of Ellen MacArthur, the English sailor who broke the world record for solo circumnavigation.",
+                    "theme": "Sport"
+                },
+                {
+                    "date": "1889-07-08",
+                    "event": "The first issue of The Wall Street Journal is published; its financial reporting influenced the City of London.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-09",
+            "events": [
+                {
+                    "date": "1955-07-09",
+                    "event": "The Russell-Einstein Manifesto is issued in London, highlighting the dangers of nuclear weapons.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1877-07-09",
+                    "event": "The first Wimbledon Championships begins at the All England Croquet and Lawn Tennis Club.",
+                    "theme": "Sport"
+                },
+                {
+                    "date": "1947-07-09",
+                    "event": "The engagement of Princess Elizabeth and Lieutenant Philip Mountbatten is announced.",
+                    "theme": "History"
+                }
+            ]
+        },
+        {
+            "date": "07-10",
+            "events": [
+                {
+                    "date": "1940-07-10",
+                    "event": "The Battle of Britain officially begins as the Luftwaffe attacks British convoys in the Channel.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1553-07-10",
+                    "event": "Lady Jane Grey is proclaimed Queen of England, reigning for only nine days.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1958-07-10",
+                    "event": "The first parking meters in Britain are installed in Mayfair, London.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-11",
+            "events": [
+                {
+                    "date": "1921-07-11",
+                    "event": "The Irish War of Independence ends with a truce between the British and Irish forces.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1966-07-11",
+                    "event": "The 1966 FIFA World Cup begins in England.",
+                    "theme": "Sport"
+                },
+                {
+                    "date": "1945-07-11",
+                    "event": "The birth of John Higgins, the Scottish professional snooker player.",
+                    "theme": "Sport"
+                }
+            ]
+        },
+        {
+            "date": "07-12",
+            "events": [
+                {
+                    "date": "1543-07-12",
+                    "event": "Henry VIII marries his sixth and final wife, Catherine Parr, at Hampton Court Palace.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1690-07-12",
+                    "event": "The Battle of the Boyne takes place in Ireland (Old Style date).",
+                    "theme": "History"
+                },
+                {
+                    "date": "1962-07-12",
+                    "event": "The Rolling Stones play their first ever gig at the Marquee Club in London.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-13",
+            "events": [
+                {
+                    "date": "1985-07-13",
+                    "event": "Live Aid concerts are held at Wembley Stadium and JFK Stadium to raise money for famine relief.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1923-07-13",
+                    "event": "The Hollywood sign is officially dedicated; its influence on British cinema is immense.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1960-07-13",
+                    "event": "The birth of Ian Hislop, the English journalist and editor of Private Eye.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-14",
+            "events": [
+                {
+                    "date": "1858-07-14",
+                    "event": "The birth of Emmeline Pankhurst, the leader of the British suffragette movement.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1881-07-14",
+                    "event": "The death of Billy the Kid; tales of the American West became a staple of British popular culture.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1967-07-14",
+                    "event": "The birth of Nick Clegg, the former Deputy Prime Minister of the UK.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-15",
+            "events": [
+                {
+                    "date": "1099-07-15",
+                    "event": "The First Crusade: Christian soldiers capture Jerusalem, involving many English knights.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1685-07-15",
+                    "event": "The Duke of Monmouth is executed for leading a rebellion against James II.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1977-07-15",
+                    "event": "The birth of Ray Fearon, the acclaimed British stage and screen actor.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-16",
+            "events": [
+                {
+                    "date": "1945-07-16",
+                    "event": "The Trinity nuclear test occurs; British scientists participated via the Manhattan Project.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1918-07-16",
+                    "event": "The Romanov family is executed in Russia; King George V was the Tsar's cousin.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1723-06-16",
+                    "event": "The birth of Joshua Reynolds, the influential English painter (New Style date).",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-17",
+            "events": [
+                {
+                    "date": "1917-07-17",
+                    "event": "King George V issues a proclamation changing the name of the British Royal House from Saxe-Coburg and Gotha to Windsor.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1945-07-17",
+                    "event": "The Potsdam Conference begins, with Winston Churchill representing the UK.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1960-06-17",
+                    "event": "The birth of Robin Cousins, the English figure skater and Olympic champion.",
+                    "theme": "Sport"
+                }
+            ]
+        },
+        {
+            "date": "07-18",
+            "events": [
+                {
+                    "date": "1817-07-18",
+                    "event": "The death of Jane Austen, the celebrated English novelist, in Winchester.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1872-07-18",
+                    "event": "The Ballot Act 1872 introduces the secret ballot for elections in the UK.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1948-07-18",
+                    "event": "The birth of James Brolin; his roles became familiar to UK television audiences.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-19",
+            "events": [
+                {
+                    "date": "1545-07-19",
+                    "event": "The Mary Rose, Henry VIII's flagship, sinks in the Solent during an engagement with the French fleet.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1588-07-19",
+                    "event": "The Spanish Armada is sighted off the coast of Cornwall.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1941-07-19",
+                    "event": "The birth of Alan Price, the English musician and member of The Animals.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-20",
+            "events": [
+                {
+                    "date": "1969-07-20",
+                    "event": "The Apollo 11 moon landing is broadcast live on the BBC, a major cultural moment in the UK.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1982-07-20",
+                    "event": "The Hyde Park and Regent's Park bombings are carried out by the IRA, killing 11 soldiers.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1944-07-20",
+                    "event": "The July Plot to assassinate Hitler; the event was closely monitored by British intelligence.",
+                    "theme": "History"
+                }
+            ]
+        },
+        {
+            "date": "07-21",
+            "events": [
+                {
+                    "date": "1796-07-21",
+                    "event": "The death of Robert Burns, the national poet of Scotland.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1944-07-21",
+                    "event": "The birth of John Atta Mills, the Ghanaian politician who studied at LSE and SOAS in London.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1904-07-21",
+                    "event": "The birth of Louis Armand, who was instrumental in the development of the Eurotunnel project.",
+                    "theme": "Science"
+                }
+            ]
+        },
+        {
+            "date": "07-22",
+            "events": [
+                {
+                    "date": "1298-07-22",
+                    "event": "The Battle of Falkirk: Edward I defeats the Scots under William Wallace.",
+                    "theme": "History"
+                },
+                {
+                    "date": "2013-07-22",
+                    "event": "The birth of Prince George of Cambridge at St Mary's Hospital, London.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1923-07-22",
+                    "event": "The birth of Bob Dole; the American statesman worked closely with British diplomats.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-23",
+            "events": [
+                {
+                    "date": "2019-07-23",
+                    "event": "Boris Johnson is elected leader of the Conservative Party, becoming Prime Minister the following day.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1949-07-23",
+                    "event": "The birth of David Gedge, the English musician and leader of The Wedding Present.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1914-07-23",
+                    "event": "Austria-Hungary issues an ultimatum to Serbia, leading to the UK's entry into WWI.",
+                    "theme": "History"
+                }
+            ]
+        },
+        {
+            "date": "07-24",
+            "events": [
+                {
+                    "date": "1567-07-24",
+                    "event": "Mary, Queen of Scots, is forced to abdicate in favour of her infant son, James VI.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1911-07-24",
+                    "event": "Hiram Bingham discovers Machu Picchu; the feat inspired many British archaeologists.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1960-07-24",
+                    "event": "The birth of Jonathan Hill, the British politician and European Commissioner.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-25",
+            "events": [
+                {
+                    "date": "1978-07-25",
+                    "event": "Louise Brown, the world's first 'test-tube baby', is born in Oldham, Greater Manchester.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1909-07-25",
+                    "event": "Louis Blériot becomes the first person to fly across the English Channel.",
+                    "theme": "Science"
+                },
+                {
+                    "date": "1967-07-25",
+                    "event": "The birth of Matt LeBlanc; the actor's work on 'Friends' and 'Top Gear' made him a UK household name.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-26",
+            "events": [
+                {
+                    "date": "1945-07-26",
+                    "event": "Clement Attlee's Labour Party wins the general election in a landslide victory.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1956-07-26",
+                    "event": "The Suez Crisis begins when Egyptian President Nasser nationalises the Suez Canal.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1856-07-26",
+                    "event": "The birth of George Bernard Shaw, the influential Irish playwright and polemicist active in London.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-27",
+            "events": [
+                {
+                    "date": "2012-07-27",
+                    "event": "The opening ceremony of the London 2012 Olympic Games takes place.",
+                    "theme": "Sport"
+                },
+                {
+                    "date": "1967-07-27",
+                    "event": "The Sexual Offences Act 1967 decriminilises homosexual acts in private in England and Wales.",
+                    "theme": "Politics"
+                },
+                {
+                    "date": "1694-07-27",
+                    "event": "The Bank of England is established by Royal Charter.",
+                    "theme": "Politics"
+                }
+            ]
+        },
+        {
+            "date": "07-28",
+            "events": [
+                {
+                    "date": "1540-07-28",
+                    "event": "Thomas Cromwell is executed on the same day Henry VIII marries Catherine Howard.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1914-07-28",
+                    "event": "World War I officially begins with Austria-Hungary's declaration of war on Serbia.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1945-07-28",
+                    "event": "The death of Jim Corbett, the British hunter and conservationist famous for his books on India.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-29",
+            "events": [
+                {
+                    "date": "1981-07-29",
+                    "event": "The wedding of Prince Charles and Lady Diana Spencer takes place at St Paul's Cathedral.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1588-07-29",
+                    "event": "The Battle of Gravelines: The Spanish Armada is defeated by the English fleet.",
+                    "theme": "History"
+                },
+                {
+                    "date": "1966-07-29",
+                    "event": "The birth of Richard Hammond, the English journalist and broadcaster.",
+                    "theme": "Culture"
+                }
+            ]
+        },
+        {
+            "date": "07-30",
+            "events": [
+                {
+                    "date": "1966-07-30",
+                    "event": "England win the FIFA World Cup, defeating West Germany 4-2 at Wembley.",
+                    "theme": "Sport"
+                },
+                {
+                    "date": "1818-07-30",
+                    "event": "The birth of Emily Brontë, author of 'Wuthering Heights', in Yorkshire.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1718-07-30",
+                    "event": "The death of William Penn, the English Quaker who founded Pennsylvania.",
+                    "theme": "History"
+                }
+            ]
+        },
+        {
+            "date": "07-31",
+            "events": [
+                {
+                    "date": "1970-07-31",
+                    "event": "Black Tot Day: The last daily rum ration is issued to sailors in the Royal Navy.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1965-07-31",
+                    "event": "The birth of J.K. Rowling, the creator of the Harry Potter series.",
+                    "theme": "Culture"
+                },
+                {
+                    "date": "1703-07-31",
+                    "event": "Daniel Defoe is placed in a pillory for seditious libel; the crowd pelts him with flowers.",
+                    "theme": "Culture"
+                }
+            ]
+        }
+    ]

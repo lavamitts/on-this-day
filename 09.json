@@ -1,0 +1,602 @@
+[
+    {
+        "date": "09-01",
+        "events": [
+            {
+                "date": "1939-09-01",
+                "event": "Germany invades Poland, leading to the UK's declaration of war two days later.",
+                "theme": "History"
+            },
+            {
+                "date": "1159-09-01",
+                "event": "The death of Pope Adrian IV, the only Englishman to have been Pope.",
+                "theme": "History"
+            },
+            {
+                "date": "1971-09-01",
+                "event": "The birth of Hakeem Kae-Kazim, the British-Nigerian actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-02",
+        "events": [
+            {
+                "date": "1666-09-02",
+                "event": "The Great Fire of London begins at Thomas Farriner's bakery in Pudding Lane.",
+                "theme": "History"
+            },
+            {
+                "date": "1945-09-02",
+                "event": "The official end of WWII with the formal surrender of Japan.",
+                "theme": "History"
+            },
+            {
+                "date": "1965-09-02",
+                "event": "The birth of Lennox Lewis, the British heavyweight boxing champion.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "09-03",
+        "events": [
+            {
+                "date": "1939-09-03",
+                "event": "The United Kingdom declares war on Germany following the invasion of Poland.",
+                "theme": "History"
+            },
+            {
+                "date": "1658-09-03",
+                "event": "The death of Oliver Cromwell, Lord Protector of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1752-09-03",
+                "event": "The UK adopts the Gregorian calendar; eleven days are 'lost' as Sept 2 is followed by Sept 14.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-04",
+        "events": [
+            {
+                "date": "1970-09-04",
+                "event": "The death of George Robey, the 'Prime Minister of Mirth' and music hall star.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1981-09-04",
+                "event": "The birth of Beyoncé; the artist's concerts and tours are major events in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1848-09-04",
+                "event": "The birth of Jennie Jerome, later Lady Randolph Churchill and mother of Winston Churchill.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-05",
+        "events": [
+            {
+                "date": "1946-09-05",
+                "event": "The birth of Freddie Mercury, the lead singer of Queen, in Zanzibar.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1972-09-05",
+                "event": "The Munich Olympics massacre; the tragedy had a profound impact on UK security policy.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1977-09-05",
+                "event": "The launch of Voyager 1; British scientists have been integral to the mission's data analysis.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "09-06",
+        "events": [
+            {
+                "date": "1997-09-06",
+                "event": "The funeral of Diana, Princess of Wales, is held at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1972-09-06",
+                "event": "The birth of Idris Elba, the acclaimed English actor and musician.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1522-09-06",
+                "event": "The Victoria returns to Spain, completing the first circumnavigation of the globe; the feat inspired later British explorers.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-07",
+        "events": [
+            {
+                "date": "1533-09-07",
+                "event": "The birth of Queen Elizabeth I at Greenwich Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1838-09-07",
+                "event": "Grace Darling and her father rescue survivors from the wrecked Forfarshire off the Farne Islands.",
+                "theme": "History"
+            },
+            {
+                "date": "1936-09-07",
+                "event": "The death of the thylacine (Tasmanian tiger); its extinction is a key focus of UK conservation study.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "09-08",
+        "events": [
+            {
+                "date": "2022-09-08",
+                "event": "The death of Queen Elizabeth II at Balmoral Castle, marking the end of the longest reign in British history.",
+                "theme": "History"
+            },
+            {
+                "date": "1157-09-08",
+                "event": "The birth of Richard I (the Lionheart) in Oxford.",
+                "theme": "History"
+            },
+            {
+                "date": "1971-09-08",
+                "event": "The birth of Martin Freeman, the English actor famous for 'The Hobbit' and 'Sherlock'.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-09",
+        "events": [
+            {
+                "date": "1087-09-09",
+                "event": "The death of William the Conqueror in France.",
+                "theme": "History"
+            },
+            {
+                "date": "1513-09-09",
+                "event": "The Battle of Flodden: English forces defeat the Scots, and James IV is killed.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-09-09",
+                "event": "The birth of Hugh Grant, the celebrated English actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-10",
+        "events": [
+            {
+                "date": "1945-09-10",
+                "event": "The birth of Jose Feliciano; the artist's work has been consistently popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1968-09-10",
+                "event": "The birth of Guy Ritchie, the English film director and screenwriter.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1897-09-10",
+                "event": "George Smith becomes the first person to be convicted of drink-driving in London.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "09-11",
+        "events": [
+            {
+                "date": "1297-09-11",
+                "event": "The Battle of Stirling Bridge: William Wallace defeats the English army.",
+                "theme": "History"
+            },
+            {
+                "date": "2001-09-11",
+                "event": "The 9/11 attacks in the USA; the events triggered the UK's involvement in the 'War on Terror'.",
+                "theme": "History"
+            },
+            {
+                "date": "1967-09-11",
+                "event": "The birth of Harry Connick Jr.; his music is a staple of UK jazz radio.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-12",
+        "events": [
+            {
+                "date": "1944-09-12",
+                "event": "The liberation of Brussels; British forces were key to the city's freedom.",
+                "theme": "History"
+            },
+            {
+                "date": "1957-09-12",
+                "event": "The birth of Rachel Ward, the English-Australian actress and director.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1812-09-12",
+                "event": "The birth of Richard March Hoe; his printing technology revolutionised the British newspaper industry.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "09-13",
+        "events": [
+            {
+                "date": "1916-09-13",
+                "event": "The birth of Roald Dahl, the world-famous Welsh author of children's books.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1759-09-13",
+                "event": "The Battle of the Plains of Abraham: British forces under Wolfe defeat the French in Quebec.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-09-13",
+                "event": "The birth of Jacqueline Bisset, the acclaimed English actress.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-14",
+        "events": [
+            {
+                "date": "1752-09-14",
+                "event": "The British Empire adopts the Gregorian calendar (day after Sept 2).",
+                "theme": "History"
+            },
+            {
+                "date": "1852-09-14",
+                "event": "The death of Arthur Wellesley, 1st Duke of Wellington.",
+                "theme": "History"
+            },
+            {
+                "date": "1983-09-14",
+                "event": "The birth of Amy Winehouse, the influential English singer-songwriter.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-15",
+        "events": [
+            {
+                "date": "1940-09-15",
+                "event": "Battle of Britain Day: The RAF defeats a major Luftwaffe attack, a turning point in the air war.",
+                "theme": "History"
+            },
+            {
+                "date": "1890-09-15",
+                "event": "The birth of Agatha Christie, the 'Queen of Crime' novelist.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1984-09-15",
+                "event": "The birth of Prince Harry, Duke of Sussex, at St Mary's Hospital, London.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-16",
+        "events": [
+            {
+                "date": "1400-09-16",
+                "event": "Owain Glyndŵr is proclaimed Prince of Wales by his followers.",
+                "theme": "History"
+            },
+            {
+                "date": "1977-09-16",
+                "event": "The death of Marc Bolan, the lead singer of T. Rex and a glam rock icon.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1963-09-16",
+                "event": "The birth of Richard Marx; the artist has had numerous hits on the UK charts.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-17",
+        "events": [
+            {
+                "date": "1944-09-17",
+                "event": "Operation Market Garden begins, a major Allied airborne operation involving British divisions.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-09-17",
+                "event": "The birth of Damon Hill, the English racing driver and Formula One world champion.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1787-09-17",
+                "event": "The US Constitution is signed; its principles were deeply rooted in English common law.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "09-18",
+        "events": [
+            {
+                "date": "2014-09-18",
+                "event": "The Scottish Independence Referendum is held, with a majority voting to remain in the UK.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1970-09-18",
+                "event": "The death of Jimi Hendrix in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1709-09-18",
+                "event": "The birth of Samuel Johnson, the creator of the influential English dictionary.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-19",
+        "events": [
+            {
+                "date": "1356-09-19",
+                "event": "The Battle of Poitiers: English forces under the Black Prince defeat the French and capture King John II.",
+                "theme": "History"
+            },
+            {
+                "date": "1948-09-19",
+                "event": "The birth of Jeremy Irons, the acclaimed English actor.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1960-09-19",
+                "event": "The birth of David Soul; the actor's work in 'Starsky & Hutch' was a UK TV mainstay.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-20",
+        "events": [
+            {
+                "date": "1854-09-20",
+                "event": "The Battle of Alma: British and French forces defeat the Russians during the Crimean War.",
+                "theme": "History"
+            },
+            {
+                "date": "1948-09-20",
+                "event": "The birth of George R.R. Martin; his work has had immense cultural impact in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1934-09-20",
+                "event": "The birth of Sophia Loren; the actress is a fixture of international cinema in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-21",
+        "events": [
+            {
+                "date": "1745-09-21",
+                "event": "The Battle of Prestonpans: Jacobite forces under Bonnie Prince Charlie defeat the government army.",
+                "theme": "History"
+            },
+            {
+                "date": "1866-09-21",
+                "event": "The birth of H.G. Wells, the pioneering British science fiction author.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1972-09-21",
+                "event": "The birth of Liam Gallagher, the lead singer of Oasis.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-22",
+        "events": [
+            {
+                "date": "1735-09-22",
+                "event": "Sir Robert Walpole becomes the first person to move into 10 Downing Street.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1955-09-22",
+                "event": "ITV, the first independent television network in the UK, begins broadcasting.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1989-09-22",
+                "event": "The Deal barracks bombing by the IRA kills 11 bandsmen of the Royal Marines.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-23",
+        "events": [
+            {
+                "date": "1846-09-23",
+                "event": "The discovery of Neptune; British astronomer John Couch Adams had independently predicted its position.",
+                "theme": "Science"
+            },
+            {
+                "date": "1949-09-23",
+                "event": "The birth of Bruce Springsteen; his UK tours are major cultural events.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1215-09-23",
+                "event": "The birth of Kublai Khan; his life became legendary in British historical literature.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "09-24",
+        "events": [
+            {
+                "date": "1948-09-24",
+                "event": "The birth of Phil Hartman; the comedian's work reached the UK via 'The Simpsons' and SNL.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1852-09-24",
+                "event": "The first flight of a steam-powered airship; the technology was closely followed by British engineers.",
+                "theme": "Science"
+            },
+            {
+                "date": "1962-09-24",
+                "event": "The birth of Nia Vardalos; her films have been popular in UK cinemas.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-25",
+        "events": [
+            {
+                "date": "1066-09-25",
+                "event": "The Battle of Stamford Bridge: Harold Godwinson defeats the Vikings, ending the Viking Age in England.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-09-25",
+                "event": "The end of the Battle of Arnhem during Operation Market Garden.",
+                "theme": "History"
+            },
+            {
+                "date": "1969-09-25",
+                "event": "The birth of Catherine Zeta-Jones, the acclaimed Welsh actress.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-26",
+        "events": [
+            {
+                "date": "1960-09-26",
+                "event": "The first televised presidential debate (Nixon vs Kennedy); the format was later adopted in the UK.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1983-09-26",
+                "event": "Stanislav Petrov prevents a nuclear war; the event was a key focus of UK Cold War studies.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1948-09-26",
+                "event": "The birth of Olivia Newton-John, the English-Australian singer and actress.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-27",
+        "events": [
+            {
+                "date": "1825-09-27",
+                "event": "The Stockton and Darlington Railway, the world's first public steam-powered railway, opens.",
+                "theme": "Science"
+            },
+            {
+                "date": "1972-09-27",
+                "event": "The birth of Gwyneth Paltrow; the actress's work is widely popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1947-09-27",
+                "event": "The birth of Meat Loaf; his albums have had massive success in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-28",
+        "events": [
+            {
+                "date": "1066-09-28",
+                "event": "William the Conqueror lands at Pevensey, beginning the Norman Conquest.",
+                "theme": "History"
+            },
+            {
+                "date": "1928-09-28",
+                "event": "Alexander Fleming discovers penicillin at St Mary's Hospital, London.",
+                "theme": "Science"
+            },
+            {
+                "date": "1968-09-28",
+                "event": "The birth of Naomi Watts, the acclaimed English-Australian actress.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "09-29",
+        "events": [
+            {
+                "date": "1758-09-29",
+                "event": "The birth of Horatio Nelson at Burnham Thorpe, Norfolk.",
+                "theme": "History"
+            },
+            {
+                "date": "1829-09-29",
+                "event": "The Metropolitan Police Service begins its first patrols in London.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1956-09-29",
+                "event": "The birth of Sebastian Coe, the British middle-distance runner and Olympic organiser.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "09-30",
+        "events": [
+            {
+                "date": "1938-09-30",
+                "event": "Neville Chamberlain returns from Munich and delivers his 'Peace for our time' speech.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1399-09-30",
+                "event": "Henry IV is proclaimed King of England after the deposition of Richard II.",
+                "theme": "History"
+            },
+            {
+                "date": "1970-09-30",
+                "event": "The death of James Dawson; though American, his poetry was studied in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    }
+]

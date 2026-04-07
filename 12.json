@@ -1,0 +1,622 @@
+[
+    {
+        "date": "12-01",
+        "events": [
+            {
+                "date": "1135-12-01",
+                "event": "The death of Henry I of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1945-12-01",
+                "event": "The birth of Bette Midler; the artist's work is widely known in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1970-12-01",
+                "event": "The birth of Sarah Silverman; the comedian's work reached the UK via online platforms.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-02",
+        "events": [
+            {
+                "date": "1804-12-02",
+                "event": "Napoleon is crowned Emperor; the event was central to UK foreign policy.",
+                "theme": "History"
+            },
+            {
+                "date": "1981-12-02",
+                "event": "The birth of Britney Spears; the artist's music is a mainstay of UK pop.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1968-12-02",
+                "event": "The birth of Lucy Liu; the actress's films are popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-03",
+        "events": [
+            {
+                "date": "1967-12-03",
+                "event": "The first human heart transplant is performed; the feat was closely studied by British medicine.",
+                "theme": "Science"
+            },
+            {
+                "date": "1948-12-03",
+                "event": "The birth of Ozzy Osbourne, the legendary English rock singer.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1960-12-03",
+                "event": "The birth of Daryl Hannah; the actress is a fixture of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-04",
+        "events": [
+            {
+                "date": "1952-12-04",
+                "event": "The Great Smog of London begins, leading to major environmental legislation.",
+                "theme": "History"
+            },
+            {
+                "date": "1969-12-04",
+                "event": "The birth of Jay-Z; the artist's work is a staple of UK radio.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1949-12-04",
+                "event": "The birth of Jeff Bridges; the actor is a fixture of UK cinema.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-05",
+        "events": [
+            {
+                "date": "1766-12-05",
+                "event": "James Christie holds his first auction in London, founding Christie's.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1901-12-05",
+                "event": "The birth of Walt Disney; his characters and films are UK cultural icons.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1946-12-05",
+                "event": "The birth of José Carreras; the singer's work is widely known in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-06",
+        "events": [
+            {
+                "date": "1215-12-06",
+                "event": "The death of Pope Innocent III; the events of the Papacy were central to UK history.",
+                "theme": "History"
+            },
+            {
+                "date": "1967-12-06",
+                "event": "The birth of Judd Apatow; the director's films are widely popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1948-12-06",
+                "event": "The birth of JoBeth Williams; the actress is widely known in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-07",
+        "events": [
+            {
+                "date": "1941-12-07",
+                "event": "The attack on Pearl Harbor; the event triggered the USA's entry into WWII, allied with the UK.",
+                "theme": "History"
+            },
+            {
+                "date": "1980-12-07",
+                "event": "The birth of John Terry, the legendary English footballer.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1949-12-07",
+                "event": "The birth of Tom Waits; the artist's music has had significant influence in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-08",
+        "events": [
+            {
+                "date": "1980-12-08",
+                "event": "The assassination of John Lennon in New York.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1542-12-08",
+                "event": "The birth of Mary, Queen of Scots, at Linlithgow Palace.",
+                "theme": "History"
+            },
+            {
+                "date": "1966-12-08",
+                "event": "The birth of Sinead O'Connor; the artist's work has been consistently popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-09",
+        "events": [
+            {
+                "date": "1608-12-09",
+                "event": "The birth of John Milton, the influential English poet and civil servant.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1934-12-09",
+                "event": "The birth of Dame Judi Dench, the acclaimed English actress.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1962-12-09",
+                "event": "The birth of Felicity Huffman; the actress's work is widely known in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-10",
+        "events": [
+            {
+                "date": "1815-12-10",
+                "event": "The birth of Ada Lovelace, the pioneering English mathematician and first computer programmer.",
+                "theme": "Science"
+            },
+            {
+                "date": "1936-12-10",
+                "event": "Edward VIII signs the Instrument of Abdication.",
+                "theme": "History"
+            },
+            {
+                "date": "1960-12-10",
+                "event": "The birth of Kenneth Branagh, the acclaimed Northern Irish actor and director.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-11",
+        "events": [
+            {
+                "date": "1936-12-11",
+                "event": "The abdication of Edward VIII is given Royal Assent, and George VI becomes King.",
+                "theme": "History"
+            },
+            {
+                "date": "1918-12-11",
+                "event": "The birth of Aleksandr Solzhenitsyn; his work was central to UK Cold War study.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1944-12-11",
+                "event": "The birth of Brenda Lee; the artist's music is widely popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-12",
+        "events": [
+            {
+                "date": "1901-12-12",
+                "event": "Guglielmo Marconi receives the first transatlantic radio signal at Signal Hill.",
+                "theme": "Science"
+            },
+            {
+                "date": "1970-12-12",
+                "event": "The birth of Jennifer Connelly; the actress is a fixture of UK cinema.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1915-12-12",
+                "event": "The birth of Frank Sinatra; his concerts and films were massive hits in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-13",
+        "events": [
+            {
+                "date": "1577-12-13",
+                "event": "Sir Francis Drake begins his circumnavigation of the globe.",
+                "theme": "History"
+            },
+            {
+                "date": "1989-12-13",
+                "event": "The birth of Taylor Swift; the artist's tours are major events in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-12-13",
+                "event": "The birth of Jamie Foxx; the actor's films are widely popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-14",
+        "events": [
+            {
+                "date": "1861-12-14",
+                "event": "The death of Prince Albert, the Prince Consort.",
+                "theme": "History"
+            },
+            {
+                "date": "1918-12-14",
+                "event": "The general election in which some women in the UK were allowed to vote for the first time.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1988-12-14",
+                "event": "The birth of Vanessa Hudgens; the actress's work is popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-15",
+        "events": [
+            {
+                "date": "1966-12-15",
+                "event": "The death of Walt Disney; the event was major news in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1979-12-15",
+                "event": "The birth of Adam Brody; the actor's work is widely known in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1949-12-15",
+                "event": "The birth of Don Johnson; the actor's work is a mainstay of UK TV.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-16",
+        "events": [
+            {
+                "date": "1653-12-16",
+                "event": "Oliver Cromwell is sworn in as Lord Protector.",
+                "theme": "History"
+            },
+            {
+                "date": "1773-12-16",
+                "event": "The Boston Tea Party: American colonists protest against British taxes.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1775-12-16",
+                "event": "The birth of Jane Austen, the celebrated English novelist, in Steventon.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-17",
+        "events": [
+            {
+                "date": "1903-12-17",
+                "event": "The Wright brothers make the first powered flight; the technology was closely followed by British science.",
+                "theme": "Science"
+            },
+            {
+                "date": "1975-12-17",
+                "event": "The birth of Milla Jovovich; the actress's films are popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1936-12-17",
+                "event": "The birth of Pope Francis; the Papacy has significant influence in the UK Catholic community.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-18",
+        "events": [
+            {
+                "date": "1946-12-18",
+                "event": "The birth of Steven Spielberg; his films have been monumental cultural events in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1963-12-18",
+                "event": "The birth of Brad Pitt; the actor is a mainstay of UK cinema.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1978-12-18",
+                "event": "The birth of Katie Holmes; the actress is widely known in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-19",
+        "events": [
+            {
+                "date": "1154-12-19",
+                "event": "The coronation of Henry II of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1848-12-19",
+                "event": "The death of Emily Brontë, the celebrated English novelist and poet.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1980-12-19",
+                "event": "The birth of Jake Gyllenhaal; the actor's films are widely popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-20",
+        "events": [
+            {
+                "date": "1983-12-20",
+                "event": "The birth of Jonah Hill; the actor's films are consistently popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1924-12-20",
+                "event": "The birth of Charlie Callas; though American, his comedy reached the UK via TV.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1946-12-20",
+                "event": "The birth of Dick Wolf; his show 'Law & Order' reached the UK via multiple networks.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-21",
+        "events": [
+            {
+                "date": "1844-12-21",
+                "event": "The Rochdale Pioneers open their first store, founding the modern cooperative movement.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1937-12-21",
+                "event": "Snow White and the Seven Dwarfs premieres; the film is a UK cultural icon.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1966-12-21",
+                "event": "The birth of Kiefer Sutherland; the actor's work in '24' was a UK TV mainstay.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-22",
+        "events": [
+            {
+                "date": "1949-12-22",
+                "event": "The birth of Robin Gibb, the influential English musician and member of the Bee Gees.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1962-12-22",
+                "event": "The birth of Ralph Fiennes, the acclaimed English actor.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1858-12-22",
+                "event": "The birth of Giacomo Puccini; his operas are a fixture in UK classical programming.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-23",
+        "events": [
+            {
+                "date": "1888-12-23",
+                "event": "Vincent van Gogh cuts off his left ear; the artist's life is central to UK art studies.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1964-12-23",
+                "event": "The birth of Eddie Vedder; the artist's work has many fans in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1952-12-23",
+                "event": "The birth of Jerry Seinfeld; the comedian's show is popular in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-24",
+        "events": [
+            {
+                "date": "1167-12-24",
+                "event": "The birth of King John of England.",
+                "theme": "History"
+            },
+            {
+                "date": "1818-12-24",
+                "event": "'Silent Night' is first performed; the carol is a staple of UK Christmas services.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1971-12-24",
+                "event": "The birth of Ricky Martin; the artist's music was a mainstay of UK charts.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-25",
+        "events": [
+            {
+                "date": "1066-12-25",
+                "event": "The coronation of William the Conqueror at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1642-12-25",
+                "event": "The birth of Isaac Newton, the legendary English physicist and mathematician.",
+                "theme": "Science"
+            },
+            {
+                "date": "1918-12-25",
+                "event": "The birth of Anwar Sadat; the President's diplomacy was a focus of UK foreign policy.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "12-26",
+        "events": [
+            {
+                "date": "1860-12-26",
+                "event": "The first ever inter-club football match takes place between Hallam FC and Sheffield FC.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1971-12-26",
+                "event": "The birth of Jared Leto; the actor's films are popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1893-12-26",
+                "event": "The birth of Mao Zedong; his leadership was a central focus of UK Cold War policy.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "12-27",
+        "events": [
+            {
+                "date": "1831-12-27",
+                "event": "Charles Darwin sets sail on HMS Beagle.",
+                "theme": "Science"
+            },
+            {
+                "date": "1975-12-27",
+                "event": "The birth of Heather O'Rourke; the actress's work is widely known to UK audiences.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1948-12-27",
+                "event": "The birth of Gerard Depardieu; the actor is a fixture of international cinema in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-28",
+        "events": [
+            {
+                "date": "1065-12-28",
+                "event": "The consecration of Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1954-12-28",
+                "event": "The birth of Denzel Washington; the actor's films are consistently popular in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1922-12-28",
+                "event": "The birth of Stan Lee; his characters are UK pop culture icons.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-29",
+        "events": [
+            {
+                "date": "1170-12-29",
+                "event": "Thomas Becket is murdered in Canterbury Cathedral.",
+                "theme": "History"
+            },
+            {
+                "date": "1809-12-29",
+                "event": "The birth of William Gladstone, the influential Victorian Prime Minister.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1972-12-29",
+                "event": "The birth of Jude Law, the acclaimed English actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "12-30",
+        "events": [
+            {
+                "date": "1922-12-30",
+                "event": "The USSR is officially established; its history was a central focus of UK policy.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1984-12-30",
+                "event": "The birth of LeBron James; the player's career has many fans in the UK.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1961-12-30",
+                "event": "The birth of Sean Hannity; the host's work is followed by UK political analysts.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "12-31",
+        "events": [
+            {
+                "date": "1600-12-31",
+                "event": "The East India Company is granted a Royal Charter by Queen Elizabeth I.",
+                "theme": "History"
+            },
+            {
+                "date": "1937-12-31",
+                "event": "The birth of Sir Anthony Hopkins, the acclaimed Welsh actor.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1948-12-31",
+                "event": "The birth of Donna Summer; the artist's music was a mainstay of UK dance charts.",
+                "theme": "Culture"
+            }
+        ]
+    }
+]

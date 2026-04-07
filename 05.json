@@ -1,0 +1,622 @@
+[
+    {
+        "date": "05-01",
+        "events": [
+            {
+                "date": "1707-05-01",
+                "event": "The Acts of Union come into effect, joining the Kingdoms of England and Scotland into Great Britain.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1851-05-01",
+                "event": "The Great Exhibition is opened by Queen Victoria at the Crystal Palace in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1997-05-01",
+                "event": "The Labour Party wins a landslide victory in the UK General Election, ending 18 years of Conservative rule.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-02",
+        "events": [
+            {
+                "date": "1536-05-02",
+                "event": "Queen Anne Boleyn is arrested and taken to the Tower of London on charges of adultery and treason.",
+                "theme": "History"
+            },
+            {
+                "date": "1952-05-02",
+                "event": "The de Havilland Comet, the world's first commercial jet airliner, begins its first regular service from London to Johannesburg.",
+                "theme": "Science"
+            },
+            {
+                "date": "1953-05-02",
+                "event": "The first ever televised FA Cup Final, known as the 'Matthews Final', takes place at Wembley.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "05-03",
+        "events": [
+            {
+                "date": "1951-05-03",
+                "event": "The Festival of Britain is opened by King George VI to promote British contributions to science, technology, and the arts.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1979-05-03",
+                "event": "Margaret Thatcher wins the General Election to become the United Kingdom's first female Prime Minister.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1791-05-03",
+                "event": "The Polish Constitution is passed, heavily influenced by British Enlightenment philosophy.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-04",
+        "events": [
+            {
+                "date": "1904-05-04",
+                "event": "Charles Rolls and Henry Royce meet for the first time at the Midland Hotel in Manchester to form Rolls-Royce.",
+                "theme": "Science"
+            },
+            {
+                "date": "1926-05-04",
+                "event": "The General Strike begins in Britain as miners and other workers stop work over wage disputes.",
+                "theme": "History"
+            },
+            {
+                "date": "1471-05-04",
+                "event": "The Battle of Tewkesbury sees the decisive defeat of the Lancastrians during the Wars of the Roses.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-05",
+        "events": [
+            {
+                "date": "1930-05-05",
+                "event": "Amy Johnson sets off from Croydon on the first solo flight by a woman from Britain to Australia.",
+                "theme": "History"
+            },
+            {
+                "date": "1818-05-05",
+                "event": "The birth of Karl Marx in Prussia; his later work in London profoundly influenced British political thought.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1949-05-05",
+                "event": "The Council of Europe is established following the Treaty of London.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-06",
+        "events": [
+            {
+                "date": "1954-05-06",
+                "event": "Roger Bannister becomes the first person to run a mile in under four minutes at Iffley Road track, Oxford.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1840-05-06",
+                "event": "The Penny Black, the world's first adhesive postage stamp, becomes valid for use in the UK.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1994-05-06",
+                "event": "The Channel Tunnel is formally opened by Queen Elizabeth II and President François Mitterrand.",
+                "theme": "Science"
+            }
+        ]
+    },
+    {
+        "date": "05-07",
+        "events": [
+            {
+                "date": "1945-05-07",
+                "event": "Germany signs an unconditional surrender at Reims, leading to the end of World War II in Europe.",
+                "theme": "History"
+            },
+            {
+                "date": "1812-05-07",
+                "event": "Robert Browning, the major English poet and playwright, is born in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1915-05-07",
+                "event": "The British ocean liner RMS Lusitania is sunk by a German U-boat off the coast of Ireland.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-08",
+        "events": [
+            {
+                "date": "1945-05-08",
+                "event": "VE Day (Victory in Europe Day) is celebrated across the United Kingdom to mark the end of the war in Europe.",
+                "theme": "History"
+            },
+            {
+                "date": "1660-05-08",
+                "event": "The Convention Parliament proclaims Charles II as the lawful monarch, marking the start of the Restoration.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1970-05-08",
+                "event": "The Beatles release their final studio album, 'Let It Be', in the UK.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-09",
+        "events": [
+            {
+                "date": "1671-05-09",
+                "event": "Thomas Blood attempts to steal the Crown Jewels from the Tower of London.",
+                "theme": "History"
+            },
+            {
+                "date": "1860-05-09",
+                "event": "J.M. Barrie, the Scottish novelist and creator of Peter Pan, is born.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1962-05-09",
+                "event": "The Beatles sign their first recording contract with EMI's Parlophone label.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-10",
+        "events": [
+            {
+                "date": "1940-05-10",
+                "event": "Winston Churchill becomes Prime Minister of the United Kingdom following the resignation of Neville Chamberlain.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1824-05-10",
+                "event": "The National Gallery in London opens to the public for the first time.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1941-05-10",
+                "event": "The House of Commons is destroyed by German incendiary bombs during the Blitz.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-11",
+        "events": [
+            {
+                "date": "1812-05-11",
+                "event": "Prime Minister Spencer Perceval is assassinated in the lobby of the House of Commons, the only British PM to be killed in office.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1985-05-11",
+                "event": "The Bradford City stadium fire occurs during a football match, resulting in 56 deaths.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1931-05-11",
+                "event": "The birth of Ken Stott, the acclaimed Scottish actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-12",
+        "events": [
+            {
+                "date": "1820-05-12",
+                "event": "Florence Nightingale, the founder of modern nursing, is born.",
+                "theme": "Science"
+            },
+            {
+                "date": "1937-05-12",
+                "event": "The coronation of King George VI and Queen Elizabeth takes place at Westminster Abbey.",
+                "theme": "History"
+            },
+            {
+                "date": "1944-05-12",
+                "event": "The birth of Chris Patten, the last British Governor of Hong Kong.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-13",
+        "events": [
+            {
+                "date": "1940-05-13",
+                "event": "Winston Churchill delivers his famous 'blood, toil, tears and sweat' speech to the House of Commons.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1950-05-13",
+                "event": "The first ever Formula One World Championship race, the British Grand Prix, is held at Silverstone.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1842-05-13",
+                "event": "Arthur Sullivan, of the musical partnership Gilbert and Sullivan, is born in London.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-14",
+        "events": [
+            {
+                "date": "1796-05-14",
+                "event": "Edward Jenner performs the first vaccination against smallpox, a landmark in medical history.",
+                "theme": "Science"
+            },
+            {
+                "date": "1921-05-14",
+                "event": "The British Legion is founded to support veterans of the Great War.",
+                "theme": "History"
+            },
+            {
+                "date": "1264-05-14",
+                "event": "The Battle of Lewes takes place, where Simon de Montfort defeats King Henry III.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-15",
+        "events": [
+            {
+                "date": "1858-05-15",
+                "event": "The present Royal Opera House in Covent Garden, London, opens for the first time.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1941-05-15",
+                "event": "The first flight of Britain's first jet aircraft, the Gloster E.28/39, takes place at Cranwell.",
+                "theme": "Science"
+            },
+            {
+                "date": "1536-05-15",
+                "event": "Anne Boleyn is tried in the Tower of London and sentenced to death.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-16",
+        "events": [
+            {
+                "date": "1763-05-16",
+                "event": "James Boswell and Samuel Johnson meet for the first time at Tom Davies's bookshop in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1943-05-16",
+                "event": "The 'Dambusters' raid (Operation Chastise) is launched by RAF 617 Squadron using bouncing bombs.",
+                "theme": "History"
+            },
+            {
+                "date": "1929-05-16",
+                "event": "The first Academy Awards are held; British-born actor George Arliss would later be the first UK winner.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-17",
+        "events": [
+            {
+                "date": "1749-05-17",
+                "event": "Edward Jenner, the British physician who pioneered the smallpox vaccine, is born.",
+                "theme": "Science"
+            },
+            {
+                "date": "1900-05-17",
+                "event": "The Relief of Mafeking takes place during the Boer War, leading to widespread celebrations in London.",
+                "theme": "History"
+            },
+            {
+                "date": "1521-05-17",
+                "event": "Edward Stafford, 3rd Duke of Buckingham, is executed for treason against Henry VIII.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-18",
+        "events": [
+            {
+                "date": "1872-05-18",
+                "event": "Bertrand Russell, the influential British philosopher and logician, is born in Wales.",
+                "theme": "Science"
+            },
+            {
+                "date": "1955-05-18",
+                "event": "The birth of Mary Beard, the renowned English scholar of Roman history.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1911-05-18",
+                "event": "The death of Gustav Mahler; his work remains a staple of the British orchestral repertoire.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-19",
+        "events": [
+            {
+                "date": "1536-05-19",
+                "event": "Anne Boleyn, the second wife of Henry VIII, is executed by beheading at the Tower of London.",
+                "theme": "History"
+            },
+            {
+                "date": "1649-05-19",
+                "event": "An Act of Parliament is passed declaring England to be a Commonwealth.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1935-05-19",
+                "event": "T.E. Lawrence, known as Lawrence of Arabia, dies following a motorcycle accident in Dorset.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-20",
+        "events": [
+            {
+                "date": "1941-05-20",
+                "event": "The Battle of Crete begins, involving a large contingent of British and Commonwealth forces.",
+                "theme": "History"
+            },
+            {
+                "date": "1747-05-20",
+                "event": "James Lind publishes 'A Treatise of the Scurvy', identifying citrus fruit as a cure for the disease.",
+                "theme": "Science"
+            },
+            {
+                "date": "1944-05-20",
+                "event": "The birth of Joe Cocker, the influential English singer.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-21",
+        "events": [
+            {
+                "date": "1844-05-21",
+                "event": "The death of Mary Anning, the pioneering English fossil hunter and palaeontologist.",
+                "theme": "Science"
+            },
+            {
+                "date": "1881-05-21",
+                "event": "The American Red Cross is founded; it would later work closely with British services during the World Wars.",
+                "theme": "History"
+            },
+            {
+                "date": "1471-05-21",
+                "event": "King Henry VI dies in the Tower of London, likely murdered on the orders of Edward IV.",
+                "theme": "History"
+            }
+        ]
+    },
+    {
+        "date": "05-22",
+        "events": [
+            {
+                "date": "1859-05-22",
+                "event": "Sir Arthur Conan Doyle, the creator of Sherlock Holmes, is born in Edinburgh.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1455-05-22",
+                "event": "The first Battle of St Albans marks the traditional start of the Wars of the Roses.",
+                "theme": "History"
+            },
+            {
+                "date": "1946-05-22",
+                "event": "The birth of George Best, the legendary Northern Irish footballer for Manchester United.",
+                "theme": "Sport"
+            }
+        ]
+    },
+    {
+        "date": "05-23",
+        "events": [
+            {
+                "date": "1701-05-23",
+                "event": "The notorious pirate Captain William Kidd is executed for piracy and murder at Execution Dock in London.",
+                "theme": "History"
+            },
+            {
+                "date": "1934-05-23",
+                "event": "The first Glyndebourne Festival Opera takes place in East Sussex.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1844-05-23",
+                "event": "The birth of Abdul-Baha; his visits to London significantly impacted British religious diversity.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-24",
+        "events": [
+            {
+                "date": "1819-05-24",
+                "event": "Queen Victoria is born at Kensington Palace in London.",
+                "theme": "History"
+            },
+            {
+                "date": "1941-05-24",
+                "event": "The British battlecruiser HMS Hood is sunk by the German battleship Bismarck.",
+                "theme": "History"
+            },
+            {
+                "date": "1738-05-24",
+                "event": "John Wesley has his evangelical conversion experience at a meeting in Aldersgate Street, London.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-25",
+        "events": [
+            {
+                "date": "1895-05-25",
+                "event": "Oscar Wilde is convicted of 'gross indecency' and sentenced to two years' hard labour.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-05-25",
+                "event": "Celtic become the first British club to win the European Cup, defeating Inter Milan in Lisbon.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1939-05-25",
+                "event": "The birth of Sir Ian McKellen, the acclaimed English actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-26",
+        "events": [
+            {
+                "date": "1940-05-26",
+                "event": "Operation Dynamo, the evacuation of Allied soldiers from the beaches of Dunkirk, begins.",
+                "theme": "History"
+            },
+            {
+                "date": "1923-05-26",
+                "event": "The first ever 24 Hours of Le Mans race is held; British cars and drivers would become icons of the event.",
+                "theme": "Sport"
+            },
+            {
+                "date": "1913-05-26",
+                "event": "The birth of Peter Cushing, the famous English actor.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-27",
+        "events": [
+            {
+                "date": "1941-05-27",
+                "event": "The German battleship Bismarck is sunk by the Royal Navy in the North Atlantic.",
+                "theme": "History"
+            },
+            {
+                "date": "1867-05-27",
+                "event": "The birth of Arnold Bennett, the prolific English novelist.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1541-05-27",
+                "event": "Margaret Pole, Countess of Salisbury, is executed by Henry VIII.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-28",
+        "events": [
+            {
+                "date": "1908-05-28",
+                "event": "Ian Fleming, the creator of James Bond, is born in London.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1967-05-28",
+                "event": "Sir Francis Chichester arrives in Plymouth after completing the first solo circumnavigation of the globe via the great capes.",
+                "theme": "History"
+            },
+            {
+                "date": "1759-05-28",
+                "event": "The birth of William Pitt the Younger, the youngest ever British Prime Minister.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-29",
+        "events": [
+            {
+                "date": "1660-05-29",
+                "event": "Oak Apple Day: Charles II enters London, marking the Restoration of the Monarchy on his 30th birthday.",
+                "theme": "History"
+            },
+            {
+                "date": "1953-05-29",
+                "event": "Edmund Hillary and Tenzing Norgay become the first people to reach the summit of Mount Everest as part of a British expedition.",
+                "theme": "Science"
+            },
+            {
+                "date": "1917-05-29",
+                "event": "The birth of John F. Kennedy; his visit to London as President was a major political event.",
+                "theme": "Politics"
+            }
+        ]
+    },
+    {
+        "date": "05-30",
+        "events": [
+            {
+                "date": "1431-05-30",
+                "event": "Joan of Arc is burned at the stake by the English in Rouen.",
+                "theme": "History"
+            },
+            {
+                "date": "1942-05-30",
+                "event": "The RAF launches the first 'thousand-bomber raid' against the city of Cologne.",
+                "theme": "History"
+            },
+            {
+                "date": "1980-05-30",
+                "event": "The death of English actor and comedian Peter Sellers.",
+                "theme": "Culture"
+            }
+        ]
+    },
+    {
+        "date": "05-31",
+        "events": [
+            {
+                "date": "1916-05-31",
+                "event": "The Battle of Jutland, the largest naval battle of World War I, begins between the British and German fleets.",
+                "theme": "History"
+            },
+            {
+                "date": "1859-05-31",
+                "event": "The Great Clock at the Palace of Westminster, containing Big Ben, begins to keep time.",
+                "theme": "History"
+            },
+            {
+                "date": "1076-05-31",
+                "event": "Waltheof, Earl of Northumbria, is executed, the last English earl to survive the Norman Conquest.",
+                "theme": "History"
+            }
+        ]
+    }
+]
