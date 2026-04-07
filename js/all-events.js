@@ -1,4 +1,5 @@
 let viewDate = new Date();
+const rootPath = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/';
 
 async function updateDisplay(targetDate) {
     const d = targetDate.getDate();
@@ -8,64 +9,37 @@ async function updateDisplay(targetDate) {
     const dayStr = d < 10 ? '0' + d : '' + d;
     const monthStr = m < 10 ? '0' + m : '' + m;
 
-    // YOUR DATA FORMAT: "DD-MM" (e.g. "01-03" for 1st March)
     const lookupKey = `${dayStr}-${monthStr}`;
     const fileName = `${monthStr}.json`;
 
-    const rootPath = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/';
-    const filePath = `${rootPath}data/history/${fileName}`;
+    // 1. Initialise the Layout Shell (Buttons and Title)
+    renderLayoutShell(targetDate);
 
-    console.log(`Fetching: ${fileName} | Looking for Key: ${lookupKey}`);
+    // 2. Fetch and Render History
+    fetchAndRenderData(
+        `${rootPath}data/history/${fileName}`,
+        'otd-history-list',
+        lookupKey,
+        renderHistoryItem
+    );
 
-    try {
-        const response = await fetch(filePath);
-        if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
-        
-        const monthData = await response.json();
-        
-        // Find the entry. We use .trim() just in case there is whitespace in the JSON keys
-        const dayEntry = monthData.find(entry => entry.date.trim() === lookupKey);
-
-        if (!dayEntry) {
-            console.warn(`Key "${lookupKey}" not found in ${fileName}. Available keys:`, monthData.map(e => e.date));
-        }
-
-        renderEvents(dayEntry ? dayEntry.events : [], targetDate, rootPath);
-    } catch (error) {
-        console.error("Navigation Error:", error);
-        renderEvents([], targetDate, rootPath);
-    }
+    // 3. Fetch and Render Marquee
+    fetchAndRenderData(
+        `${rootPath}data/marquee/${fileName}`,
+        'otd-marquee-list',
+        lookupKey,
+        renderMarqueeItem
+    );
 }
 
-function renderEvents(events, date, rootPath) {
-    const container = document.getElementsByClassName('otd-container')[0];
+function renderLayoutShell(date) {
+    const container = document.querySelector('.otd-main-container');
     if (!container) return;
 
     const dateHeading = date.toLocaleDateString('en-GB', {
         day: 'numeric',
         month: 'long'
     });
-
-    let eventsHtml = '';
-    
-    if (events && events.length > 0) {
-        eventsHtml = events.map(ev => {
-            const eventYear = ev.date.split('-')[0];
-            const themeImg = `${rootPath}themes/otd-theme-${ev.theme.toLowerCase()}.webp`;
-
-            return `
-                <div class="otd-event-row" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-                    <img src="${themeImg}" style="width: 65px; margin-right: 15px;" />
-                    <div>
-                        <p style="font-weight: bold; margin: 0;">${eventYear}</p>
-                        <p style="margin: 2px 0 0 0;">${ev.event}</p>
-                    </div>
-                </div>
-            `;
-        }).join('');
-    } else {
-        eventsHtml = '<p>No historical events found for this date.</p>';
-    }
 
     container.innerHTML = `
         <div class="otd-card" style="border: 1px solid #ccc; padding: 20px; border-radius: 8px;">
@@ -74,18 +48,102 @@ function renderEvents(events, date, rootPath) {
                 <button id="otd-today">Today</button>
                 <button id="otd-next">Next</button>
             </div>
+
             <h2 style="text-align: center;">${dateHeading}</h2>
             <hr />
-            <div class="otd-list">${eventsHtml}</div>
+            
+            <h2 class="dark-blue">Historical events on this day</h2>
+            <div id="otd-history-list">Loading history...</div>
+            
+            <hr />
+            
+            <h2 class="dark-blue">${dateHeading} observes ...</h2>
+            <div id="otd-marquee-list">Loading marquee...</div>
+
+            <hr />
+            <div class="otd-nav" style="display: flex; justify-content: space-between; margin-top: 15px;">
+                <button id="otd-prev-bottom">Previous</button>
+                <button id="otd-today-bottom">Today</button>
+                <button id="otd-next-bottom">Next</button>
+            </div>
         </div>
     `;
 
-    document.getElementById('otd-prev').onclick = () => navigateDays(-1);
-    document.getElementById('otd-next').onclick = () => navigateDays(1);
-    document.getElementById('otd-today').onclick = () => {
-        viewDate = new Date();
-        updateDisplay(viewDate);
+    // Helper to bind the same logic to both sets of buttons
+    const bindNav = (suffix = '') => {
+        document.getElementById(`otd-prev${suffix}`).onclick = () => navigateDays(-1);
+        document.getElementById(`otd-next${suffix}`).onclick = () => navigateDays(1);
+        document.getElementById(`otd-today${suffix}`).onclick = () => {
+            viewDate = new Date();
+            updateDisplay(viewDate);
+        };
     };
+
+    // Attach listeners to top and bottom buttons
+    bindNav();           // Handles otd-prev, etc.
+    bindNav('-bottom');  // Handles otd-prev-bottom, etc.
+}
+
+async function fetchAndRenderData(url, elementId, lookupKey, itemTemplateFn) {
+    const listContainer = document.getElementById(elementId);
+    try {
+        const response = await fetch(url);
+        if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
+        
+        const monthData = await response.json();
+        const dayEntry = monthData.find(entry => entry.date.trim() === lookupKey);
+
+        if (dayEntry && dayEntry.events && dayEntry.events.length > 0) {
+            listContainer.innerHTML = dayEntry.events.map(itemTemplateFn).join('');
+        } else {
+            listContainer.innerHTML = '<p>No data found for this date.</p>';
+        }
+    } catch (error) {
+        console.error(`Error loading ${elementId}:`, error);
+        listContainer.innerHTML = '<p>Error loading information.</p>';
+    }
+}
+
+// Template for History items
+function renderHistoryItem(ev) {
+    // 1. Extract the year from the string "YYYY-MM-DD"
+    const eventYear = ev.date.split('-')[0];
+
+    // 2. Create a temporary date object using the year from the event 
+    // but the day/month from our current viewDate.
+    // Note: getMonth() is 0-indexed, so we don't need to add 1 here.
+    const displayDate = new Date(eventYear, viewDate.getMonth(), viewDate.getDate());
+
+    // 3. Format to "7 April 1876"
+    const fullDateStr = displayDate.toLocaleDateString('en-GB', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric'
+    });
+
+    const themeImg = `${rootPath}themes/otd-theme-${ev.theme.toLowerCase()}.webp`;
+    
+    return `
+        <div class="otd-event-row" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+            <img src="${themeImg}" style="width: 65px; margin-right: 15px;" />
+            <div>
+                <p style="font-weight: bold; margin: 0;">${fullDateStr}</p>
+                <p style="margin: 2px 0 0 0;">${ev.event}</p>
+            </div>
+        </div>
+    `;
+}
+
+// Template for Marquee items
+function renderMarqueeItem(ev) {
+    return `
+        <div class="otd-event-row" style="margin-bottom: 20px;">
+            <div>
+                <p style="font-weight: bold; margin: 0;">${ev.title}</p>
+                <p style="margin: 2px 0 0 0;">${ev.summary}</p>
+            </div>
+        </div>
+    `;
 }
 
 function navigateDays(offset) {
