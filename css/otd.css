@@ -1,26 +1,51 @@
-div.otd-card {
+div.marquee-days {
+  background-color: #f7f7f7;
+  padding: 1rem;
+  border-radius: 5px;
+  border: 1px #f0f0f0 solid;
+}
+div.marquee-days .wp-block-separator {
+  color: #2868a8;
+  height: 1px !important;
+}
+
+div.otd-card,
+div.cal-card {
   max-width: 640px;
 }
-div.otd-card h2 {
+div.otd-card h2,
+div.cal-card h2 {
   color: #2868a8;
   margin-bottom: 0.5rem;
+  margin-top: 0px;
+  padding-top: 0px;
 }
-div.otd-card div.otd-card-content {
+div.otd-card div.otd-card-content,
+div.cal-card div.otd-card-content {
   display: flex;
   gap: 1rem;
 }
-div.otd-card div.otd-card-content img {
+div.otd-card div.otd-card-content img,
+div.cal-card div.otd-card-content img {
   width: 80px;
   height: 80px;
   border-radius: 5px;
 }
 div.otd-card div.otd-card-content div,
-div.otd-card div.otd-card-content p {
+div.otd-card div.otd-card-content p,
+div.cal-card div.otd-card-content div,
+div.cal-card div.otd-card-content p {
   margin: 0px;
   padding: 0px;
 }
-div.otd-card div.otd-card-content .otd-date {
-  font-size: 1.5rem;
+div.otd-card div.otd-card-content .otd-date,
+div.cal-card div.otd-card-content .otd-date {
+  font-size: 1.25rem;
   font-weight: bold;
   margin-bottom: 0.5rem;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  padding-left: 30px;
+  padding-bottom: 3px;
+  background-image: url("/wp-content/uploads/2025/06/date-icon.webp");
 }

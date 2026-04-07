@@ -1,10 +1,26 @@
 $dark-blue: #2868a8;
+$silver: #f7f7f7;
 
-div.otd-card {
+div.marquee-days {
+    background-color: $silver;
+    padding: 1rem;
+    border-radius: 5px;
+    border: 1px #f0f0f0 solid;
+
+    .wp-block-separator {
+        color: $dark-blue;
+        height: 1px !important;
+    }
+}
+
+div.otd-card,
+div.cal-card {
     max-width: 640px;
     h2 {
         color: $dark-blue;
         margin-bottom: 0.5rem;
+        margin-top: 0px;
+        padding-top: 0px;
     }
 
     div.otd-card-content {
@@ -24,9 +40,14 @@ div.otd-card {
         }
 
         .otd-date {
-            font-size: 1.5rem;
+            font-size: 1.25rem;
             font-weight: bold;
             margin-bottom: 0.5rem;
+            background-repeat: no-repeat;
+            background-size: 24px 24px;
+            padding-left: 30px;
+            padding-bottom: 3px;
+            background-image: url("/wp-content/uploads/2025/06/date-icon.webp");
         }
     }
 }

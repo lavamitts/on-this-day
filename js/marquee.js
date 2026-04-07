@@ -11,6 +11,9 @@ async function displayTodayCalendarEvent() {
     const rootPath = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/';
     const baseUrl = rootPath + 'data/marquee/';
     const filePath = `${baseUrl}${fileName}`;
+    console.log("Before");
+    console.log(filePath);
+    console.log("After");
 
     try {
         const response = await fetch(filePath);
@@ -47,10 +50,10 @@ async function displayTodayCalendarEvent() {
             if (container) {
                 container.innerHTML = `
                     <div class="cal-card">
-                        <h2>Today's Celebration</h2>
+                        <h2>Today's awareness day</h2>
                         <div class="cal-card-content">
                             <div class="cal-event-details">
-                                <p class="cal-date">${formattedDisplayDate}</p>
+                                <!--<p class="cal-date">${formattedDisplayDate}</p>//-->
                                 <h3 class="cal-title">${selected.title}</h3>
                                 <p class="cal-summary">${selected.summary}</p>
                                 ${urlHtml}
