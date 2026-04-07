@@ -1,53 +1,66 @@
 async function displayTodayEvent() {
-    // a) Work out today's date
+    // 1. Work out today's date for the filename and the lookup key
     const now = new Date();
     const day = String(now.getDate()).padStart(2, '0');
     const month = String(now.getMonth() + 1).padStart(2, '0');
-    
-    const todayKey = `${day}-${month}`; // Format: "07-04"
+    const todayKey = `${day}-${month}`; // Matches "07-04"
 
-    // b) Work out which of the files 01 to 12 this represents
+    // 2. Define the path (This is where the 'undefined' error usually happens)
     const fileName = `${month}.json`;
-    const filePath = `JSON/${fileName}`;
+    const baseUrl = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/data/';
+    const filePath = `${baseUrl}${fileName}`;
 
     try {
         const response = await fetch(filePath);
         
         if (!response.ok) {
-            throw new Error(`Could not fetch ${fileName}`);
+            throw new Error(`Could not fetch ${fileName} (Status: ${response.status})`);
         }
 
         const monthData = await response.json();
 
-        // c) Within that file, work out which date is today's date
+        // 3. Find today's entry in the file
         const todayData = monthData.find(entry => entry.date === todayKey);
 
-        if (todayData && todayData.events.length > 0) {
-            // d) Randomly select one of the items
+        if (todayData && todayData.events && todayData.events.length > 0) {
+            // 4. Random selection
             const randomIndex = Math.floor(Math.random() * todayData.events.length);
             const selectedEvent = todayData.events[randomIndex];
+            const theme = selectedEvent.theme;
+            const img = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/data/' theme.toLowerCase() + ".webp";
 
-            // e) Print to screen the date, the event and the theme
-            // Using document.write for a simple print, or console.log
-            const output = `
-                <div style="font-family: sans-serif; padding: 20px;">
-                    <p><strong>Date:</strong> ${selectedEvent.date}</p>
-                    <p><strong>Event:</strong> ${selectedEvent.event}</p>
-                    <p><strong>Theme:</strong> ${selectedEvent.theme}</p>
-                </div>
-            `;
-            document.body.innerHTML = output;
+            // 5. Format the date string to "7 April 1945"
+            // We split the "1945-04-07" string to avoid timezone shifts
+            const [y, m, d] = selectedEvent.date.split('-');
+            const eventDateObj = new Date(y, m - 1, d);
             
-            // Also logging to console for verification
-            console.log(selectedEvent);
+            const formattedDate = eventDateObj.toLocaleDateString('en-GB', {
+                day: 'numeric',
+                month: 'long',
+                year: 'numeric'
+            });
+
+            // 6. Inject into the WordPress container
+            // const container = document.getElementById('otd-container');
+            const container = document.getElementsByClassName('otd-container')[0];
+            
+            if (container) {
+                container.innerHTML = `
+                    <div class="otd-card" style="font-family: sans-serif; border-left: 4px solid #0073aa; padding: 15px; background: #f9f9f9; max-width: 600px;">
+                        <p style="margin: 0 0 5px 0; font-weight: bold; color: #333;">${formattedDate}</p>
+                        <p style="margin: 0 0 10px 0; line-height: 1.5; color: #000;">${selectedEvent.event}</p>
+                        <p style="margin: 0; font-size: 0.85em; color: #666; text-transform: uppercase;">Theme: ${selectedEvent.theme}</p>
+                    </div>
+                `;
+            }
         } else {
-            document.body.innerHTML = `<p>No events found for today's date: ${todayKey}</p>`;
+            console.warn(`No events found for ${todayKey}`);
         }
     } catch (error) {
-        console.error("Error loading event data:", error);
-        document.body.innerHTML = `<p>Error: ${error.message}. Ensure you are running this through a web server.</p>`;
+        // This will now report the specific error if something else fails
+        console.error("OTD Error:", error);
     }
 }
 
-// Execute the function
+// Initialise the function
 displayTodayEvent();
