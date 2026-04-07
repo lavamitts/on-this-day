@@ -413,9 +413,19 @@
                 "theme": "Science"
             },
             {
-                "date": "1970-06-21",
-                "event": "The birth of Pete Rock; while American, his innovative work as a producer and DJ heavily influenced the blossoming UK hip hop and underground music scenes. His signature sound helped shape the artistic direction of many British artists during the 1990s.",
-                "theme": "Culture"
+                "date": "1813-06-21",
+                "event": "The Battle of Vitoria took place during the Peninsular War, where a coalition army under the Duke of Wellington defeated the French forces. This decisive victory shattered Napoleonic control over Spain and forced a retreat toward France, significantly altering the military balance of power in nineteenth century Europe.",
+                "theme": "History"
+            },
+            {
+                "date": "1948-06-21",
+                "event": "The Manchester Baby, the world's first stored-program computer, successfully ran its first program. Developed at the University of Manchester, this pioneering achievement in science and engineering proved that a machine could store and execute instructions electronically, laying the foundation for all modern digital computing and technology.",
+                "theme": "Science"
+            },
+            {
+                "date": "2004-06-21",
+                "event": "SpaceShipOne became the first privately funded aircraft to achieve suborbital flight, reaching an altitude of over one hundred kilometres. This milestone in aerospace engineering opened a new chapter for commercial space exploration, demonstrating that non-governmental organisations could successfully navigate the boundary between Earth and outer space.",
+                "theme": "Science"
             },
             {
                 "date": "1961-06-21",

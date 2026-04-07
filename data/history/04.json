@@ -348,14 +348,19 @@
                 "theme": "History"
             },
             {
-                "date": "1934-04-18",
-                "event": "The birth of James Drury, the American actor best known for his title role in the long-running television series 'The Virginian'. His work in the Western genre was incredibly popular with UK television viewers during the 1960s, illustrating the significant impact of American media on British popular culture.",
-                "theme": "Culture"
+                "date": "1521-04-18",
+                "event": "Martin Luther appeared before the Diet of Worms to respond to charges of heresy. Refusing to recant his writings, he famously declared his conscience was captive to the Word of God. This defiant stance accelerated the Protestant Reformation, fundamentally altering the religious and political landscape of Europe.",
+                "theme": "History"
             },
             {
-                "date": "1954-04-18",
-                "event": "The birth of Rick Moranis, the Canadian actor and comedian. His roles in popular films such as 'Ghostbusters', 'Little Shop of Horrors', and 'Honey, I Shrunk the Kids' made him a well-known figure to UK audiences, showcasing the global reach of comedy and its resonance within British entertainment.",
-                "theme": "Culture"
+                "date": "1906-04-18",
+                "event": "A powerful earthquake struck San Francisco, sparking fires that burned for several days and destroyed much of the city. This catastrophe remains one of the most significant natural disasters in American history, leading to major advancements in seismology and the implementation of more rigorous urban building codes.",
+                "theme": "Science"
+            },
+            {
+                "date": "1951-04-18",
+                "event": "The Treaty of Paris was signed by six European nations, establishing the European Coal and Steel Community. This diplomatic milestone was designed to integrate heavy industries and prevent future conflict between member states, serving as a foundational step toward the eventual creation of the modern European Union.",
+                "theme": "Politics"
             }
         ]
     },
@@ -533,9 +538,19 @@
                 "theme": "Science"
             },
             {
+                "date": "1521-04-27",
+                "event": "Portuguese explorer Ferdinand Magellan was killed in the Philippines during the Battle of Mactan. Despite his death, his expedition continued and eventually completed the first circumnavigation of the globe, a monumental achievement in the history of exploration that proved the vastness of the Earth's oceans.",
+                "theme": "History"
+            },
+            {
+                "date": "1810-04-27",
+                "event": "Ludwig van Beethoven composed his famous piano piece Für Elise. Though it was not published until years after his death, the composition became one of the most recognised and beloved works in classical music, illustrating the enduring cultural influence of his artistic genius on a global scale.",
+                "theme": "Culture"
+            },
+            {
                 "date": "1994-04-27",
-                "event": "The birth of Corey Seager, the American professional baseball player. While baseball is primarily a US sport, Seager's successful career in Major League Baseball (MLB) is followed by a growing fanbase in the United Kingdom, reflecting the increasing global availability and popularity of international sports through modern media.",
-                "theme": "Sport"
+                "event": "South Africa held its first multi-racial democratic elections, marking the official end of the apartheid system. Nelson Mandela was subsequently elected as the nation's first Black president, a historic political shift that symbolised reconciliation and the dawn of a new era for the country and the world.",
+                "theme": "Politics"
             }
         ]
     },
@@ -583,14 +598,19 @@
         "date": "30-04",
         "events": [
             {
-                "date": "1901-04-30",
-                "event": "The birth of Simon Kuznets, the Russian-American economist. His pioneering work on the measurement of national income and the development of Gross Domestic Product (GDP) has been fundamental to economic policy and planning in the United Kingdom and around the world, providing a standard way to measure economic performance.",
+                "date": "1789-04-30",
+                "event": "George Washington took the oath of office at Federal Hall in New York City, becoming the first President of the United States. This inaugural event established many of the traditions and precedents for the executive branch that continue to define American political leadership and democratic governance today.",
                 "theme": "Politics"
             },
             {
-                "date": "1944-04-30",
-                "event": "The birth of Jill Clayburgh, the American actress known for her roles in films such as 'An Unmarried Woman'. Her performances were highly regarded by UK film critics and audiences, showcasing her ability to portray complex and independent women, which resonated with the shifting social attitudes of the time.",
-                "theme": "Culture"
+                "date": "1945-04-30",
+                "event": "Adolf Hitler committed suicide in his bunker in Berlin as Soviet forces advanced through the city during the final days of the Second World War. His death marked the imminent collapse of the Nazi regime and the end of major hostilities in the European theatre of the conflict.",
+                "theme": "History"
+            },
+            {
+                "date": "1993-04-30",
+                "event": "CERN announced that the World Wide Web technology would be free for everyone to use, with no fees due. This pivotal decision ensured the open growth of the internet, transforming global communication, commerce and information sharing into the ubiquitous digital landscape that defines the modern era.",
+                "theme": "Science"
             },
             {
                 "date": "1980-04-30",

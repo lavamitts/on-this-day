@@ -438,8 +438,13 @@
                 "theme": "History"
             },
             {
-                "date": "1923-07-22",
-                "event": "The birth of Bob Dole, the influential American statesman and senator. Throughout his long career, Dole worked closely with British diplomats on matters of international security and trade, embodying the 'Special Relationship' between the United Kingdom and the United States.",
+                "date": "1933-07-22",
+                "event": "Wiley Post completed the first solo flight around the world, landing in New York City after a journey of seven days and eighteen hours. This feat of endurance and navigation utilised advanced scientific instruments, such as a rudimentary autopilot and a radio compass, pushing the boundaries of aviation technology.",
+                "theme": "Science"
+            },
+            {
+                "date": "1944-07-22",
+                "event": "The Bretton Woods Conference concluded in New Hampshire, establishing the International Monetary Fund and the World Bank. These institutions were designed to regulate the international monetary and financial order after the Second World War, shaping global economic policy and political cooperation for the following decades.",
                 "theme": "Politics"
             }
         ]
@@ -498,9 +503,9 @@
                 "theme": "Science"
             },
             {
-                "date": "1967-07-25",
-                "event": "The birth of Matt LeBlanc, the American actor. While internationally famous for 'Friends', his time hosting the BBC's 'Top Gear' and starring in 'Episodes' made him a popular and familiar figure on British television screens for many years.",
-                "theme": "Culture"
+                "date": "1593-07-25",
+                "event": "King Henry IV of France formally abjured Protestantism and converted to Roman Catholicism. This strategic political move was intended to secure his hold on the French throne and end the Wars of Religion, famously leading him to remark that Paris was well worth a Mass.",
+                "theme": "Politics"
             }
         ]
     },

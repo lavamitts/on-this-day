@@ -108,14 +108,19 @@
                 "theme": "History"
             },
             {
-                "date": "1967-12-06",
-                "event": "The birth of Judd Apatow; the American director and producer's brand of 'Apatowian' comedy redefined the genre. His films, such as 'The 40-Year-Old Virgin,' are widely popular in the UK and have significantly influenced modern British comedic sensibilities.",
+                "date": "1768-12-06",
+                "event": "The first edition of the Encyclopædia Britannica was published in Edinburgh. This monumental project aimed to codify human knowledge during the Scottish Enlightenment, becoming a premier cultural and intellectual reference that remained in continuous publication for over two centuries, influencing global education and scholarship.",
                 "theme": "Culture"
             },
             {
-                "date": "1948-12-06",
-                "event": "The birth of JoBeth Williams; the American actress is best known for her roles in hit films like 'Poltergeist' and 'The Big Chill.' Her performances have made her widely known in the UK, where she remains a respected figure in film.",
-                "theme": "Culture"
+                "date": "1917-12-06",
+                "event": "The Halifax Explosion occurred when a French cargo ship carrying explosives collided with a Norwegian vessel in a Canadian harbour. The resulting blast was the largest human made explosion prior to the development of nuclear weapons, causing widespread destruction and leading to significant advancements in disaster response science.",
+                "theme": "Science"
+            },
+            {
+                "date": "1921-12-06",
+                "event": "The Anglo-Irish Treaty was signed in London, establishing the Irish Free State as a self-governing dominion within the British Empire. This historic political agreement ended the Irish War of Independence, though it also led to internal conflict regarding the partition of Northern Ireland and the nation's future status.",
+                "theme": "Politics"
             }
         ]
     },
@@ -173,9 +178,19 @@
                 "theme": "Culture"
             },
             {
-                "date": "1962-12-09",
-                "event": "The birth of Felicity Huffman; the American actress became a familiar face to UK audiences through her starring role in 'Desperate Housewives.' Her work across television and film has earned her widespread recognition and critical acclaim in the British Isles.",
+                "date": "1824-12-09",
+                "event": "The Battle of Ayacucho took place in Peru, marking a decisive victory for revolutionary forces over the Spanish colonial army. This military triumph effectively ended Spanish rule in South America, leading to the independence of Peru and the eventual formation of modern political boundaries across the continent.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1960-12-09",
+                "event": "The first episode of Coronation Street was broadcast on ITV in the United Kingdom. Created by Tony Warren, the programme became a staple of British culture and the world's longest running television soap opera, providing a social record of Northern English life and transforming the media landscape.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1968-12-09",
+                "event": "Douglas Engelbart performed what became known as The Mother of All Demos in San Francisco. He demonstrated fundamental elements of modern personal computing, including the computer mouse, hypertext and video conferencing, showcasing a revolutionary leap in science and technology that redefined the human computer interface.",
+                "theme": "Science"
             }
         ]
     },
@@ -388,19 +403,19 @@
         "date": "20-12",
         "events": [
             {
-                "date": "1983-12-20",
-                "event": "The birth of Jonah Hill; the American actor and filmmaker’s career has spanned from hit comedies to acclaimed dramatic roles. His films are consistently popular in the UK, where his comedic timing and acting range are highly appreciated.",
-                "theme": "Culture"
+                "date": "1803-12-20",
+                "event": "The Louisiana Purchase was formally completed as the United States took possession of the territory from France during a ceremony in New Orleans. This monumental political transaction doubled the size of the young nation, paving the way for westward expansion and significantly altering the geopolitical future of North America.",
+                "theme": "Politics"
             },
             {
-                "date": "1924-12-20",
-                "event": "The birth of Charlie Callas; the American comedian and actor was known for his rubber-faced antics and sound effects. His unique brand of humor reached the UK through various television appearances, making him a familiar face to British audiences.",
-                "theme": "Culture"
+                "date": "1860-12-20",
+                "event": "South Carolina became the first state to secede from the Federal Union, passing an ordinance that dissolved its connection with the United States. This pivotal moment in history escalated the sectional tensions over slavery and states' rights, directly leading to the outbreak of the American Civil War.",
+                "theme": "History"
             },
             {
-                "date": "1946-12-20",
-                "event": "The birth of Dick Wolf; the American television producer created the massive 'Law & Order' franchise. His shows became a staple of British television scheduling, reaching the UK via multiple networks and influencing the landscape of procedural drama.",
-                "theme": "Culture"
+                "date": "1996-12-20",
+                "event": "The world loss a pioneering figure in science and communication with the death of Carl Sagan. As an astronomer and educator, his work on the Voyager Golden Record and the television series Cosmos brought complex planetary science to a global audience, fostering a deeper cultural appreciation for the universe.",
+                "theme": "Science"
             }
         ]
     },
@@ -453,14 +468,19 @@
                 "theme": "Culture"
             },
             {
-                "date": "1964-12-23",
-                "event": "The birth of Eddie Vedder; as the lead singer of Pearl Jam, the American artist became a defining voice of the grunge movement. His music has a significant and loyal following in the UK, where his live performances are legendary.",
-                "theme": "Culture"
+                "date": "1688-12-23",
+                "event": "King James II of England fled the country for France during the Glorious Revolution. This departure was interpreted as an abdication, allowing Parliament to offer the throne to William of Orange and Mary II, a pivotal political event that established the supremacy of Parliament over the British monarchy.",
+                "theme": "Politics"
             },
             {
-                "date": "1952-12-23",
-                "event": "The birth of Jerry Seinfeld; the American comedian’s eponymous sitcom 'Seinfeld' became a global hit. His observational humor resonated with UK audiences, making the show a long-standing favorite on British television networks and streaming platforms.",
-                "theme": "Culture"
+                "date": "1947-12-23",
+                "event": "The transistor was first demonstrated by John Bardeen, Walter Brattain and William Shockley at Bell Laboratories. This monumental breakthrough in science and engineering replaced bulky vacuum tubes, enabling the miniaturisation of electronic devices and serving as the fundamental building block for all modern digital technology and computing.",
+                "theme": "Science"
+            },
+            {
+                "date": "1954-12-23",
+                "event": "The first successful human kidney transplant was performed by Dr Joseph Murray and his team in Boston. By using a living donor who was an identical twin, they bypassed the challenge of organ rejection, marking a revolutionary milestone in medical science and the history of surgical procedures.",
+                "theme": "Science"
             }
         ]
     },
@@ -533,14 +553,14 @@
                 "theme": "Science"
             },
             {
-                "date": "1975-12-27",
-                "event": "The birth of Heather O'Rourke; the American child actress became famous for her role in the 'Poltergeist' films. Her work remains widely known to UK audiences, who remember her as a talented young star whose life was tragically cut short.",
+                "date": "1904-12-27",
+                "event": "The play Peter Pan, or The Boy Who Wouldn't Grow Up, by J.M. Barrie, premiered at the Duke of York's Theatre in London. This cultural milestone introduced iconic characters and themes that have become deeply embedded in global literature and folklore, influencing generations of storytelling.",
                 "theme": "Culture"
             },
             {
-                "date": "1948-12-27",
-                "event": "The birth of Gerard Depardieu; the prolific French actor is a fixture of international cinema. His numerous roles have made him a well-known figure in the UK, where his films are regularly showcased in arthouse cinemas and film festivals.",
-                "theme": "Culture"
+                "date": "1945-12-27",
+                "event": "The World Bank and the International Monetary Fund were formally established following the signing of the Bretton Woods Agreement by twenty-eight nations. This political and economic framework was designed to rebuild the international financial system after the Second World War and promote global stability.",
+                "theme": "Politics"
             }
         ]
     },
@@ -593,14 +613,14 @@
                 "theme": "Politics"
             },
             {
-                "date": "1984-12-30",
-                "event": "The birth of LeBron James; the American basketball player is considered one of the greatest of all time. His legendary career and global influence have earned him many fans in the UK, where his games and highlights are widely followed.",
-                "theme": "Sport"
+                "date": "1916-12-30",
+                "event": "Grigori Rasputin, the influential mystic and advisor to the Russian Romanov family, was assassinated in Petrograd. His death was the result of a plot by Russian nobles who feared his political influence over Tsar Nicholas II and Tsarina Alexandra, a turning point that signalled the growing instability leading to the Russian Revolution.",
+                "theme": "History"
             },
             {
-                "date": "1961-12-30",
-                "event": "The birth of Sean Hannity; the American television host and political commentator's work is followed by UK political analysts and media observers. His influence on American conservative politics is a subject of significant interest within British political discourse.",
-                "theme": "Politics"
+                "date": "1924-12-30",
+                "event": "Edwin Hubble announced his discovery that the Andromeda Nebula is actually a distant galaxy beyond our own Milky Way. This scientific breakthrough proved that the universe was much larger than previously believed, fundamentally expanding the scope of modern astronomy and our understanding of the cosmos.",
+                "theme": "Science"
             }
         ]
     },

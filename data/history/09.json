@@ -73,9 +73,19 @@
                 "theme": "Culture"
             },
             {
-                "date": "1848-09-04",
-                "event": "The birth of Jennie Jerome, an American socialite who became Lady Randolph Churchill. As the mother of future Prime Minister Winston Churchill, she exerted a profound influence on his early life and political connections within the highest echelons of British society.",
+                "date": "1882-09-04",
+                "event": "Thomas Edison switched on the world's first commercial central power station at Pearl Street in New York City. This landmark achievement in science and engineering provided electricity to a small area of Manhattan, proving the feasibility of a centralised power grid and illuminating the modern industrial age.",
+                "theme": "Science"
+            },
+            {
+                "date": "1886-09-04",
+                "event": "Geronimo, the prominent leader and medicine man of the Apache people, surrendered to United States government forces. This event marked the end of the final major phase of the American Indian Wars, representing a significant and somber turning point in the political and territorial history of North America.",
                 "theme": "History"
+            },
+            {
+                "date": "1998-09-04",
+                "event": "Larry Page and Sergey Brin formally incorporated Google as a privately held company while students at Stanford University. This development fundamentally transformed how the world accesses information, creating a dominant cultural and technological force that redefined global communication, commerce and the digital landscape of the twenty first century.",
+                "theme": "Culture"
             }
         ]
     },

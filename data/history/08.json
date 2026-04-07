@@ -128,14 +128,19 @@
                 "theme": "Sport"
             },
             {
-                "date": "1958-08-07",
-                "event": "The birth of Bruce Dickinson, the powerhouse lead vocalist of the legendary British heavy metal band Iron Maiden. Beyond his musical career, Dickinson is known as a commercial pilot, fencer, and polymath, embodying the enduring spirit of British rock music.",
-                "theme": "Culture"
+                "date": "1942-08-07",
+                "event": "The Battle of Guadalcanal began as Allied forces, primarily United States Marines, initiated a surprise landing in the Solomon Islands. This marked the first major offensive by Allied powers against the Empire of Japan, beginning a pivotal campaign that shifted the strategic momentum in the Pacific theatre.",
+                "theme": "History"
             },
             {
-                "date": "1942-08-07",
-                "event": "The birth of American actor Tobin Bell. While best known for his role as Jigsaw in the 'Saw' franchise, his work has maintained a dedicated following among UK horror cinema fans, contributing to the genre's enduring popularity in British popular culture.",
-                "theme": "Culture"
+                "date": "1947-08-07",
+                "event": "Thor Heyerdahl and his crew on the Kon-Tiki balsa wood raft crashed into a reef at Raroia in the Tuamotu Islands after crossing the Pacific Ocean. This scientific expedition aimed to prove that ancient South Americans could have settled Polynesia using only indigenous materials and maritime technology.",
+                "theme": "Science"
+            },
+            {
+                "date": "1998-08-07",
+                "event": "Simultaneous bombings targeted the United States embassies in Dar es Salaam and Nairobi, causing widespread destruction and loss of life. These attacks brought international attention to the growing threat of global militant networks, fundamentally altering the political landscape of international security and counter-terrorism efforts.",
+                "theme": "Politics"
             }
         ]
     },
@@ -538,8 +543,13 @@
                 "theme": "History"
             },
             {
-                "date": "1910-08-27",
-                "event": "The birth of American actress Joan Bennett. Known for her roles in film noir and the gothic soap opera 'Dark Shadows,' Bennett was a highly familiar face in British cinemas during the Golden Age of Hollywood, maintaining a loyal UK following.",
+                "date": "1859-08-27",
+                "event": "Edwin Drake struck oil in Titusville, Pennsylvania, creating the first successful commercial oil well. This breakthrough in drilling technology launched the modern petroleum industry, providing a new source of energy that would eventually power the industrial world and transform global economic and political structures.",
+                "theme": "Science"
+            },
+            {
+                "date": "1955-06-27",
+                "event": "The first edition of The Guinness Book of Records was bound in London. Originally intended as a marketing tool for breweries to settle pub arguments, the book became an immense cultural phenomenon, documenting human achievements and natural extremes while becoming a household name across the British Isles and beyond.",
                 "theme": "Culture"
             }
         ]
@@ -588,14 +598,19 @@
         "date": "30-08",
         "events": [
             {
-                "date": "1908-08-30",
-                "event": "The birth of Fred MacMurray, the American actor who became a household name in the UK. Best known for his roles in Disney films and the sitcom 'My Three Sons,' he was a consistent presence on British television screens for several decades.",
-                "theme": "Culture"
+                "date": "1791-08-30",
+                "event": "The HMS Pandora sank after running aground on the Great Barrier Reef while searching for the Bounty mutineers. This maritime disaster resulted in the loss of many lives and significant historical artefacts, remaining a notable chapter in British naval history and the enduring legacy of the mutiny.",
+                "theme": "History"
             },
             {
-                "date": "1972-08-30",
-                "event": "The birth of Cameron Diaz. After her breakout role in 'The Mask,' Diaz became one of the highest-profile Hollywood actresses in the UK, with her films consistently topping the British box office and her style influencing fashion trends across the country.",
-                "theme": "Culture"
+                "date": "1835-08-30",
+                "event": "The city of Melbourne was founded in Australia by a group of free settlers from Van Diemen's Land. This event marked the beginning of a major urban centre that would grow into a key political and cultural hub within the British Empire and the modern Commonwealth.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1984-08-30",
+                "event": "The Space Shuttle Discovery took off on its maiden voyage from the Kennedy Space Center. As the third operational orbiter, it went on to complete more missions than any other shuttle, contributing significantly to scientific research, satellite deployment and the assembly of the International Space Station.",
+                "theme": "Science"
             },
             {
                 "date": "1871-08-30",
