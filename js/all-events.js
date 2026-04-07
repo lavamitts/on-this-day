@@ -1,6 +1,14 @@
 let viewDate = new Date();
 const rootPath = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/';
 
+// 1. Create a helper function for the scroll action
+function scrollToTop() {
+    const topElement = document.getElementById('inner-top');
+    if (topElement) {
+        topElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+}
+
 async function updateDisplay(targetDate) {
     const d = targetDate.getDate();
     const m = targetDate.getMonth() + 1;
@@ -37,31 +45,33 @@ function renderLayoutShell(date) {
     if (!container) return;
 
     const dateHeading = date.toLocaleDateString('en-GB', {
+        weekday: 'long',
         day: 'numeric',
         month: 'long'
     });
 
     container.innerHTML = `
-        <div class="otd-card" style="border: 1px solid #ccc; padding: 20px; border-radius: 8px;">
-            <div class="otd-nav" style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+        <div id="inner-top" class="otd-card" style="border: 1px solid #ccc; padding: 1rem; border-radius: 5px;">
+
+            <h2 style="text-align: center;">${dateHeading}</h2>
+            <div class="otd-nav">
                 <button id="otd-prev">Previous</button>
                 <button id="otd-today">Today</button>
                 <button id="otd-next">Next</button>
             </div>
 
-            <h2 style="text-align: center;">${dateHeading}</h2>
             <hr />
             
-            <h2 class="dark-blue">Historical events on this day</h2>
+            <h2 class="dark-blue">Historical events on ${dateHeading}</h2>
             <div id="otd-history-list">Loading history...</div>
             
             <hr />
             
-            <h2 class="dark-blue">${dateHeading} observes ...</h2>
+            <h2 class="dark-blue">Awareness days on ${dateHeading}</h2>
             <div id="otd-marquee-list">Loading marquee...</div>
 
             <hr />
-            <div class="otd-nav" style="display: flex; justify-content: space-between; margin-top: 15px;">
+            <div class="otd-nav">
                 <button id="otd-prev-bottom">Previous</button>
                 <button id="otd-today-bottom">Today</button>
                 <button id="otd-next-bottom">Next</button>
@@ -71,11 +81,18 @@ function renderLayoutShell(date) {
 
     // Helper to bind the same logic to both sets of buttons
     const bindNav = (suffix = '') => {
-        document.getElementById(`otd-prev${suffix}`).onclick = () => navigateDays(-1);
-        document.getElementById(`otd-next${suffix}`).onclick = () => navigateDays(1);
+        document.getElementById(`otd-prev${suffix}`).onclick = () => {
+            navigateDays(-1);
+            scrollToTop();
+        };
+        document.getElementById(`otd-next${suffix}`).onclick = () => {
+            navigateDays(1);
+            scrollToTop();
+        };
         document.getElementById(`otd-today${suffix}`).onclick = () => {
             viewDate = new Date();
             updateDisplay(viewDate);
+            scrollToTop();
         };
     };
 
@@ -136,11 +153,16 @@ function renderHistoryItem(ev) {
 
 // Template for Marquee items
 function renderMarqueeItem(ev) {
+    const urlHtml = ev.url 
+                ? `<p class="cal-url"><a href="${ev.url}" target="_blank" rel="noopener">Read more about ${ev.title}</a></p>` 
+                : '';
+
     return `
         <div class="otd-event-row" style="margin-bottom: 20px;">
             <div>
                 <p style="font-weight: bold; margin: 0;">${ev.title}</p>
                 <p style="margin: 2px 0 0 0;">${ev.summary}</p>
+                ${urlHtml}
             </div>
         </div>
     `;

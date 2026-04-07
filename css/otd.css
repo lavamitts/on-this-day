@@ -49,3 +49,9 @@ div.cal-card div.otd-card-content .otd-date {
   padding-bottom: 3px;
   background-image: url("/wp-content/uploads/2025/06/date-icon.webp");
 }
+
+.otd-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
