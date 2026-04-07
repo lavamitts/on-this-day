@@ -113,9 +113,19 @@
         "theme": "History"
       },
       {
-        "date": "1913-01-06",
-        "event": "The birth of Loretta Young; though an American actress, she was a massive star during the Golden Age of Hollywood and a household name for British cinema-goers. Her long career and elegant style made her a popular figure in the UK, reflecting the strong cultural ties and shared media between the two nations.",
-        "theme": "Culture"
+        "date": "1412-01-06",
+        "event": "The traditional birth date of Joan of Arc in Domrémy, France. She became a pivotal figure in the Hundred Years' War against England, claiming divine guidance to lead the French army. Her subsequent trial and execution made her a symbol of national identity and a Catholic saint.",
+        "theme": "History"
+      },
+      {
+        "date": "1838-01-06",
+        "event": "Samuel Morse and Alfred Vail first successfully demonstrated their electric telegraph system in New Jersey. This revolutionary technology utilised pulses of electricity to transmit messages across wires, fundamentally altering global communication and paving the way for the modern interconnected world through the development of Morse code.",
+        "theme": "Science"
+      },
+      {
+        "date": "1921-01-06",
+        "event": "The formal confirmation of the result of the Iraqi independence referendum took place, leading to the enthronement of Faisal I. This event was a significant moment in the British Mandate for Mesopotamia, marking a complex transition in Middle Eastern governance and the shifting boundaries of post-war political influence.",
+        "theme": "Politics"
       }
     ]
   },

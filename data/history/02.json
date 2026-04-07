@@ -48,9 +48,19 @@
                 "theme": "Politics"
             },
             {
-                "date": "1945-02-03",
-                "event": "The birth of Johnny Bragg, the American singer and songwriter. Despite his origins, his rhythm and blues work with The Prisonaires significantly influenced the UK's nascent rock and roll scene, helping to shape the sound of a generation of British musicians.",
+                "date": "1488-02-03",
+                "event": "Portuguese explorer Bartolomeu Dias anchored in Mossel Bay, becoming the first European known to have sailed around the southern tip of Africa. This voyage opened a maritime route from Europe to Asia, drastically changing global trade and expanding the geographical knowledge of the fifteenth century world.",
+                "theme": "History"
+            },
+            {
+                "date": "1959-02-03",
+                "event": "A tragic aeroplane crash in Iowa claimed the lives of Buddy Holly, Ritchie Valens and J.P. Richardson. Known as the day the music died, this event profoundly impacted the landscape of rock and roll, ending the careers of three influential performers during the genre's formative years.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1966-02-03",
+                "event": "The Soviet Union's Luna 9 spacecraft successfully completed the first controlled survivable landing on a celestial body, the Moon. It transmitted the first panoramic photographs from the lunar surface back to Earth, proving that the ground could support a heavy craft and advancing the international space race.",
+                "theme": "Science"
             },
             {
                 "date": "1960-02-03",
@@ -149,8 +159,8 @@
             },
             {
                 "date": "1904-02-08",
-                "event": "The birth of Addie McPhail, an American actress who became a familiar face in UK cinemas during the Golden Age of film. Her performances in early talkies and short comedies were popular with British audiences, showcasing the transatlantic cultural exchange of the 1920s.",
-                "theme": "Culture"
+                "event": "The Russo-Japanese War began with a surprise naval attack by Japan on the Russian fleet at Port Arthur. This conflict marked the first time in modern history that an Asian power defeated a European one, significantly altering the global balance of power and influencing future military strategies.",
+                "theme": "Politics"
             },
             {
                 "date": "1924-02-08",
@@ -313,9 +323,19 @@
                 "theme": "Science"
             },
             {
-                "date": "1903-02-16",
-                "event": "The birth of Edgar Bergen, the American ventriloquist. While his fame began in the US, his radio programs were a major hit with UK listeners during the 1930s and 40s, providing much-needed escapism and entertainment during the difficult war years.",
-                "theme": "Culture"
+                "date": "1923-02-16",
+                "event": "The burial chamber of Tutankhamun was officially opened by English archaeologist Howard Carter in the Valley of the Kings. This extraordinary discovery revealed a wealth of ancient treasures and sparked a global fascination with Egyptology, profoundly influencing art, design and popular culture throughout the early twentieth century.",
+                "theme": "History"
+            },
+            {
+                "date": "1959-02-16",
+                "event": "Fidel Castro was sworn in as Prime Minister of Cuba after leading a successful revolution against the government of Fulgencio Batista. This political shift established a socialist state in the Caribbean, leading to decades of diplomatic tension and significantly impacting the geopolitical landscape of the Cold War era.",
+                "theme": "Politics"
+            },
+            {
+                "date": "2005-02-16",
+                "event": "The Kyoto Protocol officially entered into force after its initial adoption in 1997. This international treaty aimed to reduce greenhouse gas emissions globally, representing a landmark moment in environmental science and policy as nations collectively committed to addressing the growing threat of human induced climate change.",
+                "theme": "Science"
             }
         ]
     },

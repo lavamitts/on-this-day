@@ -333,9 +333,19 @@
                 "theme": "Culture"
             },
             {
-                "date": "1984-03-17",
-                "event": "The birth of Katie Ledecky, the phenomenal American swimmer. Her extraordinary record of Olympic and world championship achievements has been closely followed and admired by British sports fans, highlighting the global appeal and inspiration of elite athleticism within the international sporting community.",
-                "theme": "Sport"
+                "date": "1861-02-17",
+                "event": "The Kingdom of Italy was officially proclaimed with Victor Emmanuel II as its first king. This momentous event marked the culmination of the Risorgimento, a decades-long movement for Italian unification that merged various states and territories into a single constitutional monarchy, transforming European geopolitics forever.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1958-02-17",
+                "event": "The British Campaign for Nuclear Disarmament was launched at a crowded public meeting at Central Hall, Westminster. This movement advocated for the unilateral renunciation of nuclear weapons by the United Kingdom and popularised the iconic peace symbol, which soon became a global emblem for anti-war activism.",
+                "theme": "Culture"
+            },
+            {
+                "date": "1969-02-17",
+                "event": "Golda Meir was elected as the Prime Minister of Israel, becoming the first woman to hold the position in the country and only the third woman in the world to serve as a head of government. Her leadership during the Yom Kippur War remains a significant chapter in political history.",
+                "theme": "Politics"
             }
         ]
     },
@@ -353,9 +363,19 @@
                 "theme": "Culture"
             },
             {
-                "date": "1996-03-18",
-                "event": "The birth of Madeline Carroll, the talented American actress. Her diverse body of work in film and television has reached a wide audience in the UK through various streaming services, reflecting the modern digital landscape of global media consumption and the popularity of international talent among British viewers.",
-                "theme": "Culture"
+                "date": "1314-03-18",
+                "event": "Jacques de Molay, the last Grand Master of the Knights Templar, was burnt at the stake in Paris. His execution followed a series of trials initiated by King Philip IV of France, effectively ending the influential medieval military order and leaving behind a legacy of mystery and myth.",
+                "theme": "History"
+            },
+            {
+                "date": "1965-03-18",
+                "event": "Soviet cosmonaut Alexei Leonov became the first person to exit a spacecraft and conduct a spacewalk. During the Voskhod 2 mission, he floated in the vacuum of space for twelve minutes, a significant milestone in science that proved humans could work outside a vehicle in orbit.",
+                "theme": "Science"
+            },
+            {
+                "date": "1967-03-18",
+                "event": "The supertanker Torrey Canyon struck a reef off the Cornish coast, causing a massive oil spill that devastated the local marine environment. This disaster led to significant changes in international maritime law and heightened public awareness regarding the ecological risks associated with large scale industrial transport.",
+                "theme": "Science"
             }
         ]
     },
@@ -588,9 +608,19 @@
                 "theme": "History"
             },
             {
-                "date": "1979-03-30",
-                "event": "The birth of Norah Jones, the gifted American singer-songwriter. Her unique blend of jazz, pop, and country music achieved immense popularity in the UK, with her debut album 'Come Away with Me' becoming a major commercial success and earning her a large and dedicated British following.",
-                "theme": "Culture"
+                "date": "1842-03-30",
+                "event": "Dr Crawford Long performed the first surgical operation using diethyl ether as an anaesthetic. By administering the gas to a patient during a tumour removal, he demonstrated a revolutionary advancement in medical science, allowing for painless surgeries and fundamentally changing the future of clinical practice and patient care.",
+                "theme": "Science"
+            },
+            {
+                "date": "1867-03-30",
+                "event": "The United States reached an agreement to purchase Alaska from the Russian Empire for 7.2 million dollars. Initially ridiculed as a folly, this political transaction expanded American territory significantly and eventually proved to be of immense strategic and economic value due to its vast natural resources.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1981-03-30",
+                "event": "President Ronald Reagan was shot and wounded in an assassination attempt outside a hotel in Washington, D.C. The event shocked the world and led to a temporary period of political instability, though Reagan's subsequent recovery bolstered his public popularity and influenced the debate surrounding American gun control.",
+                "theme": "History"
             },
             {
                 "date": "2002-03-30",
