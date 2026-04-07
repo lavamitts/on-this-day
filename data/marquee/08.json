@@ -1,0 +1,22 @@
+[
+    {
+        "date": "08-19",
+        "events": [
+            {
+                "title": "World Humanitarian Day",
+                "summary": "Designated by the UN to honour humanitarian workers and those who have lost their lives working for humanitarian causes, while advocating for the safety of aid workers.",
+                "url": "https://www.un.org/en/observances/humanitarian-day"
+            },
+            {
+                "title": "World Photography Day",
+                "summary": "An international celebration of the art, craft, science, and history of photography, encouraging people to share a single photo with the rest of the world.",
+                "url": "https://www.worldphotographyday.com/"
+            },
+            {
+                "title": "International Bow Day",
+                "summary": "A light-hearted celebration of the accessory that can be used in hair, on clothing, or for gift wrapping, often embraced by fashion enthusiasts.",
+                "url": ""
+            }
+        ]
+    }
+]

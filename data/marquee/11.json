@@ -1,0 +1,22 @@
+[
+    {
+        "date": "11-11",
+        "events": [
+            {
+                "title": "Remembrance Day / Armistice Day",
+                "summary": "Observed across the Commonwealth to recall the end of First World War hostilities. It involves a two-minute silence at 11:00 am to honour those who have died in the line of duty.",
+                "url": "https://www.britishlegion.org.uk/get-involved/remembrance"
+            },
+            {
+                "title": "Peacemaker Day",
+                "summary": "A day focused on those who work behind the scenes in diplomacy and community mediation to resolve conflicts without violence.",
+                "url": ""
+            },
+            {
+                "title": "Origami Day",
+                "summary": "A light-hearted celebration of the ancient Japanese art of paper folding, often used in schools to promote patience and mathematical precision.",
+                "url": ""
+            }
+        ]
+    }
+]

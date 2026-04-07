@@ -1,0 +1,22 @@
+[
+    {
+        "date": "03-08",
+        "events": [
+            {
+                "title": "International Women's Day",
+                "summary": "A global day celebrating the social, economic, cultural, and political achievements of women. The day also marks a call to action for accelerating women's equality.",
+                "url": "https://www.internationalwomensday.com/"
+            },
+            {
+                "title": "Commonwealth Day",
+                "summary": "Celebrated across the 56 member countries, this day features a multicultural service at Westminster Abbey and highlights the shared values and goals of the Commonwealth of Nations.",
+                "url": "https://thecommonwealth.org/commonwealth-day"
+            },
+            {
+                "title": "Proofreading Day",
+                "summary": "A light-hearted day created to promote error-free writing. It encourages people to take a second look at their emails and documents to avoid embarrassing typos.",
+                "url": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "date": "10-10",
+        "events": [
+            {
+                "title": "World Mental Health Day",
+                "summary": "An international day for global mental health education, awareness, and advocacy against social stigma, first celebrated in 1992 at the initiative of the World Federation for Mental Health.",
+                "url": "https://www.who.int/campaigns/world-mental-health-day"
+            },
+            {
+                "title": "World Homeless Day",
+                "summary": "An observance to draw attention to the needs of people who are homeless locally and provide opportunities for the community to get involved in responding to homelessness.",
+                "url": "http://www.worldhomelessday.org/"
+            },
+            {
+                "title": "National Handbag Day",
+                "summary": "A light-hearted day for fashionistas to celebrate the style and utility of the handbag, often featuring historical retrospectives of famous designer bags.",
+                "url": ""
+            }
+        ]
+    }
+]

@@ -1,26 +1,18 @@
-# Biddenham Village website WordPress SCSS
+# On this day ...
 
-This folder contains the SCSS and CSS files used to customise the biddenham.org.uk website.
+This folder contains the SCSS and CSS files used to customise the On this day function.
 
 ## How to use
 
-Form this folder, run one of these scripts:
-
-To generate a compressed version of the CSS (preferred) which watches as changes are made
-
-`sass --watch ./scss/otd.scss:./css/otd.css --no-source-map --style=compressed`
+From this folder, run this script:
 
 To generate an uncompressed version of the CSS (for testing) which watches as changes are made:
 
-`sass --watch ./scss/otd.scss:./css/otd.css --no-source-map --style=expanded`
+`sass --watch ./scss/_otd.scss:./css/otd.css --no-source-map --style=expanded`
 
 As a one-off CSS generation script, run this:
 
-`sass ./scss/otd.scss ./css/otd.css --no-source-map --style=compressed`
-
-or this:
-
-`sass ./scss/otd.scss ./css/otd.css --no-source-map --style=expanded`
+`sass ./scss/_otd.scss ./css/otd.css --no-source-map --style=expanded`
 
 ## Installation
 

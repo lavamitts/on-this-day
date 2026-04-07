@@ -1,0 +1,22 @@
+[
+    {
+        "date": "12-01",
+        "events": [
+            {
+                "title": "World AIDS Day",
+                "summary": "An international day dedicated to raising awareness of the AIDS pandemic caused by the spread of HIV infection and mourning those who have died of the disease.",
+                "url": "https://www.worldaidsday.org/"
+            },
+            {
+                "title": "Giving Tuesday",
+                "summary": "A global generosity movement unleashing the power of people and organisations to transform their communities and the world, following the consumerism of Black Friday.",
+                "url": "https://www.givingtuesday.org.uk/"
+            },
+            {
+                "title": "Eat a Red Apple Day",
+                "summary": "A light-hearted day promoting healthy eating and celebrating the variety of red apples available, often used by schools to discuss nutrition.",
+                "url": ""
+            }
+        ]
+    }
+]

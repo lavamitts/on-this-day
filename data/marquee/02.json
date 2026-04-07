@@ -1,0 +1,22 @@
+[
+    {
+        "date": "02-04",
+        "events": [
+            {
+                "title": "World Cancer Day",
+                "summary": "Led by the Union for International Cancer Control, this day aims to save millions of preventable deaths each year by raising awareness and education about cancer, and pressing governments to take action.",
+                "url": "https://www.worldcancerday.org/"
+            },
+            {
+                "title": "Time to Talk Day (UK)",
+                "summary": "The UK’s biggest mental health conversation day, run by Mind and Rethink Mental Illness. It encourages friends, families, and colleagues to talk about mental health to break down stigmas.",
+                "url": "https://timetotalkday.co.uk/"
+            },
+            {
+                "title": "British Yorkshire Pudding Day",
+                "summary": "Celebrated on the first Sunday of February (observed 1 Feb in 2026), this day honours the iconic staple of the British Sunday roast. It celebrates the culinary heritage of Yorkshire.",
+                "url": ""
+            }
+        ]
+    }
+]

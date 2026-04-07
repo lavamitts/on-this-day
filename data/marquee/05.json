@@ -1,0 +1,22 @@
+[
+    {
+        "date": "05-08",
+        "events": [
+            {
+                "title": "World Red Cross and Red Crescent Day",
+                "summary": "An annual celebration of the principles of the International Red Cross and Red Crescent Movement, paying tribute to staff and volunteers who save lives and assist vulnerable communities.",
+                "url": "https://www.icrc.org/en/who-we-are/history/world-red-cross-and-red-crescent-day"
+            },
+            {
+                "title": "National Ovarian Cancer Day (UK)",
+                "summary": "Part of a broader awareness month, this day focuses on educating women about the symptoms of ovarian cancer to encourage early diagnosis and improved survival rates.",
+                "url": "https://targetovariancancer.org.uk/"
+            },
+            {
+                "title": "No Socks Day",
+                "summary": "A light-hearted day that encourages people to ditch their hosiery for the day, allowing their feet to breathe and embrace the approaching summer weather.",
+                "url": ""
+            }
+        ]
+    }
+]

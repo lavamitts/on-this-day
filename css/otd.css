@@ -1,0 +1,26 @@
+div.otd-card {
+  max-width: 640px;
+}
+div.otd-card h2 {
+  color: #2868a8;
+  margin-bottom: 0.5rem;
+}
+div.otd-card div.otd-card-content {
+  display: flex;
+  gap: 1rem;
+}
+div.otd-card div.otd-card-content img {
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+}
+div.otd-card div.otd-card-content div,
+div.otd-card div.otd-card-content p {
+  margin: 0px;
+  padding: 0px;
+}
+div.otd-card div.otd-card-content .otd-date {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}

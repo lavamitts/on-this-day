@@ -1,0 +1,22 @@
+[
+    {
+        "date": "07-05",
+        "events": [
+            {
+                "title": "NHS Birthday (UK)",
+                "summary": "Commemorating the day the National Health Service was founded in 1948. It is a day of celebration for staff and patients across the UK to recognise the service's contribution to society.",
+                "url": "https://www.england.nhs.uk/nhsbirthday/"
+            },
+            {
+                "title": "Thank You Day",
+                "summary": "A UK initiative started during the pandemic to encourage people to say thank you to their neighbours, local businesses, and community volunteers.",
+                "url": "https://thankyouday.org.uk/"
+            },
+            {
+                "title": "World Bikini Day",
+                "summary": "A light-hearted anniversary of the day the bikini was first showcased in Paris in 1946, celebrating the history of swimwear and fashion evolution.",
+                "url": ""
+            }
+        ]
+    }
+]

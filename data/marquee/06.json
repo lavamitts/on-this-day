@@ -1,0 +1,22 @@
+[
+    {
+        "date": "06-05",
+        "events": [
+            {
+                "title": "World Environment Day",
+                "summary": "The United Nations' principal vehicle for encouraging awareness and action for the protection of the environment, with themes ranging from marine pollution to sustainable consumption.",
+                "url": "https://www.worldenvironmentday.global/"
+            },
+            {
+                "title": "National Fish and Chip Day (UK)",
+                "summary": "A celebration of the UK's most iconic dish. It brings together fish and chip shops, pubs, and restaurants to celebrate the heritage of the meal and the industry behind it.",
+                "url": "https://www.nationalfishandchipday.org.uk/"
+            },
+            {
+                "title": "Global Running Day",
+                "summary": "A light-hearted worldwide celebration of running that encourages everyone to get moving, regardless of their fitness level or distance covered.",
+                "url": "https://globalrunningday.org/"
+            }
+        ]
+    }
+]

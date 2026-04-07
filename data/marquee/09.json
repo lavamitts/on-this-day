@@ -1,0 +1,22 @@
+[
+    {
+        "date": "09-21",
+        "events": [
+            {
+                "title": "International Day of Peace",
+                "summary": "Established by the UN General Assembly, this day is devoted to strengthening the ideals of peace, both within and among all nations and peoples by observing 24 hours of non-violence.",
+                "url": "https://www.un.org/en/observances/international-day-peace"
+            },
+            {
+                "title": "World Alzheimer's Day",
+                "summary": "An international campaign to raise awareness and challenge the stigma that surrounds dementia, supported heavily by the Alzheimer's Society in the UK.",
+                "url": "https://www.alzheimers.org.uk/"
+            },
+            {
+                "title": "Miniature Golf Day",
+                "summary": "A light-hearted celebration of 'crazy golf'. It encourages people to visit their local course for a bit of competitive fun with friends and family.",
+                "url": ""
+            }
+        ]
+    }
+]

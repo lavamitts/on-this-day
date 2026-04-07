@@ -1,0 +1,42 @@
+[
+    {
+        "date": "01-01",
+        "events": [
+            {
+                "title": "Global Family Day",
+                "summary": "Originating from the UN Millennium celebration, this day promotes peace and sharing by encouraging families to spend time together and reach out to their community to promote a sense of global unity.",
+                "url": "https://www.un.org/en/observances/world-peace-day"
+            },
+            {
+                "title": "First Footing (UK/Scotland)",
+                "summary": "A traditional Scottish and Northern English custom where the first person to cross the threshold of a home after midnight brings luck for the coming year, traditionally carrying gifts like coal or shortbread.",
+                "url": ""
+            },
+            {
+                "title": "Public Domain Day",
+                "summary": "A light-hearted celebration for academics and creatives marking the date when copyrights expire and works enter the public domain, making them free for everyone to use and build upon.",
+                "url": "https://web.law.duke.edu/cspd/publicdomainday/"
+            }
+        ]
+    },
+    {
+        "date": "01-27",
+        "events": [
+            {
+                "title": "Holocaust Memorial Day",
+                "summary": "The international day to remember the six million Jews murdered during the Holocaust, alongside millions of other people killed under Nazi persecution and in subsequent genocides in Cambodia, Rwanda, Bosnia, and Darfur.",
+                "url": "https://www.hmd.org.uk/"
+            },
+            {
+                "title": "World Parental Alienation Awareness Day",
+                "summary": "An awareness day aimed at highlighting the impact of parental alienation on children and families, often supported by various family law and mental health charities in the UK.",
+                "url": ""
+            },
+            {
+                "title": "Chocolate Cake Day",
+                "summary": "A light-hearted day for confectionery lovers to celebrate one of the world's most popular desserts. Many bakeries and offices use the day to host bake-offs or charity cake sales.",
+                "url": ""
+            }
+        ]
+    }
+]
