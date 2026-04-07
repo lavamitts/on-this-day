@@ -1,0 +1,32 @@
+$dark-blue: #2868a8;
+
+div.otd-card {
+    max-width: 640px;
+    h2 {
+        color: $dark-blue;
+        margin-bottom: 0.5rem;
+    }
+
+    div.otd-card-content {
+        display: flex;
+        gap: 1rem;
+
+        img {
+            width: 80px;
+            height: 80px;
+            border-radius: 5px;
+        }
+
+        div,
+        p {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .otd-date {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+    }
+}

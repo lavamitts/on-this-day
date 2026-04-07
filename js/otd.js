@@ -7,7 +7,8 @@ async function displayTodayEvent() {
 
     // 2. Define the path (This is where the 'undefined' error usually happens)
     const fileName = `${month}.json`;
-    const baseUrl = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/data/';
+    const rootPath = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/';
+    const baseUrl = rootPath + 'data/history/';
     const filePath = `${baseUrl}${fileName}`;
 
     try {
@@ -27,7 +28,7 @@ async function displayTodayEvent() {
             const randomIndex = Math.floor(Math.random() * todayData.events.length);
             const selectedEvent = todayData.events[randomIndex];
             const theme = selectedEvent.theme;
-            const img = 'https://raw.githubusercontent.com/lavamitts/on-this-day/refs/heads/main/data/' theme.toLowerCase() + ".webp";
+            const otdThemeImage = rootPath + 'themes/otd-theme-' + theme.toLowerCase() + ".webp";
 
             // 5. Format the date string to "7 April 1945"
             // We split the "1945-04-07" string to avoid timezone shifts
@@ -46,10 +47,15 @@ async function displayTodayEvent() {
             
             if (container) {
                 container.innerHTML = `
-                    <div class="otd-card" style="font-family: sans-serif; border-left: 4px solid #0073aa; padding: 15px; background: #f9f9f9; max-width: 600px;">
-                        <p style="margin: 0 0 5px 0; font-weight: bold; color: #333;">${formattedDate}</p>
-                        <p style="margin: 0 0 10px 0; line-height: 1.5; color: #000;">${selectedEvent.event}</p>
-                        <p style="margin: 0; font-size: 0.85em; color: #666; text-transform: uppercase;">Theme: ${selectedEvent.theme}</p>
+                    <div class="otd-card">
+                        <h2>On this day in history...</h2>
+                        <div class="otd-card-content">
+                            <img src="${otdThemeImage}" />
+                            <div class="otd-event-and-date">
+                                <p class="otd-date">${formattedDate}</p>
+                                <p class="otd-event">${selectedEvent.event}</p>
+                            </div>
+                        </div>
                     </div>
                 `;
             }

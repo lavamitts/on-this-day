@@ -1,0 +1,102 @@
+[
+    {
+        "date": "04-01",
+        "events": [
+            {
+                "title": "April Fools' Day",
+                "summary": "A day for playing practical jokes and spreading hoaxes. In the UK, tradition dictates that jokes must be played before midday; anyone attempting a prank after noon is considered the fool themselves.",
+                "url": "https://www.historic-uk.com/CultureUK/April-Fools-Day/"
+            },
+            {
+                "title": "National Pet Month (UK) Starts",
+                "summary": "Running from 1 April to 3 May, this campaign promotes responsible pet ownership and raises funds for UK animal charities while celebrating the bond between humans and their animal companions.",
+                "url": "https://www.nationalpetmonth.org.uk/"
+            },
+            {
+                "title": "Edible Book Day",
+                "summary": "A light-hearted global event where bibliophiles create 'books' made of food. Creations are exhibited and then eaten, usually held on or around the birthday of French gastronome Jean-Anthelme Brillat-Savarin.",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "date": "04-02",
+        "events": [
+            {
+                "title": "World Autism Awareness Day",
+                "summary": "Designated by the United Nations to encourage member states to take measures to raise awareness about people with Autism Spectrum Disorder throughout the world.",
+                "url": "https://www.un.org/en/observances/autism-day"
+            },
+            {
+                "title": "International Children's Book Day",
+                "summary": "Organised by the International Board on Books for Young People (IBBY) to inspire a love of reading and to call attention to children's literature, held on Hans Christian Andersen’s birthday.",
+                "url": "https://www.ibby.org/awards-activities/activities/international-childrens-book-day"
+            },
+            {
+                "title": "Peanut Butter and Jelly Day",
+                "summary": "A light-hearted day celebrating the classic sandwich combination. Whilst more popular in the US, it is often used by snack enthusiasts in the UK as an excuse for a nostalgic lunch.",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "date": "04-07",
+        "events": [
+            {
+                "title": "World Health Day",
+                "summary": "A global health awareness day celebrated under the sponsorship of the World Health Organization (WHO) to mark the founding of the organisation and highlight a priority area of global health.",
+                "url": "https://www.who.int/campaigns/world-health-day"
+            },
+            {
+                "title": "International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda",
+                "summary": "A UN observance to honour the victims of the genocide in Rwanda and to promote the prevention of future atrocities through education and remembrance.",
+                "url": "https://www.un.org/en/preventgenocide/rwanda/"
+            },
+            {
+                "title": "No Housework Day",
+                "summary": "A light-hearted day encouraging people to take a break from the endless cycle of cleaning, dusting, and laundry. The goal is to focus on relaxation or hobbies instead of domestic chores.",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "date": "04-22",
+        "events": [
+            {
+                "title": "Earth Day",
+                "summary": "An annual event to demonstrate support for environmental protection. First held in 1970, it now includes a wide range of events coordinated globally by Earthday.org in more than 193 countries.",
+                "url": "https://www.earthday.org/"
+            },
+            {
+                "title": "Stephen Lawrence Day",
+                "summary": "Established in the UK to mark the anniversary of Stephen Lawrence's death. It is a day dedicated to his memory and to fostering a fairer society for young people regardless of their background.",
+                "url": "https://www.stephenlawrenceday.org/"
+            },
+            {
+                "title": "Jelly Bean Day",
+                "summary": "A light-hearted day dedicated to the colourful confectionery. It is a popular date for primary schools and offices to host small charity 'guess the number of beans in the jar' competitions.",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "date": "04-23",
+        "events": [
+            {
+                "title": "St George's Day",
+                "summary": "The feast day of Saint George, the patron saint of England. Traditionally celebrated with the flying of the St George's Cross and community events focused on English heritage and culture.",
+                "url": "https://www.english-heritage.org.uk/visit/whats-on/st-georges-day/"
+            },
+            {
+                "title": "World Book and Copyright Day",
+                "summary": "A UNESCO initiative to promote reading, publishing, and copyright. It marks the death anniversary of William Shakespeare and Miguel de Cervantes.",
+                "url": "https://www.unesco.org/en/days/world-book-and-copyright"
+            },
+            {
+                "title": "English Language Day",
+                "summary": "A UN observance day to celebrate multilingualism and cultural diversity. It is held on the date traditionally observed as both the birthday and date of death of William Shakespeare.",
+                "url": "https://www.un.org/en/observances/english-language-day"
+            }
+        ]
+    }
+]
