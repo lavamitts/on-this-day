@@ -336,6 +336,11 @@
                 "date": "1775-12-16",
                 "event": "The birth of Jane Austen, the celebrated English novelist, in Steventon. Her astute social commentary and beloved works like 'Pride and Prejudice' have made her one of the most widely read and cherished authors in English literature.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1944-12-16",
+                "event": "The Battle of the Bulge began as Germany launched a final major offensive through the Ardennes forest. The Allied resistance depleted German resources and accelerated the end of the war.",
+                "theme": "History"
             }
         ]
     },

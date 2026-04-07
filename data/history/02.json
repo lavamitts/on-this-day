@@ -83,6 +83,11 @@
                 "theme": "Sport"
             },
             {
+                "date": "1945-02-04",
+                "event": "The Yalta Conference took place in the Crimea. Allied leaders met to discuss the final defeat of Germany and the reorganisation of Europe, including the future of Poland and the creation of the United Nations.",
+                "theme": "Politics"
+            },
+            {
                 "date": "1962-02-04",
                 "event": "The Sunday Times Magazine is published for the first time, revolutionising British supplements with its high-quality color photography and investigative journalism. It set a new standard for weekend reading, influencing the layout and content of newspapers across the United Kingdom.",
                 "theme": "Culture"
@@ -391,6 +396,11 @@
                 "date": "1924-02-19",
                 "event": "The birth of Lee Marvin, the Oscar-winning American actor. Known for his tough-guy roles, Marvin was a perennial favorite in UK action cinema, with his gritty performances in films like 'The Dirty Dozen' resonating deeply with British movie-going audiences.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1945-02-19",
+                "event": "The Battle of Iwo Jima began as United States Marines landed on the island. The intense combat resulted in some of the fiercest fighting in the Pacific and produced the iconic flag-raising photograph.",
+                "theme": "History"
             },
             {
                 "date": "1960-02-19",

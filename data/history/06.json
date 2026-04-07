@@ -68,6 +68,11 @@
                 "theme": "History"
             },
             {
+                "date": "1942-06-04",
+                "event": "The Battle of Midway began in the Pacific. The United States Navy defeated an attacking fleet of the Imperial Japanese Navy, inflicting devastating damage that proved to be a turning point in the war.",
+                "theme": "History"
+            },
+            {
                 "date": "1738-06-04",
                 "event": "The birth of King George III at Norfolk House in London. His long reign included the American War of Independence and the Napoleonic Wars, and he became the first monarch of the House of Hanover to speak English as his first language.",
                 "theme": "History"
@@ -440,6 +445,11 @@
             {
                 "date": "1948-06-22",
                 "event": "The HMT Empire Windrush arrives at Tilbury Docks, carrying hundreds of passengers from the Caribbean. This historic event marked the beginning of the Windrush generation and a significant new chapter in the development of modern, multicultural British society.",
+                "theme": "History"
+            },
+            {
+                "date": "1941-06-22",
+                "event": "Germany launched Operation Barbarossa, the massive invasion of the Soviet Union. This broke the Molotov-Ribbentrop Pact and opened the Eastern Front, the largest theatre of war in history.",
                 "theme": "History"
             },
             {

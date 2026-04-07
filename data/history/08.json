@@ -298,6 +298,11 @@
                 "theme": "Culture"
             },
             {
+                "date": "1945-08-15",
+                "event": "Victory over Japan Day was announced following Japan's surrender. This effectively ended the fighting in the Pacific and across the globe.",
+                "theme": "History"
+            },
+            {
                 "date": "1947-08-15",
                 "event": "India and Pakistan officially gain independence from British rule, marking the end of the British Raj. This historic event led to the Partition of the subcontinent and signaled a major turning point in the decolonization of the British Empire.",
                 "theme": "Politics"
@@ -463,6 +468,11 @@
                 "theme": "Culture"
             },
             {
+                "date": "1942-08-23",
+                "event": "The Battle of Stalingrad commenced, becoming one of the bloodiest battles in human history. The eventual Soviet victory marked the start of the German retreat from the East.",
+                "theme": "History"
+            },
+            {
                 "date": "1946-08-23",
                 "event": "The birth of Keith Moon, the legendary and erratic drummer of The Who. Renowned for his explosive drumming style and destructive off-stage antics, Moon is widely regarded as one of the greatest and most influential drummers in the history of rock.",
                 "theme": "Culture"
@@ -546,11 +556,6 @@
                 "date": "1859-08-27",
                 "event": "Edwin Drake struck oil in Titusville, Pennsylvania, creating the first successful commercial oil well. This breakthrough in drilling technology launched the modern petroleum industry, providing a new source of energy that would eventually power the industrial world and transform global economic and political structures.",
                 "theme": "Science"
-            },
-            {
-                "date": "1955-06-27",
-                "event": "The first edition of The Guinness Book of Records was bound in London. Originally intended as a marketing tool for breweries to settle pub arguments, the book became an immense cultural phenomenon, documenting human achievements and natural extremes while becoming a household name across the British Isles and beyond.",
-                "theme": "Culture"
             }
         ]
     },

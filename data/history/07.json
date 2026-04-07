@@ -88,6 +88,11 @@
                 "theme": "Science"
             },
             {
+                "date": "1943-07-05",
+                "event": "The Battle of Kursk, the largest tank battle in history, took place on the Eastern Front. The Soviet victory ended German hopes of regaining the initiative in the Soviet Union.",
+                "theme": "History"
+            },
+            {
                 "date": "1945-07-05",
                 "event": "The first post-war General Election is held in the UK. The result was a stunning landslide victory for Clement Attlee's Labour Party, ousting wartime leader Winston Churchill and ushering in a period of massive social reform and decolonization.",
                 "theme": "Politics"
