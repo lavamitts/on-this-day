@@ -126,6 +126,11 @@
                 "date": "1522-09-06",
                 "event": "The ship Victoria returned to Spain, completing the first-ever circumnavigation of the globe. This monumental maritime feat greatly inspired later British explorers, such as Sir Francis Drake, to pursue global voyages and expand Britain's naval reach across the world's vast oceans.",
                 "theme": "History"
+            },
+            {
+                "date": "1914-09-06",
+                "event": "The First Battle of the Marne began, where French and British forces halted the German advance toward Paris. This victory ended German hopes for a quick conquest of France and led to the stalemate of trench warfare that defined the Western Front.",
+                "theme": "History"
             }
         ]
     },
