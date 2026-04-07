@@ -356,6 +356,11 @@
                 "date": "1911-05-18",
                 "event": "The death of Gustav Mahler; his work remains a staple of the British orchestral repertoire.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1922-05-18",
+                "event": "War Memorial Unveiling: The Biddenham War Memorial, a Celtic cross on the village green, is officially unveiled and dedicated. it commemorates ten local men lost in the Great War and three from the Second World War.",
+                "theme": "History"
             }
         ]
     },
@@ -596,6 +601,11 @@
                 "date": "1980-05-30",
                 "event": "The death of English actor and comedian Peter Sellers.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1932-05-30",
+                "event": "The Dovecote Restoration: Work is completed on the restoration of the 18th-century timber-framed dovecote under the direction of Professor Richardson. Though later demolished in 1966, this restoration was a major local heritage effort.",
+                "theme": "History"
             }
         ]
     },
