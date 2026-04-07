@@ -116,6 +116,11 @@
                 "date": "1928-08-06",
                 "event": "The birth of Andy Warhol in Pittsburgh. While American, Warhol’s pioneering pop art and obsession with celebrity culture had a profound and lasting impact on the UK art scene, influencing countless British artists and the aesthetic of the 'Swinging Sixties.'",
                 "theme": "Culture"
+            },
+            {
+                "date": "2024-08-06",
+                "event": "Ukrainian forces initiated a surprise cross-border incursion into Russia's Kursk Oblast, capturing several settlements and marking the first time foreign troops had occupied Russian soil since the Second World War. This moved the front lines directly into Russian territory.",
+                "theme": "History"
             }
         ]
     },
@@ -140,6 +145,11 @@
             {
                 "date": "1998-08-07",
                 "event": "Simultaneous bombings targeted the United States embassies in Dar es Salaam and Nairobi, causing widespread destruction and loss of life. These attacks brought international attention to the growing threat of global militant networks, fundamentally altering the political landscape of international security and counter-terrorism efforts.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1964-08-07",
+                "event": "The United States Congress passed the Gulf of Tonkin Resolution following reported clashes between North Vietnamese and American vessels. This political mandate granted President Lyndon B. Johnson broad authority to escalate military involvement without a formal declaration of war.",
                 "theme": "Politics"
             }
         ]
@@ -261,6 +271,11 @@
                 "date": "1910-08-13",
                 "event": "The death of Florence Nightingale, the 'Lady with the Lamp' and founder of modern nursing. Her pioneering work during the Crimean War and her subsequent efforts in hospital reform and statistics fundamentally changed the nature of healthcare in the UK.",
                 "theme": "Science"
+            },
+            {
+                "date": "1961-08-13",
+                "event": "The German Democratic Republic began the construction of the Berlin Wall to prevent citizens from fleeing to the West. The wall became the pre-eminent physical symbol of the Cold War and the ideological divide between communism and capitalism.",
+                "theme": "History"
             }
         ]
     },
@@ -446,6 +461,11 @@
                 "date": "1922-08-22",
                 "event": "The death of Michael Collins, the Irish revolutionary leader, who was killed in an ambush during the Irish Civil War. His role in the negotiation of the Anglo-Irish Treaty remained a central and controversial point in British-Irish political history.",
                 "theme": "Politics"
+            },
+            {
+                "date": "1642-08-22",
+                "event": "King Charles I raised his royal standard at Nottingham, effectively declaring war on Parliament. This act formalised the split between the Cavaliers and the Roundheads, marking the official commencement of the first English Civil War.",
+                "theme": "History"
             },
             {
                 "date": "1862-08-22",

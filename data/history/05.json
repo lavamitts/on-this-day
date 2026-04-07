@@ -36,6 +36,11 @@
                 "date": "1953-05-02",
                 "event": "The first ever televised FA Cup Final, legendary as the 'Matthews Final', takes place at Wembley Stadium. Stanley Matthews' inspired performance led Blackpool to a 4-3 victory over Bolton Wanderers, captivating a massive audience during the early years of television.",
                 "theme": "Sport"
+            },
+            {
+                "date": "1982-05-02",
+                "event": "The Argentine cruiser General Belgrano was sunk by the British nuclear powered submarine HMS Conqueror. This event resulted in heavy loss of life and caused the Argentine navy to withdraw its surface fleet to coastal waters for the remainder of the conflict.",
+                "theme": "History"
             }
         ]
     },
@@ -76,6 +81,11 @@
                 "date": "1471-05-04",
                 "event": "The Battle of Tewkesbury results in a decisive victory for the Yorkist King Edward IV over the Lancastrian forces. The death of Edward, Prince of Wales, during the battle effectively secured Yorkist control and brought temporary stability during the Wars of the Roses.",
                 "theme": "History"
+            },
+            {
+                "date": "1982-05-04",
+                "event": "The British destroyer HMS Sheffield was struck by an Exocet missile launched from an Argentine Super Étendard aircraft. This successful use of sea-skimming missile technology highlighted the vulnerability of modern surface ships and was a significant blow to the British task force.",
+                "theme": "Science"
             }
         ]
     },
@@ -135,6 +145,11 @@
             {
                 "date": "1915-05-07",
                 "event": "The British ocean liner RMS Lusitania is torpedoed and sunk by a German U-boat off the southern coast of Ireland. The tragic loss of nearly 1,200 lives, including many civilians, caused international outrage and significantly influenced American public opinion toward World War I.",
+                "theme": "History"
+            },
+            {
+                "date": "1954-05-07",
+                "event": "Viet Minh forces defeated the French army at the Battle of Dien Bien Phu, ending nearly a century of French colonial rule in Indochina. The subsequent Geneva Accords temporarily divided the country at the 17th parallel, setting the stage for future conflict.",
                 "theme": "History"
             }
         ]
@@ -276,6 +291,11 @@
                 "date": "1264-05-14",
                 "event": "The Battle of Lewes takes place in Sussex, where rebel forces led by Simon de Montfort defeat the army of King Henry III. This victory led to the creation of the first representative parliament in England, marking a significant step toward constitutional government.",
                 "theme": "History"
+            },
+            {
+                "date": "1955-05-14",
+                "event": "The Warsaw Pact was signed by the Soviet Union and seven other Eastern Bloc socialist republics. Created as a strategic military counterpart to NATO, it solidified the military and political iron curtain across the continent.",
+                "theme": "Politics"
             }
         ]
     },
@@ -566,6 +586,11 @@
                 "date": "1759-05-28",
                 "event": "William Pitt the Younger, the youngest ever British Prime Minister, is born. Taking office at the age of 24, he led the country through the tumultuous years of the French Revolutionary and Napoleonic Wars, fundamentally reforming the British administrative and financial systems.",
                 "theme": "Politics"
+            },
+            {
+                "date": "1982-05-28",
+                "event": "The Battle of Goose Green took place, representing the first major land engagement of the war. British paratroopers defeated a larger Argentine force in a hard fought battle, establishing a vital foothold on East Falkland and boosting Allied morale.",
+                "theme": "History"
             }
         ]
     },

@@ -216,6 +216,11 @@
                 "date": "1978-03-11",
                 "event": "The birth of Didier Drogba, the legendary Ivorian striker. His highly successful career at Chelsea FC, where he won multiple Premier League titles and a historic Champions League trophy, made him one of the most respected and influential players in the history of British football.",
                 "theme": "Sport"
+            },
+            {
+                "date": "1985-03-11",
+                "event": "Mikhail Gorbachev became the leader of the Soviet Union, introducing the transformative policies of Glasnost and Perestroika. These reforms aimed to modernise the Soviet political and economic system but ultimately contributed to its dissolution.",
+                "theme": "Politics"
             }
         ]
     },
@@ -236,6 +241,11 @@
                 "date": "1946-03-12",
                 "event": "The birth of Liza Minnelli, the iconic American actress and singer. Her spectacular performances on the London stage, particularly in her celebrated cabaret shows and concert residencies, have earned her a legendary status among UK theatre audiences and cemented her international superstardom.",
                 "theme": "Culture"
+            },
+            {
+                "date": "1947-03-12",
+                "event": "President Harry S. Truman established the Truman Doctrine, pledging political, military and economic assistance to all democratic nations under threat from external or internal authoritarian forces. This policy of containment became the foundation of American foreign policy throughout the Cold War.",
+                "theme": "Politics"
             }
         ]
     },

@@ -556,6 +556,11 @@
         "date": "1979-01-27",
         "event": "The birth of Rosamund Pike in London. Pike has established herself as one of Britain's leading actresses, earning international acclaim for her roles in films such as 'Gone Girl', for which she received an Oscar nomination, and 'Pride & Prejudice'. Her success continues the long tradition of British actors achieving major Hollywood stardom.",
         "theme": "Culture"
+      },
+      {
+        "date": "1973-01-27",
+        "event": "The Paris Peace Accords were signed, established a ceasefire and facilitating the withdrawal of the remaining United States combat troops. This marked the end of direct American military intervention, although fighting between North and South continued.",
+        "theme": "Politics"
       }
     ]
   },
@@ -616,6 +621,11 @@
         "date": "1974-01-30",
         "event": "The birth of Olivia Colman in Norwich. Colman has become one of the most celebrated British actresses of her generation, winning an Academy Award for her portrayal of Queen Anne in 'The Favourite'. Her range across comedy and drama has made her a beloved figure on both British television and the international stage.",
         "theme": "Culture"
+      },
+      {
+        "date": "1968-01-30",
+        "event": "North Vietnamese and Viet Cong forces launched the Tet Offensive, a massive series of coordinated attacks across South Vietnam. Though a military failure for the North, it was a psychological victory that turned American public opinion sharply against the war.",
+        "theme": "History"
       }
     ]
   },

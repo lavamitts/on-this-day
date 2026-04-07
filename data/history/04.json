@@ -16,6 +16,11 @@
                 "date": "1983-04-01",
                 "event": "A massive anti-nuclear protest took place as approximately 70,000 people joined hands to form a human chain. Stretching fourteen miles between the Greenham Common Women's Peace Camp and the munitions factory at Aldermaston, this powerful demonstration remains a defining moment in British political activism against the deployment of nuclear weapons.",
                 "theme": "Politics"
+            },
+            {
+                "date": "2022-04-01",
+                "event": "Ukrainian forces recaptured the suburb of Bucha as Russian troops withdrew from the Kyiv region. The discovery of widespread atrocities committed against civilians gained global notoriety and led to international calls for war crimes investigations.",
+                "theme": "History"
             }
         ]
     },
@@ -615,6 +620,11 @@
             {
                 "date": "1980-04-30",
                 "event": "The Iranian Embassy Siege in London began when a group of six armed men stormed the building and took 26 people hostage. The six-day standoff ended dramatically with a successful rescue operation by the Special Air Service (SAS), an event that was broadcast live and captured national attention.",
+                "theme": "History"
+            },
+            {
+                "date": "1975-04-30",
+                "event": "Saigon fell to North Vietnamese forces as the final American personnel were evacuated by helicopter. This event unified the country under communist rule and remains a poignant symbol of the war's conclusion and the limits of Western intervention.",
                 "theme": "History"
             }
         ]

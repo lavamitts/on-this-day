@@ -426,6 +426,11 @@
                 "date": "1971-02-20",
                 "event": "The birth of Jari Litmanen, the Finnish football star. His later career at Liverpool and his success in the Champions League brought him to prominence for UK fans, where he was celebrated for his exceptional technical skill and creative playmaking ability.",
                 "theme": "Sport"
+            },
+            {
+                "date": "2014-02-20",
+                "event": "Russian forces began the occupation of Crimea following the Ukrainian Revolution of Dignity. This culminated in the illegal annexation of the peninsula, marking the start of the Russo-Ukrainian War and a fundamental shift in post-Cold War European security.",
+                "theme": "Politics"
             }
         ]
     },
@@ -510,6 +515,11 @@
             {
                 "date": "1981-02-24",
                 "event": "The engagement of Prince Charles and Lady Diana Spencer is officially announced from Buckingham Palace. The news sparked a media frenzy and widespread public celebration, setting the stage for their 'fairytale' wedding at St Paul's Cathedral later that year.",
+                "theme": "History"
+            },
+            {
+                "date": "2022-02-24",
+                "event": "Russia launched a full-scale invasion of Ukraine, targeting major cities including the capital, Kyiv. This escalation triggered the largest refugee crisis in Europe since the Second World War and led to unprecedented international sanctions against the Russian state.",
                 "theme": "History"
             }
         ]
