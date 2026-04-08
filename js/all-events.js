@@ -50,15 +50,33 @@ function renderLayoutShell(date) {
         month: 'long'
     });
 
+    // Format current viewDate to YYYY-MM-DD for the date input value
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    const dateValue = `${year}-${month}-${day}`;
+
     container.innerHTML = `
         <div id="inner-top" class="otd-card" style="border: 1px solid #ccc; padding: 1rem; border-radius: 5px;">
 
             <h2 style="text-align: center;">${dateHeading}</h2>
+            
             <div class="otd-nav">
-                <button id="otd-prev">Previous</button>
+                <button id="otd-prev">&lt;&lt;</button>
                 <button id="otd-today">Today</button>
-                <button id="otd-next">Next</button>
+                <button id="otd-next">&gt;&gt;</button>
+                <div>
+                    <input type="date" id="otd-date-input" value="${dateValue}">
+                    <button id="otd-go">Go</button>
+                </div>
             </div>
+
+            <!--
+            <div class="otd-date-selector" style="text-align: center; margin-bottom: 1rem;">
+                <input type="date" id="otd-date-input" value="${dateValue}">
+                <button id="otd-go">Go</button>
+            </div>
+            //-->
 
             <hr />
             
@@ -71,7 +89,7 @@ function renderLayoutShell(date) {
             <div id="otd-marquee-list">Loading marquee...</div>
 
             <hr />
-            <div class="otd-nav">
+            <div class="otd-nav" style="text-align: center;">
                 <button id="otd-prev-bottom">Previous</button>
                 <button id="otd-today-bottom">Today</button>
                 <button id="otd-next-bottom">Next</button>
@@ -79,7 +97,7 @@ function renderLayoutShell(date) {
         </div>
     `;
 
-    // Helper to bind the same logic to both sets of buttons
+    // Bind Navigation Buttons
     const bindNav = (suffix = '') => {
         document.getElementById(`otd-prev${suffix}`).onclick = () => {
             navigateDays(-1);
@@ -96,9 +114,20 @@ function renderLayoutShell(date) {
         };
     };
 
-    // Attach listeners to top and bottom buttons
-    bindNav();           // Handles otd-prev, etc.
-    bindNav('-bottom');  // Handles otd-prev-bottom, etc.
+    bindNav();
+    bindNav('-bottom');
+
+    // Bind the "Go" button logic
+    document.getElementById('otd-go').onclick = () => {
+        const input = document.getElementById('otd-date-input');
+        if (input.value) {
+            // The date input returns "YYYY-MM-DD", which the Date constructor 
+            // parses correctly while respecting leap years.
+            viewDate = new Date(input.value);
+            updateDisplay(viewDate);
+            scrollToTop();
+        }
+    };
 }
 
 async function fetchAndRenderData(url, elementId, lookupKey, itemTemplateFn) {
@@ -111,7 +140,14 @@ async function fetchAndRenderData(url, elementId, lookupKey, itemTemplateFn) {
         const dayEntry = monthData.find(entry => entry.date.trim() === lookupKey);
 
         if (dayEntry && dayEntry.events && dayEntry.events.length > 0) {
-            listContainer.innerHTML = dayEntry.events.map(itemTemplateFn).join('');
+            // Sort events by the 'date' property in ascending order
+            const sortedEvents = dayEntry.events.sort((a, b) => {
+                if (a.date < b.date) return -1;
+                if (a.date > b.date) return 1;
+                return 0;
+            });
+
+            listContainer.innerHTML = sortedEvents.map(itemTemplateFn).join('');
         } else {
             listContainer.innerHTML = '<p>No data found for this date.</p>';
         }
