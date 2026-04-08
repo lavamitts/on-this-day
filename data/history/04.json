@@ -173,9 +173,14 @@
                 "theme": "Science"
             },
             {
-                "date": "1948-04-09",
-                "event": "The birth of Patty Pravo, the iconic Italian singer. Her artistic output reached the United Kingdom through vibrant European music exchanges during the 1960s and 70s. Her unique style and vocal range contributed to the diverse musical landscape of the time, influencing various pop and avant-garde movements across Britain.",
-                "theme": "Culture"
+                "date": "1413-04-09",
+                "event": "<b>Coronation of Henry V</b> - Following the death of his father, Henry V was crowned King of England at Westminster Abbey during a fierce snowstorm. His reign became defined by military success in France, most notably at the Battle of Agincourt, which cemented his reputation as one of the great warrior kings of the medieval era.",
+                "theme": "History"
+            },
+            {
+                "date": "1940-04-09",
+                "event": "Operation Weserübung - Nazi Germany launched a surprise invasion of Denmark and Norway, claiming the neutral nations required protection from Allied interference. Denmark surrendered within hours, while Norway resisted for two months. The occupation secured vital iron ore shipments from Sweden and provided the German navy with strategic bases along the Atlantic coast.",
+                "theme": "History"
             },
             {
                 "date": "2005-04-09",
