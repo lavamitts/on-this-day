@@ -583,19 +583,19 @@
         "date": "30-04",
         "events": [
             {
-                "title": "International Jazz Day",
-                "summary": "A UN-recognised day to highlight jazz and its diplomatic role of uniting people in all corners of the globe. UK jazz clubs and festivals host special performances, celebrating the genre's history and its continuing influence on the vibrant British contemporary music scene.",
-                "url": "https://jazzday.com/"
+                "title": "International Day to End Corporal Punishment of Children",
+                "summary": "An annual day for organisations and individuals across the globe to advocate for the legal protection of children from all forms of physical punishment. It highlights the detrimental impact of corporal punishment on a child's health and development, calling for a total prohibition in all settings, including at home and in schools.",
+                "url": "https://endcorporalpunishment.org/"
             },
             {
-                "title": "National Honesty Day",
-                "summary": "Encouraging individuals to lead more truthful lives and to reflect on the importance of honesty in personal and professional relationships. In the UK, it serves as a lighthearted counterpoint to April Fools' Day, ending the month on a sincere and transparent note.",
-                "url": "https://www.daysoftheyear.com/days/honesty-day/"
+                "title": "World Mobility and Accessibility Day",
+                "summary": "A day dedicated to raising awareness about the challenges faced by individuals with limited mobility in both public and private spaces. The event emphasises the importance of inclusive urban planning and the distinction between mobility (physical movement) and accessibility (the ease with which people can reach essential services).",
+                "url": "https://www.who.int/teams/social-determinants-of-health/violence-prevention/corporal-punishment"
             },
             {
-                "title": "National Bubble Tea Day",
-                "summary": "Celebrating the popular Taiwanese tea-based drink. In recent years, bubble tea shops have become a staple of UK high streets. This day encourages fans to enjoy their favorite milk teas and fruit teas with chewy tapioca pearls or popping boba.",
-                "url": "https://www.daysoftheyear.com/days/bubble-tea-day/"
+                "title": "World Bipolar Day",
+                "summary": "Observed on the birthday of Vincent van Gogh, who was posthumously diagnosed with bipolar disorder. This day aims to raise global awareness of bipolar conditions and eliminate the social stigma surrounding them. It encourages international collaboration to improve sensitivity, research, and support for those living with the condition.",
+                "url": "https://www.worldbipolarday.org/"
             }
         ]
     }
