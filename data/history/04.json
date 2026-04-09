@@ -223,9 +223,19 @@
                 "theme": "Culture"
             },
             {
-                "date": "1996-04-11",
-                "event": "The birth of Dele Alli, the talented English international footballer. Emerging as a rising star at Milton Keynes Dons before moving to Tottenham Hotspur, Alli became known for his creativity and goal-scoring ability from midfield, representing a new generation of British sporting talent in the Premier League and beyond.",
-                "theme": "Sport"
+                "date": "1241-04-11",
+                "event": "The Battle of Mohi took place, where the Mongol Empire, led by Batu Khan and Subutai, decisively defeated King Bela IV and the Kingdom of Hungary. This victory allowed the Mongol forces to devastate the Hungarian countryside and remains one of the most significant engagements of the Mongol invasion of Europe.",
+                "theme": "History"
+            },
+            {
+                "date": "1951-04-11",
+                "event": "President Harry S. Truman relieved General Douglas MacArthur of his commands in the Far East. This high-profile dismissal followed public disagreements regarding the conduct of the Korean War and underscored the principle of civilian control over the military in the United States.",
+                "theme": "Politics"
+            },
+            {
+                "date": "1970-04-11",
+                "event": "The Apollo 13 mission was launched from Kennedy Space Centre, intended to be the third lunar landing. However, the mission became a celebrated feat of survival and engineering ingenuity after an oxygen tank explosion forced the crew to abandon the landing and perform a perilous journey back to Earth.",
+                "theme": "Science"
             }
         ]
     },
