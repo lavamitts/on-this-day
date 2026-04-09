@@ -71,13 +71,6 @@ function renderLayoutShell(date) {
                 </div>
             </div>
 
-            <!--
-            <div class="otd-date-selector" style="text-align: center; margin-bottom: 1rem;">
-                <input type="date" id="otd-date-input" value="${dateValue}">
-                <button id="otd-go">Go</button>
-            </div>
-            //-->
-
             <hr />
             
             <h2 class="dark-blue">Historical events on ${dateHeading}</h2>
@@ -90,9 +83,9 @@ function renderLayoutShell(date) {
 
             <hr />
             <div class="otd-nav" style="text-align: center;">
-                <button id="otd-prev-bottom">Previous</button>
+                <button id="otd-prev-bottom">&lt;&lt;</button>
                 <button id="otd-today-bottom">Today</button>
-                <button id="otd-next-bottom">Next</button>
+                <button id="otd-next-bottom">&gt;&gt;</button>
             </div>
         </div>
     `;
